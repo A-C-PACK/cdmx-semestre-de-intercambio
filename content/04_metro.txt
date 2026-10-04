@@ -3,7 +3,7 @@
 @short Metro
 @zone Coyoacán · línea 3
 @geo 19.3543 -99.1751 coyoacan l
-@focus 0.45
+@focus 0.32
 @route La estación Viveros-Derechos Humanos de la línea 3, a quince minutos a pie de la casa.
 @blurb El metro mueve a millones de personas cada día, y cuesta cinco pesos. Hoy vas solo o sola al centro por primera vez.
 @goal Comprar y recargar la tarjeta, preguntar por la ruta y el transbordo, y entender los avisos del andén.

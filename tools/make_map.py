@@ -53,7 +53,7 @@ VIEWS = {
     "coyoacan": {"lat0": 19.3300, "lon0": -99.1740, "scale": 100.0},
 }
 # The close-ups, framed on the city view: (view, name shown on the frame, caption side)
-ZOOMS = [("centre", "Centro Histórico", "bottom"), ("coyoacan", "Coyoacán y CU", "bottom")]
+ZOOMS = [("centre", "Centro", "below_left"), ("coyoacan", "Coyoacán y CU", "bottom")]
 
 SHORT = [("Avenida ", "Av. "), ("Calzada ", "Calz. "), ("Calle ", "C. "), ("Paseo ", "Pº "),
          ("Boulevard ", "Blvd. "), ("Circuito ", "Cto. "), ("Anillo Periférico", "Periférico")]
@@ -466,7 +466,9 @@ def make_pins():
             continue
         img = Image.open(src).convert("RGB")
         side = img.width
-        top = int(img.height * 0.14)
+        # a square around the place's @focus line (where the faces are), inside the picture
+        top = int(img.height * float(loc.get("focus", 0.4)) - side / 2)
+        top = max(0, min(img.height - side, top))
         crop = img.crop((0, top, side, top + side)).resize((size * 2, size * 2), Image.LANCZOS)
         mask = Image.new("L", (size * 2, size * 2), 0)
         ImageDraw.Draw(mask).ellipse((2, 2, size * 2 - 3, size * 2 - 3), fill=255)

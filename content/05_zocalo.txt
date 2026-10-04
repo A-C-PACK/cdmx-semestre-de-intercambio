@@ -3,7 +3,7 @@
 @short Zócalo
 @zone Centro Histórico
 @geo 19.43265 -99.13319 centre b
-@focus 0.42
+@focus 0.66
 @route Metro Zócalo/Tenochtitlan, línea 2. La calle Madero sale de la plaza hacia el poniente.
 @blurb La plaza principal del país, una de las más grandes del mundo. Desde aquí, una calle peatonal lleva hasta Bellas Artes.
 @goal Pedir direcciones y entenderlas, y comer una comida corrida en una fonda.

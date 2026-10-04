@@ -3,7 +3,7 @@
 @name Tlatelolco
 @era La conquista · 1521 y 1968
 @geo 19.45174 -99.13619 city r
-@focus 0.45
+@focus 0.40
 @route Plaza de las Tres Culturas, dos kilómetros al norte del Zócalo por el Eje Central. Metro Tlatelolco, línea 3.
 @blurb La ciudad gemela de Tenochtitlan, con el mercado más grande de América. Aquí terminó el imperio mexica en 1521, y aquí, en 1968, el ejército disparó contra estudiantes.
 @visit La zona arqueológica, el templo de Santiago (1610), el antiguo Colegio de Santa Cruz y el memorial del 68 en el Centro Cultural Universitario Tlatelolco.

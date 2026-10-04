@@ -4,7 +4,7 @@
 @short Catedral
 @era Virreinato · 1573–1813
 @geo 19.43439 -99.13309 centre l
-@focus 0.45
+@focus 0.40
 @route En el lado norte del Zócalo. Metro Zócalo/Tenochtitlan, línea 2.
 @blurb La catedral más grande de América tardó casi dos siglos y medio en construirse, sobre el suelo blando de un lago que ya no existe.
 @visit La catedral y el Sagrario, el Altar de los Reyes, las campanas (con visita guiada) y el péndulo que muestra cómo se inclina el edificio.

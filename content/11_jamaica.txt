@@ -3,7 +3,7 @@
 @short Jamaica
 @zone Venustiano Carranza · Día de Muertos
 @geo 19.4086 -99.1227 city r
-@focus 0.42
+@focus 0.17
 @route Metro Jamaica, líneas 4 y 9. El mercado de flores más grande de la ciudad está junto a la estación.
 @blurb Finales de octubre: todo el mercado se vuelve naranja. Con Rocío compras flores para la ofrenda de Día de Muertos y luego la ponen en casa.
 @goal Comprar flores por manojo, preguntar para qué sirve cada cosa de la ofrenda y hablar con respeto de alguien que murió.

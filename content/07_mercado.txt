@@ -3,7 +3,7 @@
 @short Mercado
 @zone Coyoacán · centro del barrio
 @geo 19.3528 -99.1615 coyoacan r
-@focus 0.40
+@focus 0.22
 @route Calle Ignacio Allende, a tres cuadras del Jardín Hidalgo, en el centro de Coyoacán.
 @blurb Un mercado de barrio de toda la vida: fruta, verdura, flores, piñatas… y unas tostadas famosas en toda la ciudad.
 @goal Comprar fruta por kilos, preguntar precios, aceptar una probadita y pedir comida en un puesto lleno de gente.

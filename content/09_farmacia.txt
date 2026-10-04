@@ -3,7 +3,7 @@
 @short Farmacia
 @zone Coyoacán · Miguel Ángel de Quevedo
 @geo 19.3445 -99.1760 coyoacan b
-@focus 0.40
+@focus 0.22
 @route En la avenida Miguel Ángel de Quevedo, a diez minutos de la casa.
 @blurb Algo te cayó mal. Muchas farmacias tienen al lado un consultorio con un médico que atiende sin cita y cobra poco.
 @goal Explicar qué te pasa y desde cuándo, entender las preguntas del médico y las instrucciones de la receta.

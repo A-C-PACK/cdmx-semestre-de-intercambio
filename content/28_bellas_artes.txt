@@ -4,7 +4,7 @@
 @short Bellas Artes
 @era Porfiriato y Revolución · 1904–1934
 @geo 19.43547 -99.14128 centre l
-@focus 0.45
+@focus 0.40
 @route En la esquina de la Alameda Central con el Eje Central. Metro Bellas Artes, líneas 2 y 8.
 @blurb Un palacio de mármol que empezó como el gran proyecto de un dictador, se quedó a medias con la Revolución y se terminó como el templo de los muralistas.
 @visit Los murales de Rivera, Orozco, Siqueiros y Tamayo, la sala de espectáculos con su telón de cristal y, los domingos, el Ballet Folklórico.

@@ -156,8 +156,11 @@ func _draw_overlay() -> void:
 			var caption := "%s · %d %s  →" % [z.name, inside, "lugar" if inside == 1 else "lugares"]
 			var cw := f.get_string_size(caption, HORIZONTAL_ALIGNMENT_LEFT, -1, 13).x
 			var cat := Vector2(float(r[0]) + float(r[2]) / 2.0 - cw / 2.0, float(r[1]) - 8.0)
-			if str(z.get("caption", "top")) == "bottom":
-				cat.y = float(r[1]) + float(r[3]) + 20.0
+			match str(z.get("caption", "top")):
+				"bottom":
+					cat.y = float(r[1]) + float(r[3]) + 20.0
+				"below_left":    # under the frame, starting at its left edge
+					cat = Vector2(float(r[0]) + 6.0, float(r[1]) + float(r[3]) + 20.0)
 			cat.x = clamp(cat.x, 10.0, size.x - cw - 10.0)
 			_overlay.draw_rect(Rect2(cat + Vector2(-6, -15), Vector2(cw + 12, 21)), UI.INK)
 			_overlay.draw_string(f, cat, caption, HORIZONTAL_ALIGNMENT_LEFT, -1, 13, Color.WHITE)

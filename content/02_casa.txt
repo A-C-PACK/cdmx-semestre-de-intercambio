@@ -3,7 +3,7 @@
 @short La casa
 @zone Coyoacán · colonia Del Carmen
 @geo 19.3470 -99.1705 coyoacan b
-@focus 0.45
+@focus 0.32
 @route Una calle tranquila de Coyoacán, a diez minutos a pie del centro del barrio.
 @blurb Vas a vivir cuatro meses con la familia Hernández: Rocío, Arturo y su hijo Diego, que estudia en la UNAM.
 @goal Presentarte, entender las reglas de la casa y comer con la familia sin meter la pata.

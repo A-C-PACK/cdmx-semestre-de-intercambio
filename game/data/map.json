@@ -25,8 +25,8 @@
  "zooms": [
   {
    "view": "centre",
-   "name": "Centro Hist\u00f3rico",
-   "caption": "bottom",
+   "name": "Centro",
+   "caption": "below_left",
    "rect": [
     403.8502674908035,
     143.73347199999066,

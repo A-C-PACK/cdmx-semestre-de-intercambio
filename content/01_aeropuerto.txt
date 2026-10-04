@@ -2,7 +2,7 @@
 @name Aeropuerto
 @zone Llegada · AICM
 @geo 19.4353 -99.0823 city b
-@focus 0.40
+@focus 0.33
 @route Tu avión aterriza en el Aeropuerto Internacional Benito Juárez (AICM), en el oriente de la ciudad.
 @blurb Acabas de aterrizar. Tu familia anfitriona vive en Coyoacán, al sur, y tienes que llegar con tus maletas.
 @goal Comprar un boleto de taxi autorizado, decir adónde vas, entender el precio y platicar con el taxista.

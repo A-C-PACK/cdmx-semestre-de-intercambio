@@ -3,7 +3,7 @@
 @short Xochimilco
 @zone Xochimilco · embarcadero Nuevo Nativitas
 @geo 19.2521 -99.0935 city l
-@focus 0.45
+@focus 0.19
 @route Tren Ligero desde Tasqueña hasta la estación Xochimilco, y de ahí un taxi corto o veinte minutos a pie.
 @blurb Los canales de Xochimilco son lo que queda del gran lago del valle. Un sábado en trajinera es un clásico para los estudiantes.
 @goal Rentar una trajinera, entender la tarifa y calcular cuánto paga cada uno, y comprar comida desde el agua.

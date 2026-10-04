@@ -4,7 +4,7 @@
 @short Chapultepec
 @era Siglo XIX · 1847 y 1864
 @geo 19.42086 -99.18082 city l
-@focus 0.45
+@focus 0.62
 @route En lo alto del cerro, dentro del Bosque de Chapultepec. Metro Chapultepec, línea 1, y diez minutos de subida a pie.
 @blurb El único castillo de América que fue residencia de un emperador europeo. Antes fue colegio militar, y en 1847 escenario de una batalla contra el ejército de Estados Unidos.
 @visit El Museo Nacional de Historia, las habitaciones de Maximiliano y Carlota, los murales del castillo y la vista del Paseo de la Reforma desde la terraza.

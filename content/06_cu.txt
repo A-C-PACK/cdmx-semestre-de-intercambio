@@ -3,7 +3,7 @@
 @short UNAM · CEPE
 @zone UNAM · Coyoacán
 @geo 19.3362 -99.1872 coyoacan l
-@focus 0.42
+@focus 0.40
 @route Metro Copilco o Universidad, línea 3. Dentro del campus, el Pumabús es gratis.
 @blurb El campus principal de la UNAM, la universidad más grande del país. Tus clases son en el CEPE, el Centro de Enseñanza para Extranjeros.
 @goal Inscribirte en la oficina, entender horarios y fechas, y conocer el campus con tu compañera de intercambio.

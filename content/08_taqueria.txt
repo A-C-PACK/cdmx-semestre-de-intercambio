@@ -3,7 +3,7 @@
 @short Taquería
 @zone Roma Norte · de noche
 @geo 19.4180 -99.1610 city t
-@focus 0.42
+@focus 0.15
 @route Colonia Roma Norte, cerca de la avenida Álvaro Obregón. Metrobús línea 1, estación Álvaro Obregón.
 @blurb Viernes en la noche con Diego y sus amigos: tacos al pastor de pie, junto al trompo, y después volver a casa con seguridad.
 @goal Pedir tacos como en México, pagar lo que comiste, entender algo de slang y pedir un taxi de forma segura.

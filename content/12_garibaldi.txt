@@ -3,7 +3,7 @@
 @short Garibaldi
 @zone Centro Histórico · la despedida
 @geo 19.44073 -99.13907 centre r
-@focus 0.42
+@focus 0.36
 @route Metro Garibaldi-Lagunilla, líneas 8 y B, al norte de Bellas Artes por el Eje Central.
 @blurb La plaza de los mariachis. El semestre se acaba y la familia Hernández te lleva a despedirte de la ciudad con música.
 @goal Contratar una canción, dedicarla, brindar y despedirte de tu familia anfitriona.

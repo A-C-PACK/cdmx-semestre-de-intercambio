@@ -3,7 +3,7 @@
 @short La tiendita
 @zone Coyoacán · en la esquina
 @geo 19.3482 -99.1638 coyoacan r
-@focus 0.45
+@focus 0.28
 @route En la esquina de tu calle, a dos cuadras de la casa.
 @blurb La tienda de abarrotes del barrio: refrescos, pan, tortillas, recargas para el celular y un dueño que lo sabe todo.
 @goal Comprar un chip y una recarga, pagar con un billete grande y pedir cosas como un vecino más.

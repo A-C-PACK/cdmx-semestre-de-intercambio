@@ -3,7 +3,7 @@
 @name La Casa Azul
 @era 1907–1954
 @geo 19.3551 -99.1625 coyoacan t
-@focus 0.45
+@focus 0.50
 @route Calle Londres 247, en Coyoacán, a cuatro cuadras del Jardín Centenario. La casa de Trotsky está a unas cinco cuadras, en la avenida Río Churubusco.
 @blurb La casa donde nació y murió Frida Kahlo, hoy uno de los museos más visitados de México. A unas cuadras, la casa donde fue asesinado León Trotsky.
 @visit El Museo Frida Kahlo (es mejor comprar los boletos con días de anticipación) y el Museo Casa de León Trotsky, con su jardín y su tumba.

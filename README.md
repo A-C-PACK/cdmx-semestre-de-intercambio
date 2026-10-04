@@ -47,6 +47,9 @@ Same pipeline as Valencia (see `tools/build_content.py` for the script format):
     python -X utf8 tools/web_build.py         # web version into web/
     python -X utf8 tools/web_deploy.py        # publish web/ to GitHub Pages
     python -X utf8 tools/status.py            # progress bars
+    python -X utf8 tools/qa_audio.py          # transcribe every line on the Spark, flag garbled takes
+    python -X utf8 tools/pitch_check.py       # flag takes whose voice drifted from the character's
+    python -X utf8 tools/recast.py WHO        # audition new voices for a character (--pick to lock one)
 
 `tools/fetch_osm.py` downloads the map data once. Machine-specific paths and hosts go in
 `tools/local.json` (not in git; copy `tools/local.example.json`).

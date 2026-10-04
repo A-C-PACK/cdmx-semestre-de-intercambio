@@ -4,7 +4,7 @@
 @short CU
 @era De 1551 a hoy · campus de 1952
 @geo 19.3334 -99.1873 coyoacan b
-@focus 0.45
+@focus 0.50
 @route Avenida Insurgentes Sur, en el sur de la ciudad. Metro Copilco o Universidad, línea 3, y el Pumabús dentro del campus.
 @blurb Tu propio campus: una ciudad entera construida sobre la lava en solo tres años, con murales en las fachadas y un estadio olímpico. Patrimonio de la humanidad desde 2007.
 @visit La Biblioteca Central, la Rectoría con el mural de Siqueiros, el Estadio Olímpico Universitario, el MUAC y el Espacio Escultórico en la reserva del Pedregal.
