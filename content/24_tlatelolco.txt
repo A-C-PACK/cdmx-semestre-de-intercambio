@@ -1,0 +1,100 @@
+@part 2
+@id tlatelolco
+@name Tlatelolco
+@era La conquista · 1521 y 1968
+@geo 19.45174 -99.13619 city r
+@focus 0.45
+@route Plaza de las Tres Culturas, dos kilómetros al norte del Zócalo por el Eje Central. Metro Tlatelolco, línea 3.
+@blurb La ciudad gemela de Tenochtitlan, con el mercado más grande de América. Aquí terminó el imperio mexica en 1521, y aquí, en 1968, el ejército disparó contra estudiantes.
+@visit La zona arqueológica, el templo de Santiago (1610), el antiguo Colegio de Santa Cruz y el memorial del 68 en el Centro Cultural Universitario Tlatelolco.
+
+== caida | La última defensa ==
+N: Llegan en metro a una plaza enorme rodeada de edificios de departamentos de los años sesenta. En medio hay ruinas prehispánicas y, al lado, una iglesia de piedra gris. El profesor los lleva hasta una placa grande de mármol.
+ERNESTO: Esta plaza se llama de las Tres Culturas: la prehispánica, la colonial y la moderna, aquí juntas. Pero antes de hablar de culturas, hay que hablar de una batalla. Lean la placa y luego el texto.
+C: No entiendes una palabra de la placa: «mestizo». ¿Qué preguntas?
+  * Perdón, ¿qué {{quiere decir|means}} «mestizo»? || La pregunta perfecta.
+  ~ ¿Mestizo? || Repetir la palabra con tono de pregunta funciona.
+  - ¿Qué es la significación de «mestizo»? || Muy forzado. Di «¿qué quiere decir…?» o «¿qué significa…?».
+ERNESTO*: Es una persona de origen indígena y europeo a la vez. Pero aquí la palabra significa algo más: un pueblo nuevo. Ahora lean, y van a entender por qué la placa lo dice aquí.
+H: La última defensa
+R: Tenochtitlan no estaba sola en su isla. Al norte, separada por un canal, estaba Tlatelolco, fundada por otro grupo mexica poco después. Durante casi un siglo fueron ciudades hermanas y rivales, hasta que en 1473 Tenochtitlan la conquistó. Aun así, Tlatelolco conservó lo que la hacía famosa: su mercado. Hernán Cortés escribió que cada día se reunían ahí más de sesenta mil personas a comprar y vender de todo: maíz, oro, telas, plumas, cerámica, esclavos, hierbas medicinales. Ninguno de los españoles había visto nada parecido en Europa.
+R: Los españoles llegaron a Tenochtitlan en noviembre de 1519 como invitados del emperador Moctezuma. Meses después, la relación se rompió. Moctezuma murió en circunstancias que todavía se discuten, y los mexicas expulsaron a los españoles en junio de 1520. Pero Cortés regresó con un ejército de decenas de miles de aliados indígenas, sobre todo tlaxcaltecas, enemigos de los mexicas desde hacía mucho. Además, una epidemia de viruela, una enfermedad desconocida en América, había matado a miles de habitantes de la ciudad, incluido el nuevo emperador, Cuitláhuac.
+R: En mayo de 1521 comenzó el {{sitio|siege}}. Los españoles y sus aliados cortaron el acueducto de Chapultepec y rodearon la isla con barcos. Durante casi tres meses, los mexicas resistieron casa por casa, sin agua dulce y con muy poca comida. Poco a poco se retiraron hacia el norte, hasta Tlatelolco, que se convirtió en el último refugio. Ahí, el 13 de agosto de 1521, fue capturado el joven emperador Cuauhtémoc. Con él cayó el imperio.
+R: La placa de la plaza resume esa fecha con unas palabras famosas: «No fue triunfo ni derrota: fue el doloroso nacimiento del pueblo mestizo que es el México de hoy». Es una frase {{discutida|debated, disputed}}: hay quien piensa que suaviza la violencia de la conquista. Pero explica bien cómo muchos mexicanos entienden su historia.
+R: Pocos años después, sobre las ruinas, los frailes franciscanos fundaron el Colegio de Santa Cruz de Tlatelolco, la primera escuela de estudios superiores de América. Ahí, jóvenes indígenas aprendieron latín, y fray Bernardino de Sahagún trabajó con ellos y con ancianos nahuas para escribir, en náhuatl y en español, una enorme obra sobre la cultura que acababa de desaparecer.
+Q: ¿Por qué era famoso Tlatelolco antes de la conquista?
+  * Por su enorme mercado. || Según Cortés, más de sesenta mil personas al día.
+  - Por ser la capital del imperio. || La capital era Tenochtitlan.
+  - Por su universidad. || El colegio llegó después de la conquista.
+Q: ¿Qué ayudó a Cortés a ganar la guerra, según el texto?
+  * Los aliados indígenas y la epidemia de viruela. || Los tlaxcaltecas y la enfermedad fueron decisivos.
+  - Que los mexicas no sabían luchar. || Resistieron casi tres meses casa por casa.
+  - Que Moctezuma le regaló la ciudad. || No: hubo una guerra.
+Q: ¿Por qué Tlatelolco fue el último refugio?
+  * Porque los mexicas se retiraron hacia el norte de la isla durante el sitio. || Tlatelolco estaba al norte de Tenochtitlan.
+  - Porque tenía el mercado más grande. || El mercado no es la razón.
+  - Porque estaba lejos del lago. || Estaba en la misma isla.
+Q: Según el texto, ¿por qué es «discutida» la frase de la placa?
+  * Porque algunos piensan que suaviza la violencia de la conquista. || Llamarla «nacimiento» puede ocultar el dolor y las muertes.
+  - Porque la fecha es incorrecta. || La fecha no se discute.
+  - Porque está escrita en náhuatl. || Está en español.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Tenochtitlan conquista a su ciudad hermana, Tlatelolco.
+  = Los españoles llegan como invitados de Moctezuma.
+  = Los mexicas expulsan a los españoles.
+  = Comienza el sitio de Tenochtitlan.
+  = Cuauhtémoc es capturado en Tlatelolco.
+  = Los franciscanos fundan el Colegio de Santa Cruz.
+  ! De 1473 a la década de 1530: en Tlatelolco, el final de un mundo y el comienzo de otro.
+K: «No fue… ni…» || «No fue triunfo ni derrota.» Para negar dos cosas a la vez se usa «no… ni…» o «ni… ni…»: «no tengo hambre ni sed», «ni Cortés ni Cuauhtémoc».
+ERNESTO: Duro, ¿no? Quinientos años y todavía se discute. Ahora díganme: ¿quién fue el último emperador mexica?
+T: Contesta: el último emperador fue Cuauhtémoc.
+  = Fue Cuauhtémoc.
+  = Cuauhtémoc.
+  = El último emperador fue Cuauhtémoc.
+  = Fue Cuauhtémoc, profesor.
+  = El último fue Cuauhtémoc.
+  ! «Fue Cuauhtémoc.» Para personas del pasado, pretérito: «fue».
+ERNESTO: Exacto. Por eso en México hay calles, colonias y hasta una alcaldía con su nombre. Ahora vamos a la otra historia de esta plaza.
+
+== sesentayocho | Dos de octubre ==
+N: El profesor se detiene frente a una estela de piedra con una lista de nombres. Valeria, que vino con el grupo, se queda callada.
+VALERIA: Aquí todos los años, el dos de octubre, hacemos una marcha desde la universidad. Mis papás venían, y sus papás también. Lean, por favor. Es importante.
+H: Dos de octubre
+R: En los años sesenta, México vivía lo que muchos llamaban el «milagro mexicano»: la economía crecía, las ciudades se modernizaban y el país se preparaba para algo histórico: los Juegos Olímpicos de 1968, los primeros en América Latina. Aquí, en Tlatelolco, el gobierno había construido un enorme conjunto de departamentos modernos, diseñado por el arquitecto Mario Pani, como símbolo del progreso.
+R: Pero el país tenía también otra cara. Desde hacía décadas gobernaba el mismo partido, y no se toleraban bien las críticas. En el verano de 1968, después de un conflicto entre estudiantes que la policía reprimió con mucha violencia, nació un gran movimiento estudiantil. Estudiantes de la UNAM, del Politécnico y de otras escuelas organizaron marchas enormes. Pedían libertad para los presos políticos y el fin de la represión. En septiembre, el ejército ocupó Ciudad Universitaria.
+R: El 2 de octubre de 1968, diez días antes de la inauguración de los Juegos, miles de personas se reunieron en la Plaza de las Tres Culturas para un mitin. Al caer la tarde, aparecieron luces de bengala en el cielo, y el ejército y un grupo armado vestido de civil abrieron fuego contra la multitud. Muchas personas murieron; cientos fueron detenidas. El gobierno habló de unas pocas decenas de muertos y culpó a los estudiantes. Hasta hoy, no se conoce la cifra exacta: las investigaciones posteriores hablan de varias decenas y algunos testimonios, de más de trescientos.
+R: Los Juegos Olímpicos se inauguraron el 12 de octubre como si nada hubiera pasado. Durante años, el tema casi no se podía mencionar en público. Pero la memoria no desapareció. Escritores como Elena Poniatowska recogieron testimonios de sobrevivientes, y con el tiempo se abrieron archivos y se reconoció oficialmente la responsabilidad del Estado.
+R: Hoy, la antigua torre de la Secretaría de Relaciones Exteriores, junto a la plaza, es un centro cultural de la UNAM con un memorial dedicado al movimiento. Y cada 2 de octubre, miles de personas marchan por la ciudad con la misma frase: «¡Dos de octubre no se olvida!».
+Q: ¿Por qué 1968 era un año especial para México antes del dos de octubre?
+  * Porque el país iba a celebrar los Juegos Olímpicos. || Los primeros en América Latina.
+  - Porque terminaba la Revolución. || La Revolución fue a principios de siglo.
+  - Porque se fundó la UNAM. || La UNAM es mucho más antigua.
+Q: ¿Qué pedían los estudiantes?
+  * Libertad para los presos políticos y el fin de la represión. || Eran demandas de libertades democráticas.
+  - Cancelar los Juegos Olímpicos. || El texto no dice eso.
+  - Clases gratis en la universidad. || No es lo que dice el texto.
+Q: ¿Qué se sabe hoy sobre el número de muertos?
+  * Que no se conoce la cifra exacta. || Las estimaciones van de varias decenas a más de trescientos.
+  - Que murieron exactamente treinta personas. || Eso se parece a la versión del gobierno de entonces.
+  - Que no murió nadie. || El texto dice que muchas personas murieron.
+Q: En el texto, «como si nada hubiera pasado» significa que…
+  * los Juegos se inauguraron con normalidad, ignorando la masacre. || «Como si» + subjuntivo: algo que se finge.
+  - los Juegos se cancelaron. || Se inauguraron el 12 de octubre.
+  - nadie fue a los Juegos. || No dice eso.
+K: «Como si» + subjuntivo || «Como si nada hubiera pasado.» Después de «como si» siempre va el imperfecto o el pluscuamperfecto de subjuntivo: «habla como si fuera mexicano», «actúan como si no lo supieran».
+VALERIA: Gracias por leerlo con calma. Para mucha gente en México esto todavía duele.
+C: Quieres responderle a Valeria con respeto. ¿Qué dices?
+  * Gracias a ti por {{traernos aquí|bringing us here}}. Es una historia muy importante. || Agradeces y reconoces la importancia del lugar.
+  ~ Qué triste. || Sincero, aunque corto.
+  - Bueno, ya pasó hace mucho. || Puede sonar a que el tema no importa, y para muchas familias todavía importa.
+VALERIA: ¿Quieres venir a la marcha conmigo el próximo dos de octubre? Es tranquila, va mucha gente de la UNAM.
+T: Dile que sí, que te gustaría ir con ella.
+  = Sí, me gustaría ir contigo.
+  = Sí, me gustaría.
+  = Sí, me gustaría mucho ir contigo.
+  = Sí, me encantaría ir contigo.
+  = Sí, quiero ir contigo.
+  = Me gustaría ir contigo.
+  ! «Sí, me gustaría ir contigo.» «Con» + «ti» = «contigo».
+VALERIA: Va. Te aviso. Y te presto el libro de Poniatowska, «La noche de Tlatelolco». Es durísimo, pero tienes que leerlo.

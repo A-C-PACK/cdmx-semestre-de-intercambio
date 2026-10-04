@@ -1,0 +1,99 @@
+@id aeropuerto
+@name Aeropuerto
+@zone Llegada · AICM
+@geo 19.4353 -99.0823 city b
+@focus 0.40
+@route Tu avión aterriza en el Aeropuerto Internacional Benito Juárez (AICM), en el oriente de la ciudad.
+@blurb Acabas de aterrizar. Tu familia anfitriona vive en Coyoacán, al sur, y tienes que llegar con tus maletas.
+@goal Comprar un boleto de taxi autorizado, decir adónde vas, entender el precio y platicar con el taxista.
+
+== taquilla | El taxi autorizado ==
+N: Sales de la zona de llegadas con dos maletas. Hay mucha gente, letreros por todas partes y varias personas te ofrecen taxi. Recuerdas el consejo del programa de intercambio: comprar el boleto en una taquilla oficial, dentro del aeropuerto.
+KARLA: ¡Buenas tardes! ¿Taxi? Aquí es la taquilla de taxis autorizados. ¿{{A qué colonia va|which neighbourhood are you going to? (usted)}}?
+C: Vas a la casa de tu familia, en la colonia Del Carmen, en Coyoacán. ¿Qué dices?
+  * Buenas tardes. Voy a Coyoacán, {{a la colonia|to the neighbourhood}} Del Carmen, por favor. || Saludo, destino y «por favor». En México, las direcciones se dan siempre con la colonia.
+  ~ Coyoacán. || Se entiende, pero sin saludo suena un poco seco. En México la cortesía cuenta mucho.
+  - Estoy en Coyoacán. || «Estoy» dice dónde estás ahora. Para el destino: «voy a…».
+KARLA*: Coyoacán es zona cinco. El taxi sedán son seiscientos ochenta pesos, y la camioneta, si trae mucho equipaje, ochocientos noventa. Se paga aquí, por adelantado.
+Q: ¿Cuánto cuesta el taxi normal hasta Coyoacán?
+  * Seiscientos ochenta pesos. || Es el precio del sedán. La camioneta es más cara.
+  - Ochocientos noventa pesos. || Ese es el precio de la camioneta, para mucho equipaje.
+  - Cinco pesos. || «Zona cinco» es la zona de la ciudad, no el precio.
+T: Tienes solo dos maletas. Pide el taxi normal, el sedán.
+  = El sedán, por favor.
+  = Un sedán, por favor.
+  = El taxi sedán, por favor.
+  = El sedán.
+  = Quiero el sedán, por favor.
+  = Me da un sedán, por favor.
+  ! «El sedán, por favor.»
+KARLA: Muy bien. ¿Va a pagar {{con tarjeta o en efectivo|by card or in cash}}?
+C: Todavía no tienes pesos. ¿Qué respondes?
+  * Con tarjeta, por favor. || Perfecto. En la taquilla aceptan tarjeta; en muchos lugares pequeños, no.
+  ~ Tarjeta. || Correcto, aunque una frase completa suena más amable.
+  - Por tarjeta, por favor. || En español se paga «con tarjeta» o «en efectivo».
+KARLA*: Listo. Aquí está su boleto. Salga por la puerta seis y {{enséñele el boleto|show him/her the ticket}} al chofer. No le tiene que pagar nada más, ¿eh? Solo la propina, si usted quiere.
+Q: ¿Qué tienes que hacer con el boleto?
+  * Enseñárselo al chofer en la puerta seis. || «Salga por la puerta seis y enséñele el boleto al chofer».
+  - Pagarle otra vez al chofer. || No: el viaje ya está pagado. Solo la propina es opcional.
+  - Guardarlo para el regreso. || El boleto es para este viaje.
+T: Dale las gracias a Karla.
+  = Muchas gracias.
+  = Gracias.
+  = Muchas gracias, muy amable.
+  = Gracias, muy amable.
+  = Muchísimas gracias.
+  ! «Muchas gracias» o, más amable, «muy amable».
+KARLA: A usted. ¡{{Que disfrute|enjoy (I hope you enjoy; que + subjunctive)}} México, y que le vaya bien!
+K: ¿Taxi en la calle o taxi autorizado? || En el aeropuerto, compra el boleto en una taquilla oficial dentro de la terminal: el precio es fijo y depende de la zona de la ciudad. Los precios cambian cada cierto tiempo, así que míralos en la pantalla de la taquilla. En la ciudad, mucha gente usa taxis «de sitio» (de una base fija) o aplicaciones, y no para un taxi cualquiera en la calle, sobre todo de noche.
+
+== camino | Por el Viaducto ==
+N: El chofer, un señor de unos sesenta y cinco años, mete tus maletas en la cajuela. El taxi sale del aeropuerto y entra en una avenida enorme, llena de coches.
+CHUY: Ándele, súbase. Yo me llamo Jesús, pero todos me dicen don Chuy. ¿A Coyoacán, verdad? Déjeme ver el boleto… Sí, colonia Del Carmen. {{Ahorita llegamos|we'll be there soon (ahorita = right now / in a little while)}}.
+Q: ¿Cómo le dicen al chofer?
+  * Don Chuy. || «Chuy» es el diminutivo familiar de Jesús, y «don» es una forma de respeto.
+  - Don Jesús. || Se llama Jesús, pero «todos le dicen» de otra forma.
+  - Ahorita. || «Ahorita» quiere decir «muy pronto», no es un nombre.
+CHUY*: Bueno, «ahorita»… con este tráfico, a lo mejor una hora. A esta hora todo el mundo sale de trabajar. Aquí en la ciudad {{el tráfico está pesado|the traffic is heavy}} casi siempre.
+Q: Según don Chuy, ¿cuánto van a tardar?
+  * Más o menos una hora. || «Ahorita» en México puede ser muy flexible.
+  - Cinco minutos. || Eso sería «ahorita» en sentido literal, pero él mismo se corrige.
+  - Media hora exacta. || Dice «a lo mejor una hora», por el tráfico.
+CHUY: ¿Y usted de dónde viene? ¿Es su primera vez en México?
+C: Quieres decir que es tu primera vez y que vienes a estudiar. ¿Qué dices?
+  * Sí, es mi primera vez. {{Vengo a estudiar|I'm coming to study}} un semestre en la UNAM. || Perfecto: claro y completo. «Venir a» + infinitivo explica el motivo del viaje.
+  ~ Sí, primera vez. Estudiar en la UNAM. || Se entiende, pero «estudiar» solo, sin verbo conjugado, suena incompleto.
+  - Sí, es mi primera vez. Soy estudiando en la UNAM. || «Soy estudiando» no existe. Usa «estoy estudiando» o, mejor aquí, «vengo a estudiar».
+CHUY: ¡Ah, la UNAM! La máxima casa de estudios. Mi hija estudió ahí, en Ciudad Universitaria. Le va a encantar. ¿Y se va a quedar con una familia?
+T: Responde que sí: vas a vivir con una familia en Coyoacán.
+  = Sí, voy a vivir con una familia en Coyoacán.
+  = Sí, voy a vivir con una familia.
+  = Sí, con una familia en Coyoacán.
+  = Sí, me voy a quedar con una familia en Coyoacán.
+  = Sí, voy a quedarme con una familia en Coyoacán.
+  = Sí, con una familia.
+  ! «Sí, voy a vivir con una familia en…»
+CHUY*: Qué bien, así practica el español todos los días. Mire, a la izquierda: eso es el Viaducto. Antes por ahí pasaba un río, la Piedad, pero lo {{entubaron|they piped it underground (entubar)}} hace muchos años. Esta ciudad estaba llena de agua, ¿sabe? Era un lago.
+Q: ¿Qué había antes donde ahora está el Viaducto?
+  * Un río. || El río de la Piedad: ahora va por un tubo, bajo la avenida.
+  - Un lago. || La ciudad entera estaba en un lago, pero en ese lugar había un río.
+  - Una línea del metro. || No habla del metro.
+CHUY: Una cosa: ¿usted ya come picante? Porque aquí la comida… {{aguas|watch out (Mexican slang)}} con la salsa, ¿eh?
+C: Te gusta el picante, pero solo un poco. ¿Qué dices?
+  * Me gusta un poco, pero {{no mucho|not much}}. || Respuesta honesta y natural. En México te lo van a preguntar muchas veces.
+  ~ Sí, me gusta. || Funciona, aunque puede que luego te sirvan algo muy picante.
+  - Sí, me gusta mucho el picoso. || «Picoso» se dice en México, pero es un adjetivo: «la comida picosa», «me gusta lo picoso».
+CHUY: ¡Eso! Poco a poco. Primero la salsa verde, que a veces pica menos… o más. Depende. Ja, ja.
+N: Una hora y diez minutos después, el taxi entra en una calle tranquila de casas con bugambilias.
+CHUY: Pues ya llegamos. ¿Es esta casa, la de la puerta verde?
+T: Es esa casa. Dile que sí y dale las gracias por todo.
+  = Sí, es esta. Muchas gracias por todo.
+  = Sí, es esa. Muchas gracias por todo.
+  = Sí, aquí es. Muchas gracias por todo.
+  = Sí, es esta. Gracias por todo.
+  = Sí. Muchas gracias por todo.
+  = Sí, es aquí. Gracias por todo.
+  ! «Sí, aquí es. Muchas gracias por todo.»
+CHUY: No hay de qué. Le bajo las maletas. Y {{que le vaya muy bien|I hope it goes well for you (que + subjunctive)}} en la UNAM, ¿eh? ¡Échele ganas!
+K: «Ahorita» || En México, «ahorita» puede significar «ahora mismo», «dentro de un rato» o, a veces, «quizás nunca». El contexto y el tono lo dicen todo. «Ahorita voy» puede querer decir dos minutos o media hora.
+K: La propina || En los taxis de aeropuerto la propina no es obligatoria, pero mucha gente deja algo si el chofer ayuda con las maletas. En los restaurantes, lo normal en México es dejar entre el diez y el quince por ciento.

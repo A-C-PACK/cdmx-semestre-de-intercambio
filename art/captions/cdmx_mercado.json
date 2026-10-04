@@ -1,0 +1,88 @@
+{
+  "high_level_description": "A fruit stall inside a traditional Mexican market in Coyoacán, piled high with mangoes, papayas, limes and chilies, with a lively woman vendor holding out a slice of mango.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "The busy interior of a market hall with strings of colourful papel picado bunting overhead and piñatas hanging in the distance.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          520,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A generous market stall with sloping crates of yellow mangoes, orange papayas cut in half, green limes, red chilies and tomatoes.",
+        "color_palette": [
+          "#E8A33D",
+          "#D9622B",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          280,
+          320,
+          640,
+          680
+        ],
+        "desc": "A lively woman of about fifty-five with dark curly hair and a flowered apron behind the stall, smiling and holding out a slice of mango on a knife.",
+        "color_palette": [
+          "#F2C9A0",
+          "#C2477A",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          260,
+          1000
+        ],
+        "desc": "Strings of colourful cut-paper bunting crossing under the roof.",
+        "color_palette": [
+          "#C2477A",
+          "#2E6F8E",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          260,
+          0,
+          520,
+          300
+        ],
+        "desc": "Colourful star-shaped piñatas hanging at a neighbouring stall.",
+        "color_palette": [
+          "#C2477A",
+          "#E8A33D",
+          "#3F7D4E"
+        ]
+      }
+    ]
+  }
+}

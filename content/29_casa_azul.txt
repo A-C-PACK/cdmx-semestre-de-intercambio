@@ -1,0 +1,94 @@
+@part 2
+@id casa_azul
+@name La Casa Azul
+@era 1907–1954
+@geo 19.3551 -99.1625 coyoacan t
+@focus 0.45
+@route Calle Londres 247, en Coyoacán, a cuatro cuadras del Jardín Centenario. La casa de Trotsky está a unas cinco cuadras, en la avenida Río Churubusco.
+@blurb La casa donde nació y murió Frida Kahlo, hoy uno de los museos más visitados de México. A unas cuadras, la casa donde fue asesinado León Trotsky.
+@visit El Museo Frida Kahlo (es mejor comprar los boletos con días de anticipación) y el Museo Casa de León Trotsky, con su jardín y su tumba.
+
+== frida | La casa azul ==
+N: Es sábado. Valeria te espera en una esquina de Coyoacán, frente a una casa con muros de un azul intenso. Hay una fila larga de turistas en la puerta.
+VALERIA: Hice la reservación hace dos semanas, ¿eh? Si no, no entras. Mientras avanzamos, lee esto. Lo escribí yo para mi clase de Letras, ja, ja. Ahí me dices si se entiende.
+C: Valeria escribió el texto. ¿Qué le dices?
+  * ¡Qué padre! Con gusto lo leo. || Usas «qué padre», que ya conoces, y aceptas con amabilidad.
+  ~ Ok. || Correcto, pero un poco frío para un texto que escribió tu amiga.
+  - ¡Qué padre! Con gusto lo leeré tu texto. || Si nombras el objeto, no repitas el pronombre: «con gusto lo leo» o «con gusto leo tu texto».
+VALERIA*: Gracias. Si encuentras errores, no me digas, ja, ja. Bueno, sí, dime.
+H: La casa azul
+R: Frida Kahlo nació en esta casa de Coyoacán el 6 de julio de 1907, aunque ella decía que había nacido en 1910, el año en que empezó la Revolución. Quería ser hija de la Revolución, y en cierto modo lo fue. Su padre, Guillermo Kahlo, era un fotógrafo de origen alemán; su madre, Matilde Calderón, era de Oaxaca. Esa mezcla de Europa y México estaría siempre en su vida y en su obra.
+R: Su vida estuvo marcada por el dolor. A los seis años tuvo poliomielitis, y su pierna derecha quedó más delgada que la otra. A los dieciocho, el autobús en el que volvía de la escuela chocó con un tranvía. Una barra de metal le atravesó el cuerpo, y se rompió la columna, la pelvis y varios huesos más. Pasó meses en la cama, inmóvil. Para no aburrirse, empezó a pintar. Su madre le mandó poner un espejo en el techo de la cama, y así pintó sus primeros autorretratos: la cara que tenía delante.
+R: Nunca dejó de hacerlo. De unas doscientas obras que pintó, más de cincuenta son autorretratos. «Me pinto a mí misma porque soy el tema que mejor conozco», dijo una vez. En sus cuadros aparecen su cuerpo herido, sus operaciones, sus animales, sus vestidos de tehuana, las plantas de su jardín y, muchas veces, Diego Rivera. Se casó con él en 1929, cuando ella tenía veintidós años y él cuarenta y dos. Fue una relación apasionada y difícil: se divorciaron en 1939 y volvieron a casarse un año después.
+R: Frida murió en la casa azul el 13 de julio de 1954, a los cuarenta y siete años. Cuatro años después, por deseo de Diego, la casa se convirtió en museo. Durante décadas, Frida fue conocida sobre todo como «la esposa de Rivera». Hoy es al revés: su cara, con las cejas unidas y las flores en el pelo, está en camisetas, bolsas y carteles de todo el mundo. Algunos critican que se haya convertido en una marca. Pero dentro de la casa, frente a su cama, su silla de ruedas y sus pinceles, queda la mujer que pintó a pesar del dolor.
+Q: ¿Por qué decía Frida que había nacido en 1910?
+  * Porque quería ser hija de la Revolución. || En realidad nació en 1907.
+  - Porque no sabía su fecha de nacimiento. || Sí la sabía: la cambió a propósito.
+  - Porque sus papás se casaron en 1910. || No.
+Q: ¿Cómo empezó Frida a pintar?
+  * En la cama, después del accidente, con un espejo en el techo. || Por eso sus primeras obras son autorretratos.
+  - En una escuela de arte, con Diego Rivera. || Conoció a Rivera más tarde.
+  - Con su padre, que era pintor. || Su padre era fotógrafo.
+Q: ¿Por qué pintaba tantos autorretratos, según sus palabras?
+  * Porque ella era el tema que mejor conocía. || «Me pinto a mí misma porque soy el tema que mejor conozco.»
+  - Porque no tenía dinero para modelos. || No es lo que dice la cita.
+  - Porque Diego se lo pedía. || El texto no dice eso.
+Q: Según el texto, ¿qué ha cambiado en la fama de Frida?
+  * Antes era «la esposa de Rivera»; hoy es más famosa que él. || Su imagen está en todo el mundo.
+  - Antes era famosa y hoy nadie la conoce. || Es al revés.
+  - Nunca fue famosa. || El texto dice lo contrario.
+O: Ordena estos hechos de la vida de Frida.
+  = Nace en la casa azul de Coyoacán.
+  = Tiene poliomielitis.
+  = Sufre un grave accidente de autobús.
+  = Se casa con Diego Rivera.
+  = Muere en la casa azul.
+  = La casa se convierte en museo.
+  ! Nació y murió en la misma casa, que hoy es suya para siempre.
+K: Pronombres con «a mí misma» || «Me pinto a mí misma.» Para dar énfasis a una acción sobre uno mismo, se añade «a mí mismo/misma», «a ti mismo/misma», «a sí mismo/misma».
+VALERIA: ¿Y? ¿Se entiende? Dime la verdad, ¿eh? Sin pena.
+C: El texto está muy bien. ¿Qué le dices?
+  * Se entiende muy bien. Me gustó mucho, sobre todo lo del espejo. || Opinión concreta y amable: a quien escribe, le encanta saber qué le gustó al lector.
+  ~ Está bien. || Educado, pero no le dice mucho.
+  - Se entiende muy bien. Me gustó mucho, sobre todo el del espejo. || «Lo del espejo» = el tema del espejo. «El del espejo» necesitaría un sustantivo masculino.
+VALERIA: ¡Gracias! Ya nos toca. Adentro no se pueden tomar fotos sin un permiso especial, ¿eh?
+
+== trotsky | Un exiliado en Coyoacán ==
+N: Después del museo, Valeria te lleva unas cuadras más allá, a una casa con muros altos y torres de vigilancia. En el jardín hay conejos, cactus y una tumba con una bandera roja.
+VALERIA: Y ahora, la historia más rara de Coyoacán. ¿Sabías que Trotsky vivió en la casa de Frida? Sí, el revolucionario ruso. Lee esto, es el otro capítulo de mi trabajo.
+H: Un exiliado en Coyoacán
+R: León Trotsky fue uno de los líderes de la Revolución rusa de 1917, junto a Lenin. Pero después de la muerte de Lenin, perdió la lucha por el poder contra Iósif Stalin. Fue expulsado del Partido Comunista y, en 1929, de la Unión Soviética. Durante años vivió como un perseguido: Turquía, Francia, Noruega… Ningún país quería tenerlo mucho tiempo, y los agentes de Stalin lo buscaban.
+R: Diego Rivera, que admiraba a Trotsky, convenció al presidente Lázaro Cárdenas de que le diera asilo en México. En enero de 1937, Trotsky y su esposa, Natalia Sedova, llegaron al puerto de Tampico. Frida Kahlo los recibió, y Rivera les prestó la casa azul de Coyoacán. Durante dos años, el revolucionario ruso vivió allí, escribiendo, recibiendo visitas y llevando una vida bajo vigilancia. Tuvo un breve romance con Frida, que le regaló un autorretrato.
+R: En 1939, después de una pelea con Rivera, Trotsky y Natalia se mudaron a una casa a unas cuadras, en la avenida Viena. La convirtieron en una pequeña fortaleza: muros altos, puertas de acero, guardias. Tenían razones para hacerlo. En mayo de 1940, un grupo de hombres armados, dirigido por el muralista David Alfaro Siqueiros, que era estalinista, entró de noche y disparó cientos de balas contra el dormitorio. Trotsky y Natalia sobrevivieron escondidos debajo de la cama.
+R: Tres meses después, el 20 de agosto de 1940, un hombre que se había ganado la confianza de la familia entró en el despacho de Trotsky con el pretexto de mostrarle un artículo. Mientras Trotsky leía, lo atacó por la espalda con un piolet, una herramienta de alpinismo. Trotsky murió al día siguiente en un hospital de la ciudad. El asesino, el comunista español Ramón Mercader, que trabajaba para los servicios secretos soviéticos, pasó veinte años en una cárcel mexicana.
+R: Hoy la casa es un museo. Se pueden ver los agujeros de las balas en las paredes, el despacho con sus libros y, en el jardín, la tumba donde descansan Trotsky y Natalia.
+Q: ¿Por qué Trotsky tuvo que salir de la Unión Soviética?
+  * Porque perdió la lucha por el poder contra Stalin. || Fue expulsado del partido y del país.
+  - Porque quería conocer México. || No: fue expulsado.
+  - Porque Lenin lo expulsó. || Fue después de la muerte de Lenin.
+Q: ¿Quién ayudó a Trotsky a conseguir asilo en México?
+  * Diego Rivera, que convenció al presidente Cárdenas. || Y Frida lo recibió en Tampico.
+  - David Alfaro Siqueiros. || Siqueiros participó en el primer ataque contra él.
+  - Stalin. || Al contrario: Stalin lo perseguía.
+Q: ¿Por qué la casa de la avenida Viena parecía una fortaleza?
+  * Porque Trotsky tenía miedo de los agentes de Stalin. || Y tenía razón: lo atacaron dos veces.
+  - Porque era un antiguo cuartel militar. || El texto no dice eso.
+  - Porque Rivera la construyó así. || Ellos la convirtieron en fortaleza.
+Q: En el texto, «con el pretexto de mostrarle un artículo» significa que el asesino…
+  * dio una razón falsa para entrar. || El artículo era una excusa.
+  - escribió un artículo sobre Trotsky. || No: era un pretexto.
+  - quería enseñarle a escribir. || No.
+Q: ¿Verdadero o falso? «Trotsky murió en el primer ataque, en mayo de 1940.»
+  * Falso. || Sobrevivió al ataque de mayo; murió en agosto.
+  - Verdadero. || Vuelve a leer los párrafos tercero y cuarto.
+K: «Se había ganado la confianza» || «Ganarse la confianza de alguien» es conseguir que esa persona confíe en ti. Otras expresiones con «ganarse»: «ganarse la vida» (trabajar para vivir), «ganarse el cariño de alguien».
+VALERIA*: Qué fuerte, ¿no? Un revolucionario ruso, un muralista con metralleta y un asesino español, todo aquí, en el barrio de los coyotes. Bueno, ¿vamos por un café al Jardín Centenario? Yo invito.
+T: Acepta y dale las gracias a Valeria.
+  = Sí, vamos. Muchas gracias.
+  = Sí, gracias.
+  = ¡Claro! Muchas gracias.
+  = Sí, vamos. Gracias, Valeria.
+  = Vamos, muchas gracias.
+  = Sí, me encantaría. Gracias.
+  ! «Sí, vamos. Muchas gracias.»
+VALERIA: Va. Y me cuentas cuál de las dos casas te gustó más.

@@ -1,0 +1,86 @@
+{
+  "high_level_description": "Plaza Garibaldi in Mexico City at night, with a mariachi band in black charro suits with silver buttons and wide sombreros playing trumpets and violins.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A warm-lit night square with colonial buildings and glowing lamps under a deep blue night sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          100,
+          860,
+          900
+        ],
+        "desc": "A group of five mariachi musicians in black charro suits with silver buttons and wide sombreros, playing violins, trumpets and a big guitar.",
+        "color_palette": [
+          "#1F3A4D",
+          "#E9D3A1",
+          "#FFFFFF"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          380,
+          760,
+          620
+        ],
+        "desc": "The lead singer, a proud man of about fifty-five with a moustache, singing with one arm raised.",
+        "color_palette": [
+          "#1F3A4D",
+          "#F2C9A0",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          240,
+          1000
+        ],
+        "desc": "A deep blue night sky with a few stars and a warm glow from the lamps.",
+        "color_palette": [
+          "#1F3A4D",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          820,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "The paved square with people watching.",
+        "color_palette": [
+          "#5B3A29",
+          "#C2477A"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+@id farmacia
+@name La farmacia y el consultorio
+@short Farmacia
+@zone Coyoacán · Miguel Ángel de Quevedo
+@geo 19.3445 -99.1760 coyoacan b
+@focus 0.40
+@route En la avenida Miguel Ángel de Quevedo, a diez minutos de la casa.
+@blurb Algo te cayó mal. Muchas farmacias tienen al lado un consultorio con un médico que atiende sin cita y cobra poco.
+@goal Explicar qué te pasa y desde cuándo, entender las preguntas del médico y las instrucciones de la receta.
+
+== farmacia | Algo me cayó mal ==
+N: Te despiertas a las seis de la mañana con dolor de estómago. Anoche cenaste unos tamales en un puesto de la calle. Rocío te prepara un té de manzanilla y te manda a la farmacia de la avenida.
+PATRICIA: Buenos días. ¿En qué le puedo ayudar?
+C: ¿Cómo explicas lo que te pasa?
+  * Buenos días. Creo que algo {{me cayó mal|disagreed with me (food)}}. Me duele el estómago. || Perfecto. «Me cayó mal» es la forma natural de hablar de comida que no te sentó bien.
+  ~ Estómago. Dolor. || Se entiende, pero con frases completas te van a poder ayudar mejor.
+  - Buenos días. Tengo dolor en mi estómago. || Con las partes del cuerpo se usa el artículo, no el posesivo: «me duele el estómago».
+PATRICIA*: Ay, pobre. ¿Desde cuándo se siente así? ¿Tiene diarrea, vómito? ¿Ha tenido fiebre?
+T: Responde que desde anoche, y que no tienes fiebre.
+  = Desde anoche. No tengo fiebre.
+  = Desde anoche, pero no tengo fiebre.
+  = Desde anoche y no tengo fiebre.
+  = Desde anoche. Fiebre no.
+  = Me siento así desde anoche. No tengo fiebre.
+  = Desde ayer en la noche. No tengo fiebre.
+  ! «Desde anoche.» Y para la fiebre: «no tengo fiebre».
+PATRICIA*: Bueno, lo primero es hidratarse. Le voy a dar un suero oral: tómeselo poco a poco, a traguitos, durante el día. Y coma ligero: caldo de pollo, arroz, plátano. Nada de grasa ni de picante.
+Q: ¿Qué te recomienda la farmacéutica?
+  * Tomar suero oral y comer cosas ligeras. || Hidratarse es lo más importante con problemas de estómago.
+  - Comer tacos con salsa para matar las bacterias. || ¡No! Dice «nada de grasa ni de picante».
+  - Dejar de tomar líquidos. || Al contrario: tiene que hidratarse.
+C: Quieres saber si hay algo más fuerte, como un antibiótico. ¿Qué preguntas?
+  * ¿Me puede dar algún antibiótico? || Pregunta educada y clara.
+  ~ Antibiótico, ¿sí? || Se entiende, pero es poco natural.
+  - ¿Me puede vender un antibiótico sin receta, por favor? || La pregunta es correcta, pero ella no lo puede hacer: en México los antibióticos necesitan receta.
+PATRICIA*: Los antibióticos solo se venden con receta médica. Pero mire, aquí al lado está el consultorio. El doctor está de turno, la consulta cuesta cincuenta pesos y no necesita cita. Si quiere, pase con él para que le haga una revisión.
+Q: ¿Por qué no te da un antibiótico?
+  * Porque necesitas una receta médica. || La ley mexicana lo exige desde hace años.
+  - Porque no hay en la farmacia. || No dice eso.
+  - Porque son muy caros. || El precio no es el problema.
+Q: ¿Cuánto cuesta ver al doctor?
+  * Cincuenta pesos. || Y no hace falta cita.
+  - Nada, es gratis. || Cuesta cincuenta pesos.
+  - Depende del medicamento. || La consulta tiene un precio fijo.
+T: Dile que sí, que pasas con el doctor.
+  = Sí, paso con el doctor.
+  = Sí, voy a pasar con el doctor.
+  = Sí, gracias. Paso con el doctor.
+  = Sí, voy con el doctor.
+  = Muy bien, paso con el doctor.
+  = Sí, por favor.
+  ! «Sí, paso con el doctor.» En México, al médico «se pasa» o «se pasa a consulta».
+PATRICIA: Muy bien. Es la puerta de al lado. Y no se le olvide el suero, ¿eh? Que se mejore.
+K: Las partes del cuerpo || En español se dice «me duele la cabeza», «me duele el estómago», «me duelen los pies», con el artículo. Si duele mucho: «tengo un dolor muy fuerte en…». Y si algo de comer te hizo daño: «me cayó mal».
+
+== consultorio | Con el doctor ==
+N: El consultorio es pequeño y limpio: un escritorio, una camilla y un cartel con el cuerpo humano. El doctor te recibe con una sonrisa.
+DOCTOR: Buenos días, pásele. Siéntese, por favor. Cuénteme, ¿qué le pasa?
+C: Ya sabes cómo explicarlo. ¿Qué dices?
+  * Me duele mucho el estómago desde anoche. Creo que algo me cayó mal. || Completo y claro: qué, desde cuándo y por qué crees que es.
+  ~ Me duele el estómago. || Bien, pero el doctor te va a preguntar más.
+  - Estoy dolor de estómago. || «Estar» no va con «dolor». Di «tengo dolor de estómago» o «me duele el estómago».
+DOCTOR*: Ajá. ¿Y qué comió ayer? ¿Comió algo en la calle? No se preocupe, aquí todos comemos en la calle. Nada más quiero saber.
+T: Dile que cenaste unos tamales en un puesto.
+  = Cené unos tamales en un puesto.
+  = Comí unos tamales en un puesto.
+  = Cené tamales en un puesto de la calle.
+  = Anoche cené unos tamales en un puesto.
+  = Cené unos tamales en un puesto en la calle.
+  = Comí tamales en la calle.
+  ! «Cené unos tamales en un puesto.» Para algo terminado ayer: pretérito.
+DOCTOR*: Ya veo. A ver, recuéstese en la camilla… ¿Aquí le duele? ¿Y aquí? Bueno, parece una infección leve del estómago. Es muy común en las primeras semanas: su cuerpo se tiene que acostumbrar a las bacterias de aquí. No es nada grave.
+Q: ¿Qué piensa el doctor?
+  * Que es una infección leve, muy común en los recién llegados. || «No es nada grave».
+  - Que es una enfermedad grave. || Dice lo contrario.
+  - Que los tamales tenían demasiado picante. || Habla de bacterias, no de picante.
+DOCTOR*: Le voy a dar una receta. Este medicamento, una pastilla cada ocho horas durante cinco días. Aunque se sienta bien antes, tómelo los cinco días completos, ¿eh? Y el suero, todo el día.
+Q: ¿Cómo tienes que tomar la medicina?
+  * Una pastilla cada ocho horas, cinco días. || Tres pastillas al día.
+  - Una pastilla al día durante ocho días. || Al revés: cada ocho horas, durante cinco días.
+  - Solo hasta que te sientas mejor. || El doctor insiste en los cinco días completos.
+C: No entendiste bien si tienes que tomarla con comida. ¿Qué preguntas?
+  * ¿La tengo que tomar {{con alimentos|with food}}? || Pregunta muy útil. «Con alimentos» es como lo dicen médicos y farmacias.
+  ~ ¿Comida? || Se entiende, pero es demasiado corto.
+  - ¿Lo tengo que tomar con comer? || Después de «con» va un sustantivo: «con alimentos», «con comida».
+DOCTOR: Sí, mejor después de comer algo ligero, para que no le caiga pesada. Y si en dos días no está mejor, o si le da fiebre, regrese, ¿sí?
+T: Dale las gracias al doctor.
+  = Muchas gracias, doctor.
+  = Gracias, doctor.
+  = Muchas gracias, doctor. Muy amable.
+  = Muchas gracias por todo, doctor.
+  = Muchísimas gracias, doctor.
+  ! «Muchas gracias, doctor.»
+DOCTOR: De nada. Mucho líquido y mucho descanso. ¡Que se mejore pronto!
+K: Los consultorios junto a la farmacia || Muchas cadenas de farmacias en México tienen un consultorio al lado, con un médico general que atiende sin cita a un precio muy bajo. Son muy útiles para problemas pequeños. Para algo serio o una emergencia, ve a un hospital o llama al 911.
+K: «Cada ocho horas» || Para las medicinas: «cada ocho horas» (tres veces al día), «una vez al día», «en ayunas» (sin desayunar), «con alimentos» (con comida), «durante cinco días».

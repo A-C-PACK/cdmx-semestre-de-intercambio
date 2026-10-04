@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The taxi rank outside a large modern airport terminal in Mexico City on a sunny afternoon, with a friendly older taxi driver waiting beside his white and pink taxi.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A long glass-and-steel terminal building under a clear blue sky, with a covered walkway along the kerb and distant hills.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          430,
+          60,
+          900,
+          740
+        ],
+        "desc": "A white four-door saloon taxi with bright pink doors parked at the kerb, seen exactly side-on, every door shut flush with the body, door handles visible, windows up, nobody touching the car.",
+        "color_palette": [
+          "#FFFFFF",
+          "#C2477A",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          360,
+          660,
+          920,
+          920
+        ],
+        "desc": "A man of about sixty-five with grey hair and a grey moustache, a short-sleeved shirt and a warm smiling face, standing on the pavement a step away from the closed taxi, with one hand raised in greeting.",
+        "color_palette": [
+          "#F2C9A0",
+          "#F6E7C8",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          760,
+          260,
+          960,
+          520
+        ],
+        "desc": "Two rolling suitcases standing on the pavement in the foreground.",
+        "color_palette": [
+          "#B8402A",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          100,
+          0,
+          420,
+          1000
+        ],
+        "desc": "The terminal building's long glass facade and roof.",
+        "color_palette": [
+          "#7FC4D6",
+          "#E9D3A1"
+        ]
+      }
+    ]
+  }
+}

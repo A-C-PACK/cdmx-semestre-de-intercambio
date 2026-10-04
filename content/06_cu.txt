@@ -1,0 +1,90 @@
+@id cu
+@name Ciudad Universitaria
+@short UNAM · CEPE
+@zone UNAM · Coyoacán
+@geo 19.3362 -99.1872 coyoacan l
+@focus 0.42
+@route Metro Copilco o Universidad, línea 3. Dentro del campus, el Pumabús es gratis.
+@blurb El campus principal de la UNAM, la universidad más grande del país. Tus clases son en el CEPE, el Centro de Enseñanza para Extranjeros.
+@goal Inscribirte en la oficina, entender horarios y fechas, y conocer el campus con tu compañera de intercambio.
+
+== inscripcion | En la oficina del CEPE ==
+N: Es lunes, a las nueve de la mañana. La oficina de servicios escolares del CEPE ya tiene una fila de estudiantes de muchos países. Por fin te toca.
+MARISOL: Buenos días. Siguiente, por favor. ¿Viene a {{inscribirse|to register, to enrol}}?
+C: ¿Qué contestas?
+  * Sí, buenos días. Vengo a inscribirme {{para el semestre|for the semester}}. || Claro y completo. «Vengo a» + infinitivo explica a qué vienes.
+  ~ Sí, inscripción. || Se entiende, pero en una oficina es mejor una frase completa.
+  - Sí, quiero inscribirse. || Con «quiero», el pronombre es «me»: «quiero inscribirme».
+MARISOL*: Muy bien. Me permite su pasaporte y su carta de aceptación, por favor. También necesito dos fotografías tamaño infantil, para la credencial.
+Q: ¿Qué necesita Marisol?
+  * El pasaporte, la carta de aceptación y dos fotos. || Las fotos «tamaño infantil» son las pequeñas, para documentos.
+  - Solo el pasaporte. || Pide tres cosas.
+  - Una foto de un niño. || «Tamaño infantil» es el tamaño de la foto, no una foto de un niño.
+N: Le das el pasaporte y la carta. Buscas en tu mochila, pero no encuentras las fotos.
+C: Olvidaste las fotos. ¿Qué dices?
+  * Perdón, {{se me olvidaron|I forgot them (lit. they got forgotten on me)}} las fotos. ¿Las puedo traer mañana? || «Se me olvidaron» es la forma más natural y quita un poco la culpa. Y ofreces una solución.
+  ~ No tengo fotos. || Es verdad, pero no propones nada.
+  - Perdón, olvidé de las fotos. || «Olvidar» no lleva «de». Di «olvidé las fotos» o «se me olvidaron las fotos».
+MARISOL*: No se preocupe. Cerca del metro Copilco hay varios lugares donde se las toman en cinco minutos. Puede traerlas hoy mismo, antes de las dos. Si no, mañana, pero sin fotos no le puedo dar la credencial.
+Q: ¿Hasta qué hora puedes traer las fotos hoy?
+  * Hasta las dos. || «Hoy mismo, antes de las dos.»
+  - Hasta las cinco. || No: dice «antes de las dos».
+  - No importa la hora. || Sí importa: después de las dos tienes que volver mañana.
+MARISOL*: Ahora, el examen de colocación. Es mañana martes, a las diez, en el salón doce del edificio B. Dura dos horas: una parte escrita y una entrevista oral. Según el resultado, le asignamos su nivel y su grupo.
+T: Quieres confirmar la hora del examen. Pregunta a qué hora es.
+  = ¿A qué hora es el examen?
+  = Perdón, ¿a qué hora es el examen?
+  = ¿A qué hora es?
+  = ¿El examen es a las diez?
+  = ¿A qué hora empieza el examen?
+  = Disculpe, ¿a qué hora es el examen?
+  ! «¿A qué hora es…?» Los eventos se sitúan con «ser»: «el examen es a las diez».
+MARISOL: A las diez en punto. Llegue unos minutos antes, por favor. Y no se preocupe: el examen no es para aprobar o reprobar, solo es para saber su nivel.
+Q: ¿Para qué es el examen?
+  * Para saber tu nivel de español. || Por eso se llama «de colocación»: te coloca en un nivel.
+  - Para saber si puedes estudiar en la UNAM. || Ya estás aceptado o aceptada. Es solo para el nivel.
+  - Para la credencial. || La credencial depende de las fotos, no del examen.
+T: Despídete con educación: di «muchas gracias» y «hasta mañana».
+  = Muchas gracias. Hasta mañana.
+  = Gracias, hasta mañana.
+  = Muchas gracias, hasta mañana.
+  = Muy amable, hasta mañana.
+  = Muchas gracias, que tenga buen día. Hasta mañana.
+  ! «Muchas gracias. Hasta mañana.»
+MARISOL: Hasta mañana. ¡Siguiente!
+K: «Se me olvidó» || En español, muchas cosas «nos pasan»: «se me olvidó», «se me cayó», «se me perdió la llave». Es la forma normal de hablar de accidentes, y suena menos culpable que «olvidé» o «perdí».
+K: La UNAM || La Universidad Nacional Autónoma de México tiene más de trescientos cincuenta mil estudiantes. El CEPE enseña español y cultura mexicana a extranjeros desde 1921. Sus estudiantes también pueden usar las bibliotecas, la alberca y los museos del campus.
+
+== campus | Las Islas y la biblioteca ==
+N: Después de sacarte las fotos, recibes un mensaje: «Hola, soy Valeria, tu compañera del programa. ¿Nos vemos en la Biblioteca Central a la una?». Caminas por el campus hasta un edificio cubierto de mosaicos de colores.
+VALERIA: ¡Hola! Soy Valeria. ¡Qué gusto conocerte! ¿Cómo te fue en la inscripción?
+C: Te fue bien, pero olvidaste las fotos. ¿Qué dices?
+  * Bien, pero se me olvidaron las fotos. Ya me las tomé. || Perfecto: usas lo que aprendiste esta mañana.
+  ~ Bien, gracias. || Correcto, pero la conversación se acaba ahí.
+  - Fue bien, gracias. ¿Y tú? || En México se pregunta «¿cómo te fue?» y se contesta «me fue bien». «Fue bien» suena raro.
+VALERIA: Ja, ja, a todos nos pasa. Bueno, mira, esta es la Biblioteca Central. Los murales son de Juan O'Gorman, y están hechos con piedras de colores de todo México. Cuentan la historia del país, desde los aztecas hasta hoy.
+Q: ¿De qué están hechos los murales de la biblioteca?
+  * De piedras de colores de todo México. || Es un mosaico enorme de piedras naturales.
+  - De pintura moderna. || No: son piedras de colores.
+  - De azulejos de Puebla. || Los azulejos están en la Casa de los Azulejos, en el centro.
+VALERIA*: Y este pasto enorme se llama Las Islas. Aquí la gente come, estudia, duerme la siesta… En los partidos de fútbol americano, todo el mundo grita el «Goya». Ya lo vas a aprender: es el grito de la UNAM.
+C: No entiendes qué es el «Goya». ¿Qué preguntas?
+  * ¿Qué {{quiere decir|does it mean}} «Goya»? || «¿Qué quiere decir…?» sirve para cualquier palabra nueva.
+  ~ ¿Goya? || Repetir la palabra con tono de pregunta funciona, pero es menos claro.
+  - ¿Qué dice «Goya»? || Para el significado de una palabra se pregunta «¿qué quiere decir?» o «¿qué significa?».
+VALERIA: Es un grito de ánimo. Viene de un viejo cine que estaba junto a la universidad, cuando estaba en el centro: los estudiantes se iban de clase al cine Goya. Bueno, eso dicen. ¡Goya, Goya! ¡Cachún, cachún, ra, ra!
+VALERIA*: Oye, ¿y cómo vas a venir todos los días? Desde Coyoacán puedes tomar el metro hasta Copilco o hasta Universidad. Y aquí adentro, el Pumabús te lleva gratis a todas las facultades.
+Q: ¿Cuánto cuesta el Pumabús?
+  * Nada: es gratis. || El transporte dentro del campus es gratuito.
+  - Cinco pesos, como el metro. || El metro cuesta cinco; el Pumabús, nada.
+  - Depende de la facultad. || No: es gratis para ir a todas las facultades.
+T: Pregúntale a Valeria si quiere comer contigo.
+  = ¿Quieres comer conmigo?
+  = ¿Quieres comer?
+  = ¿Comemos juntas?
+  = ¿Comemos juntos?
+  = ¿Quieres ir a comer conmigo?
+  = ¿Vamos a comer?
+  ! «¿Quieres comer conmigo?» Con «con» + «mí» se dice «conmigo».
+VALERIA: ¡Claro! Hay unos {{puestos|stalls}} aquí atrás con unas quesadillas buenísimas. Y luego te enseño el Estadio Olímpico. ¡Vámonos!
+K: «¿Cómo te fue?» || Para preguntar por algo que ya pasó (un examen, un viaje, un día) se dice «¿cómo te fue?», y se contesta «me fue bien» o «me fue mal». Es una pregunta de todos los días en México.

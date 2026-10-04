@@ -1,0 +1,95 @@
+@part 2
+@id chapultepec
+@name Castillo de Chapultepec
+@short Chapultepec
+@era Siglo XIX · 1847 y 1864
+@geo 19.42086 -99.18082 city l
+@focus 0.45
+@route En lo alto del cerro, dentro del Bosque de Chapultepec. Metro Chapultepec, línea 1, y diez minutos de subida a pie.
+@blurb El único castillo de América que fue residencia de un emperador europeo. Antes fue colegio militar, y en 1847 escenario de una batalla contra el ejército de Estados Unidos.
+@visit El Museo Nacional de Historia, las habitaciones de Maximiliano y Carlota, los murales del castillo y la vista del Paseo de la Reforma desde la terraza.
+
+== heroes | El cerro del chapulín ==
+N: Domingo por la mañana. Diego te ha invitado al Bosque de Chapultepec. Hay familias haciendo pícnic, vendedores de globos, corredores y un lago con lanchas. Al fondo, en lo alto de un cerro, se ve un castillo.
+DIEGO: Ese es el castillo. En la secundaria nos traían cada año, y yo siempre me aburría. Ahora me encanta, ja, ja. Mira, agarré estos folletos del museo. Léelos mientras subimos, que la subida es larga.
+C: Quieres saber qué quiere decir «Chapultepec». ¿Qué preguntas?
+  * ¿Qué quiere decir «Chapultepec»? ¿Es náhuatl? || Dos preguntas naturales y relacionadas.
+  ~ ¿Chapultepec es náhuatl? || Bien, aunque no preguntas el significado.
+  - ¿Qué dice «Chapultepec»? || Para el significado: «¿qué quiere decir…?» o «¿qué significa…?».
+DIEGO*: Sí, quiere decir «el cerro del chapulín», o sea, del saltamontes. Por eso el icono del metro es un chapulín. Pero lee, lee, que el folleto lo explica mejor que yo.
+H: El cerro del chapulín
+R: Mucho antes de que hubiera un castillo, el cerro de Chapultepec era un lugar especial para los pueblos del valle. Tenía bosque, manantiales de agua dulce y una vista de todo el lago. Los mexicas lo convirtieron en un lugar sagrado y de descanso para sus gobernantes, y desde sus manantiales construyeron el acueducto que llevaba agua a Tenochtitlan. En las rocas del cerro, algunos emperadores mandaron tallar su imagen. Todavía se pueden ver restos de esos relieves.
+R: El castillo es mucho más reciente. En 1785, el virrey Bernardo de Gálvez ordenó construir en lo alto del cerro una residencia de verano. Pero murió al año siguiente y la obra quedó a medias durante décadas. Después de la Independencia, el edificio pasó a ser del nuevo país, y en la década de 1840 se instaló allí el Colegio Militar, la escuela donde se formaban los futuros oficiales del ejército.
+R: En 1846 empezó la guerra entre México y Estados Unidos. El ejército estadounidense entró por el norte y por el puerto de Veracruz y, en septiembre de 1847, llegó a las puertas de la capital. El castillo de Chapultepec era la última gran defensa antes de entrar en la ciudad. El 13 de septiembre, después de un día de bombardeos, los soldados estadounidenses subieron por las laderas y tomaron el castillo.
+R: Entre los defensores había cadetes del Colegio Militar, algunos muy jóvenes. Seis de ellos murieron ese día, y la historia oficial los convirtió en los Niños Héroes. La leyenda más famosa cuenta que uno de ellos, Juan Escutia, se envolvió en la bandera y se lanzó desde lo alto del castillo para que el enemigo no la tomara. Muchos historiadores dudan de que eso pasara así, pero la imagen se quedó en la memoria del país: hay calles, escuelas y un gran monumento en el bosque con su nombre.
+R: La guerra terminó en 1848 con el Tratado de Guadalupe Hidalgo. México perdió más de la mitad de su territorio: lo que hoy es California, Nevada, Utah y gran parte de Arizona, Nuevo México, Colorado y otros estados. Para muchos mexicanos, es una de las heridas más profundas de su historia.
+Q: ¿Qué quiere decir «Chapultepec»?
+  * El cerro del chapulín, del saltamontes. || Un nombre náhuatl.
+  - El cerro del castillo. || El castillo es muy posterior al nombre.
+  - El lago de los reyes. || No.
+Q: ¿Para qué usaban los mexicas el cerro?
+  * Como lugar sagrado y de descanso, y por sus manantiales. || El agua llegaba a Tenochtitlan por un acueducto.
+  - Como fortaleza contra los españoles. || El texto no dice eso.
+  - Como mercado. || El gran mercado estaba en Tlatelolco.
+Q: ¿Qué era el castillo en 1847?
+  * El Colegio Militar. || Allí se formaban los futuros oficiales.
+  - La residencia del emperador. || Eso fue después, en los años sesenta.
+  - Un museo. || El museo llegó en el siglo veinte.
+Q: ¿Qué dice el texto sobre la leyenda de Juan Escutia?
+  * Que muchos historiadores dudan de que pasara así. || Pero la imagen se quedó en la memoria del país.
+  - Que está demostrada con documentos. || No: muchos historiadores dudan.
+  - Que Juan Escutia fue un general estadounidense. || Era uno de los cadetes mexicanos.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Los mexicas llevan agua de Chapultepec a Tenochtitlan.
+  = Un virrey ordena construir una residencia en el cerro.
+  = Se instala en el castillo el Colegio Militar.
+  = El ejército de Estados Unidos toma el castillo.
+  = México pierde más de la mitad de su territorio.
+  ! El castillo empezó como casa de verano y terminó como campo de batalla.
+K: Dudar de que + subjuntivo || «Muchos historiadores dudan de que eso pasara así.» Después de verbos de duda («dudar», «no creer», «no es seguro que») va el subjuntivo.
+DIEGO: Yo crecí con la historia de Juan Escutia, ¿eh? Me costó aceptar que a lo mejor no fue así. Oye, y en tu país, ¿cómo cuentan esa guerra?
+C: En tu escuela casi no hablaron de esa guerra. ¿Qué dices?
+  * La verdad, casi no la estudiamos. {{Me parece importante|I think it's important}} conocer las dos versiones. || Honesto y abierto. Diego lo va a apreciar.
+  ~ No sé. || Es sincero, pero cierra la conversación.
+  - Esa guerra no fue importante. || Para México fue enorme: perdió más de la mitad de su territorio.
+DIEGO: Eso está chido. Bueno, ya llegamos arriba. ¡Mira la vista!
+
+== imperio | Un emperador en el castillo ==
+N: Desde la terraza del castillo se ve una avenida larguísima y recta que cruza la ciudad entre rascacielos: el Paseo de la Reforma. Dentro, las habitaciones tienen muebles europeos, alfombras y lámparas de cristal.
+DIEGO: Esto ya parece Europa, ¿no? Es que aquí vivió un emperador austriaco. Sí, en serio, un emperador. Lee el segundo folleto, es una historia de telenovela.
+H: Un emperador en el castillo
+R: Después de la guerra con Estados Unidos, México vivió años muy difíciles. Liberales y conservadores se enfrentaron en una guerra civil. Los liberales, con Benito Juárez a la cabeza, querían separar la Iglesia y el Estado y modernizar el país; los conservadores querían conservar el poder de la Iglesia y el viejo orden. Cuando Juárez suspendió el pago de la deuda externa, Francia aprovechó la ocasión. Napoleón III envió un ejército a México y, con el apoyo de los conservadores mexicanos, ofreció el trono a un príncipe europeo: Maximiliano de Habsburgo, hermano del emperador de Austria.
+R: En 1864, Maximiliano y su esposa, Carlota de Bélgica, llegaron a México. Eligieron el castillo de Chapultepec como residencia, lo remodelaron con muebles traídos de Europa y mandaron trazar una gran avenida para unirlo con el centro de la ciudad: el Paseo de la Emperatriz, el actual Paseo de la Reforma. Maximiliano quería ser un buen gobernante y, para sorpresa de los conservadores que lo habían traído, tomó algunas medidas liberales. Pero nunca logró el apoyo de la mayoría del país, y Juárez, que seguía siendo presidente para los liberales, nunca dejó de luchar contra él.
+R: En 1866, presionada por Estados Unidos y por la situación en Europa, Francia retiró a sus soldados. Carlota viajó a Europa para pedir ayuda a Napoleón III y al papa, pero no la consiguió, y allí cayó en una profunda crisis mental. Nunca volvió a México. Vivió en Bélgica hasta su muerte, en 1927. Maximiliano se quedó casi solo. En 1867 fue capturado en Querétaro y, a pesar de las peticiones de clemencia que llegaron de todo el mundo, Juárez lo hizo fusilar. Fue un mensaje claro para Europa: México no aceptaría gobiernos impuestos desde fuera.
+R: Después, el castillo fue residencia de varios presidentes, entre ellos Porfirio Díaz. En 1939, el presidente Lázaro Cárdenas decidió que no era un lugar para un gobernante de un país democrático, se mudó a una casa más modesta y convirtió el castillo en el Museo Nacional de Historia. Hoy, cualquiera puede pasear por las habitaciones donde durmió un emperador.
+Q: ¿Por qué llegó un ejército francés a México?
+  * Porque Juárez suspendió el pago de la deuda externa y Francia aprovechó la ocasión. || Con el apoyo de los conservadores mexicanos.
+  - Porque Juárez invitó a Maximiliano. || Al contrario: Juárez luchó contra él.
+  - Porque Estados Unidos lo pidió. || Estados Unidos presionó para que Francia se retirara.
+Q: ¿Qué es hoy el Paseo de la Reforma?
+  * La avenida que Maximiliano mandó trazar para unir el castillo y el centro. || Entonces se llamaba Paseo de la Emperatriz.
+  - Un parque dentro del bosque. || Es una avenida.
+  - El camino de los Niños Héroes. || No.
+Q: ¿Por qué Carlota viajó a Europa?
+  * Para pedir ayuda a Napoleón III y al papa. || No la consiguió.
+  - Para visitar a su familia en Bélgica. || El objetivo era pedir ayuda.
+  - Porque Maximiliano había muerto. || Maximiliano murió después, en 1867.
+Q: Según el texto, ¿qué mensaje quiso dar Juárez con el fusilamiento de Maximiliano?
+  * Que México no aceptaría gobiernos impuestos desde fuera. || A pesar de las peticiones de clemencia.
+  - Que quería ser emperador. || Juárez era presidente liberal.
+  - Que estaba de acuerdo con Francia. || Al contrario.
+Q: ¿Por qué Lázaro Cárdenas convirtió el castillo en museo?
+  * Porque pensaba que no era un lugar para el gobernante de un país democrático. || Se mudó a una casa más modesta.
+  - Porque el castillo se estaba hundiendo. || El texto no dice eso.
+  - Porque Maximiliano lo pidió en su testamento. || No.
+K: «A pesar de» || «A pesar de las peticiones de clemencia, Juárez lo hizo fusilar.» «A pesar de» presenta algo que no impide la acción principal: «a pesar del tráfico, llegamos a tiempo».
+DIEGO*: ¿Ves? Telenovela. Austria, Francia, una emperatriz que se vuelve loca… Y todo aquí, en el cerro del chapulín. Oye, ¿ya tienes hambre? Abajo venden unos elotes buenísimos.
+T: Dile a Diego que sí tienes hambre y que bajen a comer.
+  = Sí, tengo hambre. Vamos a comer.
+  = Sí, tengo hambre. ¡Vamos!
+  = Sí, tengo mucha hambre. Vamos a comer.
+  = Sí, vamos a comer.
+  = Sí, tengo hambre. Bajemos a comer.
+  = Sí, tengo hambre. Vamos a bajar a comer.
+  ! «Sí, tengo hambre.» «Tener hambre» se dice con «tener», no con «estar».
+DIEGO: ¡Eso! Y luego, si quieres, rentamos una lancha en el lago. Hoy invito yo.

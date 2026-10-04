@@ -1,0 +1,99 @@
+@part 2
+@id bellas_artes
+@name Palacio de Bellas Artes
+@short Bellas Artes
+@era Porfiriato y Revolución · 1904–1934
+@geo 19.43547 -99.14128 centre l
+@focus 0.45
+@route En la esquina de la Alameda Central con el Eje Central. Metro Bellas Artes, líneas 2 y 8.
+@blurb Un palacio de mármol que empezó como el gran proyecto de un dictador, se quedó a medias con la Revolución y se terminó como el templo de los muralistas.
+@visit Los murales de Rivera, Orozco, Siqueiros y Tamayo, la sala de espectáculos con su telón de cristal y, los domingos, el Ballet Folklórico.
+
+== centenario | Un teatro para el centenario ==
+N: El grupo se reúne en la Alameda, frente a un edificio blanco de mármol con una cúpula dorada y naranja. Por fuera parece europeo; por dentro, dice el profesor, es otra historia.
+ERNESTO: Este palacio cuenta dos historias de México. La de afuera es la del país que soñaba con ser París. La de adentro, la del país que salió de una revolución. Empezamos por afuera.
+C: Quieres preguntarle al profesor de qué está hecho el edificio. ¿Qué dices?
+  * ¿De qué está hecho el edificio? || «¿De qué está hecho…?» pregunta por el material.
+  ~ ¿Es de piedra? || Se entiende, aunque supones la respuesta.
+  - ¿De qué es hecho el edificio? || Con el participio que describe el resultado, «estar»: «¿de qué está hecho?».
+ERNESTO*: De mármol italiano, de Carrara, sobre una estructura de acero. Precioso… y pesadísimo. Ya verán por qué eso fue un problema. Lean.
+H: Un teatro para el centenario
+R: Entre 1876 y 1911, México fue gobernado casi sin interrupción por un solo hombre: el general Porfirio Díaz. Por eso ese periodo se llama el Porfiriato. Díaz trajo orden y estabilidad después de décadas de guerras, y el país se modernizó: se construyeron miles de kilómetros de vías de tren, llegaron inversiones extranjeras y la capital se llenó de edificios inspirados en Europa, sobre todo en Francia. Pero el progreso no llegó a todos. La mayoría de los campesinos no tenía tierra, los obreros trabajaban en condiciones muy duras y no había elecciones libres.
+R: En 1910 se iba a celebrar el centenario del inicio de la Independencia, y Díaz quería mostrar al mundo un país moderno. Uno de los grandes proyectos fue un nuevo Teatro Nacional. El encargo fue para el arquitecto italiano Adamo Boari, y las obras empezaron en 1904. El edificio tendría una estructura de acero cubierta de mármol, esculturas de artistas europeos y la tecnología más avanzada de la época.
+R: Pero el teatro tuvo dos enemigos. El primero fue el suelo. Como la catedral, el edificio estaba sobre la arcilla blanda del antiguo lago, y el peso del mármol era enorme. A los pocos años de empezar la obra, ya se había hundido varios centímetros, y con el tiempo bajaría mucho más. Los ingenieros tuvieron que reforzar los cimientos una y otra vez.
+R: El segundo enemigo fue la historia. En 1910, el mismo año de las fiestas del centenario, Francisco I. Madero llamó a levantarse contra Díaz, que se había reelegido otra vez. Empezó la Revolución mexicana. Díaz salió al exilio en 1911, pero la guerra continuó durante casi diez años, entre distintos grupos revolucionarios: Madero, Villa, Zapata, Carranza, Obregón. Cientos de miles de personas murieron. En medio de ese caos, nadie tenía dinero ni tiempo para terminar un teatro de lujo. Hacia 1916, Boari se fue de México y la obra quedó abandonada, con su esqueleto de acero y su mármol, durante años.
+R: El teatro que Díaz soñó para 1910 no se terminaría hasta 1934. Para entonces, el país, y la idea de lo que debía haber dentro, habían cambiado por completo.
+Q: ¿Qué fue el Porfiriato?
+  * El periodo en que gobernó Porfirio Díaz, entre 1876 y 1911. || Casi sin interrupción, durante más de treinta años.
+  - Un estilo de arquitectura francesa. || Es un periodo histórico.
+  - La primera etapa de la Revolución. || La Revolución terminó con el Porfiriato.
+Q: Según el texto, ¿cuál era el lado negativo del progreso del Porfiriato?
+  * No llegó a todos: campesinos sin tierra, obreros explotados y sin elecciones libres. || Esas fueron causas de la Revolución.
+  - Que no se construyeron vías de tren. || Se construyeron miles de kilómetros.
+  - Que no llegaron inversiones extranjeras. || Llegaron muchas.
+Q: ¿Cuáles fueron los dos «enemigos» del teatro?
+  * El suelo blando y la Revolución. || El peso del mármol y la guerra.
+  - El arquitecto y el presidente. || No: el suelo y la historia.
+  - La lluvia y el fuego. || No.
+Q: ¿Por qué se abandonó la obra?
+  * Porque durante la Revolución no había dinero ni tiempo. || Y Boari se fue de México hacia 1916.
+  - Porque el edificio se cayó. || Se hundía, pero no se cayó.
+  - Porque a Díaz no le gustó el diseño. || El texto no dice eso.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Porfirio Díaz llega al poder.
+  = Empiezan las obras del Teatro Nacional.
+  = Madero llama a levantarse contra Díaz.
+  = Díaz sale al exilio.
+  = Boari se va de México y la obra queda abandonada.
+  = El palacio se termina por fin.
+  ! Treinta años de obra, y en medio, una revolución.
+K: El futuro en el pasado || «El edificio tendría una estructura de acero», «el teatro no se terminaría hasta 1934». Cuando un relato del pasado habla de algo que todavía iba a pasar, usa el condicional. Es muy común en los textos de historia.
+ERNESTO: ¿Alguna pregunta antes de entrar?
+T: Pregúntale al profesor cuánto se ha hundido el palacio.
+  = ¿Cuánto se ha hundido el palacio?
+  = ¿Cuánto se hundió el palacio?
+  = ¿Cuánto se ha hundido?
+  = ¿Cuántos metros se ha hundido el palacio?
+  = Profesor, ¿cuánto se ha hundido el palacio?
+  ! «¿Cuánto se ha hundido…?» o, más mexicano, «¿cuánto se hundió…?».
+ERNESTO: Varios metros desde que se construyó. Antes se subía por una escalinata a la entrada; ahora, fíjense, se baja. Bueno, ¡adentro!
+
+== murales | El palacio de los muralistas ==
+N: Dentro, el contraste es total: mármol de colores, lámparas geométricas, líneas rectas. En las paredes de los pisos superiores, murales enormes llenos de figuras, máquinas, obreros y soldados.
+ERNESTO: Esto ya no es el sueño de Díaz. Esto es lo que la Revolución quiso decir de sí misma. Y en esa pared está uno de los murales más famosos del mundo, con una historia increíble. Lean primero.
+H: El palacio de los muralistas
+R: Cuando terminó la parte más violenta de la Revolución, el nuevo gobierno quiso construir un país distinto, y para eso pensó que necesitaba una nueva cultura. En 1921, José Vasconcelos, el secretario de Educación Pública, tuvo una idea: si la mayoría de los mexicanos no sabía leer, había que contarles la historia de su país en las paredes. Invitó a jóvenes pintores a cubrir con murales los muros de escuelas, ministerios y edificios públicos. Así nació el muralismo mexicano. Sus tres grandes figuras fueron Diego Rivera, José Clemente Orozco y David Alfaro Siqueiros.
+R: Los muralistas pintaban a los indígenas, a los campesinos y a los obreros como protagonistas de la historia, y muchas veces criticaban a los ricos, a la Iglesia y a los extranjeros. Sus obras eran a la vez arte y política. Se hicieron tan famosos que también les encargaron murales en Estados Unidos.
+R: Uno de esos encargos terminó en escándalo. En 1933, la familia Rockefeller le pidió a Diego Rivera un mural para el gran vestíbulo de un rascacielos en Nueva York. Rivera, que era comunista, pintó en el centro el retrato de Lenin. Cuando le pidieron que lo quitara, se negó. Los Rockefeller le pagaron, lo despidieron y, poco después, el mural fue destruido. Rivera estaba furioso, y cuando el gobierno mexicano le ofreció una pared en el nuevo Palacio de Bellas Artes, lo volvió a pintar, un poco más pequeño, con Lenin incluido. Lo llamó «El hombre controlador del universo».
+R: El palacio se inauguró por fin en noviembre de 1934. Ya no se llamaba Teatro Nacional, sino Palacio de Bellas Artes, y se había convertido en un espacio para todas las artes. Por fuera seguía siendo el palacio europeo de Díaz; por dentro, el arquitecto Federico Mariscal lo terminó en un estilo moderno, el art déco, y los muralistas llenaron sus paredes. En la sala de espectáculos quedó uno de los tesoros de la época de Díaz: un telón hecho de casi un millón de piezas de cristal, fabricado por la casa Tiffany de Nueva York, que muestra los volcanes del valle de México.
+R: Hoy, en el mismo edificio, se pueden ver los murales, una ópera o el Ballet Folklórico. Pocas construcciones resumen tan bien el siglo veinte mexicano.
+Q: ¿Por qué Vasconcelos quiso llenar los edificios públicos de murales?
+  * Porque la mayoría de los mexicanos no sabía leer. || Así podían conocer la historia de su país en las paredes.
+  - Porque los pintores no tenían dinero. || No es la razón del texto.
+  - Para decorar las casas de los ricos. || Eran edificios públicos.
+Q: ¿Quiénes eran los protagonistas de los murales?
+  * Los indígenas, los campesinos y los obreros. || El arte de la Revolución puso al pueblo en el centro.
+  - Los presidentes y los generales. || Algunos aparecen, pero los protagonistas eran otros.
+  - Los santos y los ángeles. || No.
+Q: ¿Por qué se destruyó el mural de Rivera en Nueva York?
+  * Porque Rivera no quiso quitar el retrato de Lenin. || Los Rockefeller lo despidieron y el mural fue destruido.
+  - Porque se cayó el rascacielos. || No.
+  - Porque Rivera no terminó el trabajo. || El problema fue el retrato de Lenin.
+Q: ¿Por qué el texto dice que el palacio es europeo por fuera y moderno por dentro?
+  * Porque se empezó en la época de Díaz y se terminó en los años treinta. || Mármol europeo afuera; art déco y murales adentro.
+  - Porque lo diseñaron dos arquitectos que no se conocían. || Tuvo dos arquitectos, pero la razón es el cambio de época.
+  - Porque adentro hay copias de edificios de Nueva York. || No.
+Q: ¿Qué muestra el telón de cristal?
+  * Los volcanes del valle de México. || El Popocatépetl y el Iztaccíhuatl.
+  - El retrato de Lenin. || Eso está en el mural de Rivera.
+  - La Revolución mexicana. || No: los volcanes.
+K: «Volver a» + infinitivo || «Lo volvió a pintar» = lo pintó otra vez. «Volver a» + infinitivo expresa repetición: «vuelvo a leer el texto», «volvimos a Bellas Artes».
+ERNESTO*: Ahí lo tienen. Ese es Lenin, ahí, a la derecha. Rivera se salió con la suya. Bueno, tienen media hora libre para ver los otros murales.
+T: Pregúntale al profesor dónde está el mural de Orozco.
+  = ¿Dónde está el mural de Orozco?
+  = Profesor, ¿dónde está el mural de Orozco?
+  = ¿Dónde está el de Orozco?
+  = Perdón, ¿dónde está el mural de Orozco?
+  = ¿En dónde está el mural de Orozco?
+  ! «¿Dónde está…?» Para la ubicación, siempre «estar».
+ERNESTO: Enfrente, en el mismo piso. Se llama «La katharsis». Después me cuentan cuál les gustó más.

@@ -1,0 +1,97 @@
+@part 2
+@id templo_mayor
+@name Templo Mayor
+@era Tenochtitlan · 1325–1521
+@geo 19.43492 -99.13149 centre r
+@focus 0.45
+@route Calle Seminario, en la esquina noreste del Zócalo, junto a la catedral. Metro Zócalo/Tenochtitlan.
+@blurb El corazón de Tenochtitlan, la capital mexica construida sobre un lago. Estuvo enterrado bajo la ciudad colonial hasta 1978.
+@visit Las ruinas del templo, con sus etapas de construcción una dentro de otra, y el Museo del Templo Mayor, con la Coyolxauhqui y la Tlaltecuhtli.
+
+== lago | Una ciudad en el lago ==
+N: Es martes por la mañana. El grupo se reúne en el Zócalo, junto a una maqueta de bronce de una ciudad rodeada de agua. El profesor señala la bandera gigante que ondea en el centro de la plaza.
+ERNESTO: ¿Ven el escudo de la bandera? Un águila sobre un nopal, comiéndose una serpiente. No es un adorno: es el {{acta de nacimiento|birth certificate}} de esta ciudad. Y ocurrió, según la leyenda, a unos metros de aquí.
+C: Quieres saber qué significa el escudo. ¿Qué preguntas?
+  * ¿Qué significa el águila? || Una pregunta directa y natural.
+  ~ ¿Por qué un pájaro? || Se entiende, aunque «pájaro» es demasiado general para un águila.
+  - ¿Qué significa la águila? || «Águila» es femenina, pero lleva «el» por empezar con «a» tónica: «el águila».
+ERNESTO*: Es la señal que buscaban los mexicas para fundar su ciudad. Aquí tienen la historia. Léanla, y después entramos a ver lo que queda.
+H: Una ciudad en el lago
+R: Los mexicas no eran del valle de México. Según sus propios relatos, venían de un lugar del norte llamado Aztlán, y por eso también se les conoce como aztecas. Durante generaciones caminaron hacia el sur, guiados por su dios Huitzilopochtli, que les había prometido una tierra. La señal sería un águila {{posada|perched (posarse)}} sobre un nopal. Cuando llegaron al valle, hacia el siglo trece, las mejores tierras ya tenían dueño, y los demás pueblos los trataron como extranjeros incómodos.
+R: Según la tradición, en el año 1325 los mexicas vieron por fin el águila sobre un nopal, en un islote pantanoso en medio del lago de Texcoco. Ahí fundaron su ciudad: México-Tenochtitlan. Era un lugar pobre, sin piedra ni madera, pero tenía ventajas: estaba protegido por el agua, había peces y aves, y desde ahí se podía comerciar en canoa con todas las orillas del lago.
+R: En menos de doscientos años, aquel islote se convirtió en una de las ciudades más grandes del mundo. Los mexicas {{ganaron|reclaimed, gained (ganar)}} tierra al lago con chinampas y unieron la isla con tierra firme mediante tres grandes calzadas. Un acueducto traía agua dulce desde los manantiales de Chapultepec. Después de aliarse con otras ciudades del valle, crearon un imperio que cobraba tributo a pueblos de buena parte de Mesoamérica: maíz, algodón, cacao, plumas, oro.
+R: En el centro de la ciudad había un gran recinto sagrado con decenas de edificios. El más importante era el Templo Mayor, una pirámide con dos templos en la cima: uno dedicado a Huitzilopochtli, dios de la guerra y del sol, y otro a Tláloc, dios de la lluvia. Guerra y agua, las dos cosas de las que dependía la ciudad.
+R: Cuando los españoles llegaron en 1519, Tenochtitlan tenía quizás doscientos mil habitantes. Uno de los soldados, Bernal Díaz del Castillo, escribió años después que, al verla desde la calzada, algunos de sus compañeros se preguntaron si lo que veían era un sueño.
+Q: ¿Qué señal buscaban los mexicas para fundar su ciudad?
+  * Un águila sobre un nopal. || Es la imagen que hoy está en la bandera de México.
+  - Un volcán con humo. || No es la señal de la leyenda.
+  - Una isla con mucha piedra. || Al contrario: el islote no tenía piedra.
+Q: ¿Qué ventajas tenía el islote?
+  * Estaba protegido por el agua y se podía comerciar en canoa. || Además, había peces y aves.
+  - Tenía mucha madera y piedra. || El texto dice lo contrario.
+  - Estaba vacío y era muy fértil. || Era un lugar «pobre» y pantanoso.
+Q: ¿Por qué el Templo Mayor tenía dos templos?
+  * Para Huitzilopochtli, dios de la guerra, y Tláloc, dios de la lluvia. || Guerra y agua: las dos bases de la ciudad.
+  - Uno para los mexicas y otro para los españoles. || Los españoles todavía no habían llegado.
+  - Uno para el Sol y otro para la Luna. || Esos nombres son de Teotihuacan.
+Q: En el texto, «ganaron tierra al lago» quiere decir que…
+  * crearon tierra nueva donde antes había agua. || Con las chinampas, la isla creció.
+  - ganaron una guerra en el lago. || Aquí «ganar» no tiene que ver con la guerra.
+  - compraron tierra a otros pueblos. || No: la crearon.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Los mexicas salen de Aztlán guiados por Huitzilopochtli.
+  = Llegan al valle y los demás pueblos los tratan como extranjeros.
+  = Ven el águila sobre el nopal y fundan Tenochtitlan.
+  = Construyen calzadas y un acueducto desde Chapultepec.
+  = Los españoles llegan a la ciudad.
+  ! De extranjeros sin tierra a capital de un imperio: en menos de dos siglos.
+K: «Según la tradición» || Para contar leyendas o hechos que no se pueden comprobar se usa «según la tradición», «según la leyenda», «cuentan que…». Así el texto no presenta el mito como un hecho, pero tampoco lo desprecia.
+ERNESTO: ¿Y bien? Ahora, imagínense el Zócalo lleno de agua y de canoas. ¿Alguien quiere preguntar algo?
+T: Pregúntale al profesor en qué año se fundó Tenochtitlan.
+  = ¿En qué año se fundó Tenochtitlan?
+  = ¿En qué año se fundó la ciudad?
+  = ¿Cuándo se fundó Tenochtitlan?
+  = ¿Cuándo se fundó la ciudad?
+  = ¿En qué año fundaron Tenochtitlan?
+  = ¿En qué año fue fundada Tenochtitlan?
+  ! «¿En qué año {{se fundó|was founded (se + verb, passive)}}…?»
+ERNESTO: Según la tradición, en 1325. Algunos historiadores proponen otras fechas, pero esa es la que todo México aprendió en la escuela.
+
+== excavacion | El templo bajo la calle ==
+N: Entran a la zona arqueológica. Desde una pasarela de metal se ven muros de piedra, escaleras que no llevan a ninguna parte y serpientes de piedra con la boca abierta. A unos metros, el tráfico de la calle sigue como si nada.
+ERNESTO: Lo que ven no es un templo: son siete. Y durante cuatrocientos años, nadie sabía exactamente dónde estaban. Lean esto antes de entrar al museo.
+H: El templo bajo la calle
+R: En 1521, después de la conquista, los españoles destruyeron el recinto sagrado de Tenochtitlan y usaron sus piedras para construir la nueva ciudad. Sobre las ruinas levantaron casas, calles y, muy cerca, la catedral. Con el tiempo, el Templo Mayor se convirtió en un recuerdo. Se sabía que había estado «por aquí», pero no exactamente dónde.
+R: A veces, la tierra devolvía algún tesoro. En 1790, durante unas obras en el Zócalo, aparecieron la gran escultura de la diosa Coatlicue y la Piedra del Sol, el famoso «calendario azteca». A principios del siglo veinte, el arqueólogo Manuel Gamio encontró una esquina de la pirámide. Pero nadie se atrevía a {{derribar|to demolish}} una manzana entera del centro para buscar el resto.
+R: Todo cambió el 21 de febrero de 1978. Unos trabajadores de la compañía de luz estaban haciendo una zanja en la esquina de las calles de Guatemala y Argentina cuando encontraron una piedra enorme, redonda y tallada. Era la Coyolxauhqui, la diosa de la luna: un disco de más de tres metros con el cuerpo de una mujer {{despedazada|torn to pieces}}. El hallazgo tuvo tanto impacto que el gobierno decidió excavar toda la zona. El proyecto, dirigido por el arqueólogo Eduardo Matos Moctezuma, sacó a la luz el Templo Mayor.
+R: Lo que encontraron fue sorprendente. Los mexicas habían ampliado su templo por lo menos siete veces, y cada nueva pirámide cubría la anterior, como las capas de una cebolla. Por eso hoy se pueden ver, una dentro de otra, etapas de distintas épocas. La Coyolxauhqui estaba al pie de la escalera de Huitzilopochtli. Según el mito, ese dios nació ya armado en el cerro de Coatepec y venció a su hermana Coyolxauhqui, que había querido matar a su madre; su cuerpo cayó rodando por la montaña. La piedra recordaba ese momento a todos los que subían al templo.
+R: Desde 1987, el Museo del Templo Mayor guarda miles de objetos encontrados aquí. Y las excavaciones no han terminado: en 2006 apareció la Tlaltecuhtli, la escultura mexica más grande que se conoce, y cada pocos años la tierra del centro devuelve algo nuevo.
+Q: ¿Qué hicieron los españoles con el recinto sagrado después de la conquista?
+  * Lo destruyeron y usaron sus piedras para la nueva ciudad. || Encima levantaron casas, calles y la catedral.
+  - Lo conservaron como museo. || El museo es de 1987.
+  - Lo cubrieron con agua del lago. || El texto no dice eso.
+Q: ¿Quién encontró la Coyolxauhqui en 1978?
+  * Unos trabajadores de la compañía de luz. || Estaban haciendo una zanja: fue un hallazgo casual.
+  - Manuel Gamio. || Gamio encontró una esquina de la pirámide a principios del siglo veinte.
+  - Unos turistas. || No: unos trabajadores.
+Q: ¿Por qué el texto compara el templo con una cebolla?
+  * Porque cada templo nuevo cubría el anterior. || Hay por lo menos siete etapas, una dentro de otra.
+  - Porque olía mal. || ¡No!
+  - Porque era redondo. || La comparación es por las capas, no por la forma.
+Q: ¿Verdadero o falso? «La Piedra del Sol se encontró durante las excavaciones de 1978.»
+  * Falso. || Apareció en 1790, durante unas obras en el Zócalo.
+  - Verdadero. || Mira otra vez el segundo párrafo.
+Q: ¿Qué representa la Coyolxauhqui?
+  * A la diosa de la luna, vencida por su hermano Huitzilopochtli. || Su cuerpo despedazado recordaba el mito de Coatepec.
+  - A la madre de Huitzilopochtli. || Su madre es Coatlicue.
+  - Al dios de la lluvia. || Ese es Tláloc.
+K: El pluscuamperfecto || «Los mexicas habían ampliado su templo siete veces». Cuando un texto de historia mira hacia atrás desde un momento del pasado, usa «había» + participio. Los arqueólogos descubrieron en 1978 algo que los mexicas habían hecho siglos antes.
+ERNESTO*: Y aquí la tienen. La Coyolxauhqui. Fíjense: aún tiene restos de pintura. Imagínenla de colores, al pie de una escalera de treinta metros, con el humo del copal…
+T: Quieres saber cuánto pesa la piedra. Pregúntalo.
+  = ¿Cuánto pesa la piedra?
+  = ¿Cuánto pesa?
+  = Profesor, ¿cuánto pesa la piedra?
+  = ¿Cuánto pesa la Coyolxauhqui?
+  = ¿Cuánto pesa esta piedra?
+  ! «¿Cuánto pesa…?»
+ERNESTO: Unas ocho toneladas. Y la sacaron de la zanja con mucho cuidado, a mano. La semana que viene vamos a ver dónde terminó todo esto: Tlatelolco.

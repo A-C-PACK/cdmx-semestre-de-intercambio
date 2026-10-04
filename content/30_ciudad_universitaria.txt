@@ -1,0 +1,104 @@
+@part 2
+@id ciudad_universitaria
+@name Ciudad Universitaria
+@short CU
+@era De 1551 a hoy · campus de 1952
+@geo 19.3334 -99.1873 coyoacan b
+@focus 0.45
+@route Avenida Insurgentes Sur, en el sur de la ciudad. Metro Copilco o Universidad, línea 3, y el Pumabús dentro del campus.
+@blurb Tu propio campus: una ciudad entera construida sobre la lava en solo tres años, con murales en las fachadas y un estadio olímpico. Patrimonio de la humanidad desde 2007.
+@visit La Biblioteca Central, la Rectoría con el mural de Siqueiros, el Estadio Olímpico Universitario, el MUAC y el Espacio Escultórico en la reserva del Pedregal.
+
+== universidad | Una ciudad para estudiar ==
+N: Es la última clase del semestre. En lugar de quedarse en el salón, el profesor Salgado cita al grupo en Las Islas, frente a la Biblioteca Central. Hace sol y hay estudiantes por todas partes, sentados en el pasto.
+ERNESTO: Empezamos el curso en Cuicuilco, a dos kilómetros de aquí, y lo terminamos en el mismo suelo de lava. Hoy les toca leer sobre el lugar donde estudian. ¿Saben cuántos años tiene la universidad?
+C: Crees que la universidad es muy antigua, pero no estás seguro o segura. ¿Qué dices?
+  * Creo que es muy antigua. ¿Es del siglo dieciséis? || Muestras duda y propones una respuesta. Muy natural en clase.
+  ~ No sé. || Sincero, pero no participas.
+  - Tiene muchos siglos de vieja. || Se entiende, pero no es natural. Mejor: «¿es del siglo dieciséis?».
+ERNESTO*: ¡Casi! Es una historia con varios nacimientos. Lean, y después me dicen cuál es la fecha correcta… si es que hay una.
+H: Una ciudad para estudiar
+R: En 1551, solo treinta años después de la caída de Tenochtitlan, el rey Carlos I de España firmó el documento que creaba la Real Universidad de México. Las clases empezaron en 1553, en el centro de la ciudad, y fue una de las primeras universidades de América. Durante casi tres siglos se enseñó allí teología, derecho, medicina y latín, aunque solo podían estudiar los hijos de las familias privilegiadas.
+R: Después de la Independencia, la vieja universidad tuvo problemas. Los liberales la veían como un símbolo del pasado colonial y de la Iglesia, y la cerraron y abrieron varias veces durante el siglo diecinueve, hasta que en 1865 se cerró definitivamente. Durante casi medio siglo, México no tuvo universidad, solo escuelas profesionales separadas.
+R: El segundo nacimiento llegó en 1910, en las fiestas del centenario de la Independencia. El ministro Justo Sierra unió esas escuelas y fundó la Universidad Nacional de México. Pocas semanas después empezó la Revolución, pero la universidad sobrevivió. En 1929, después de una huelga de estudiantes, obtuvo la autonomía: el derecho a gobernarse sin depender directamente del gobierno. Por eso hoy se llama Universidad Nacional Autónoma de México: la UNAM.
+R: Para entonces, la universidad estaba repartida por decenas de edificios viejos del centro, y no cabía. A finales de los años cuarenta, el gobierno decidió darle un campus propio en un terreno que nadie quería: el Pedregal, el campo de lava del Xitle, al sur de la ciudad. El proyecto lo dirigieron los arquitectos Mario Pani y Enrique del Moral, con la participación de más de sesenta arquitectos, ingenieros y artistas. Trabajaron a toda velocidad: en solo tres años levantaron facultades, institutos, una biblioteca, un estadio, jardines y avenidas. El presidente Miguel Alemán inauguró Ciudad Universitaria en noviembre de 1952, y las clases empezaron en 1954.
+R: La roca volcánica no se escondió: se usó para construir muros, caminos y escaleras, y la lava negra se convirtió en parte del paisaje. La universidad colonial había nacido junto a la catedral; la moderna nació junto a una pirámide de dos mil años.
+Q: ¿Cuándo empezaron las clases de la primera universidad?
+  * En 1553. || El documento se firmó en 1551, y las clases empezaron dos años después.
+  - En 1910. || Esa es la fecha de la Universidad Nacional.
+  - En 1952. || Ese año se inauguró Ciudad Universitaria.
+Q: ¿Por qué los liberales cerraron la universidad en el siglo diecinueve?
+  * Porque la veían como un símbolo del pasado colonial y de la Iglesia. || La cerraron y abrieron varias veces, hasta 1865.
+  - Porque no tenía estudiantes. || El texto no dice eso.
+  - Porque querían construir Ciudad Universitaria. || CU es del siglo veinte.
+Q: ¿Qué significa que la universidad sea «autónoma»?
+  * Que se gobierna sin depender directamente del gobierno. || La consiguió en 1929, después de una huelga.
+  - Que es privada. || La UNAM es pública.
+  - Que está lejos del centro. || No tiene que ver con la ubicación.
+Q: ¿Por qué el texto dice que el Pedregal era «un terreno que nadie quería»?
+  * Porque era un campo de lava dura y difícil para construir. || La roca del Xitle que viste en Cuicuilco.
+  - Porque estaba lleno de ruinas. || Había una pirámide cerca, pero no es la razón.
+  - Porque era muy caro. || No es lo que dice el texto.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = El rey firma el documento que crea la Real Universidad.
+  = La universidad se cierra definitivamente.
+  = Justo Sierra funda la Universidad Nacional.
+  = La universidad obtiene su autonomía.
+  = Se inaugura Ciudad Universitaria.
+  = Empiezan las clases en el nuevo campus.
+  ! Cuatro siglos, dos nacimientos y una autonomía.
+K: La voz pasiva con «se» || «Se enseñó teología», «se usó la roca volcánica», «se cerró definitivamente». Cuando no importa quién hace la acción, el español usa «se» + verbo. Es mucho más común que «fue enseñada» o «fue usada».
+ERNESTO: Entonces, ¿cuál es la fecha correcta?
+T: Contesta que hay varias fechas: 1551, 1910 y 1952.
+  = Hay varias fechas: 1551, 1910 y 1952.
+  = Hay varias: 1551, 1910 y 1952.
+  = Hay tres fechas: 1551, 1910 y 1952.
+  = Depende: 1551, 1910 y 1952.
+  = Hay varias fechas.
+  ! «Hay varias fechas.» Las fechas se escriben con números y se leen: «mil quinientos cincuenta y uno».
+ERNESTO: Muy bien. Y todas son correctas. Eso es la historia: depende de qué pregunta hagas.
+
+== patrimonio | Un campus patrimonio de la humanidad ==
+N: El profesor camina con el grupo hacia la Rectoría, una torre con un mural en relieve que parece salir de la pared. Al otro lado de la avenida Insurgentes se ve el estadio, con una gran figura de piedras de colores en la fachada.
+ERNESTO: Último texto del curso. Después, quien quiera, me invita un café. Ja, ja. No, en serio, léanlo con calma.
+H: Un campus patrimonio de la humanidad
+R: Ciudad Universitaria no es solo un conjunto de edificios para dar clases. Es una de las obras más ambiciosas de la arquitectura moderna en América Latina. Sus creadores querían unir dos cosas: las ideas de la arquitectura internacional de su tiempo, con líneas rectas, vidrio y espacios abiertos, y la tradición mexicana, con sus plazas, su piedra volcánica y, sobre todo, sus murales.
+R: Por eso los artistas no pintaron solo en el interior. La Biblioteca Central, de Juan O'Gorman, está cubierta por fuera con un mosaico de piedras de colores naturales, recogidas en distintas partes del país, que cuenta la historia de México desde la época prehispánica hasta el mundo moderno. En la Rectoría, David Alfaro Siqueiros hizo un mural en relieve en el que unos estudiantes entregan sus libros a la sociedad. Y en el estadio, Diego Rivera hizo con piedras un gran relieve sobre el deporte y la historia de México, que quedó sin terminar.
+R: Ese estadio, el Olímpico Universitario, fue la sede principal de los Juegos Olímpicos de 1968. Allí se encendió la llama olímpica, y fue la primera vez que lo hizo una mujer: la atleta mexicana Enriqueta Basilio. Hoy es la casa de los Pumas, el equipo de fútbol de la universidad.
+R: En 2007, la UNESCO declaró el campus central de Ciudad Universitaria patrimonio de la humanidad. Es uno de los pocos campus universitarios del mundo con ese reconocimiento.
+R: Pero CU es, sobre todo, un lugar vivo. La UNAM tiene hoy más de trescientos cincuenta mil estudiantes, contando sus preparatorias, y la matrícula sigue siendo prácticamente gratuita. Cuando en 1999 se intentó subir las cuotas, los estudiantes hicieron una huelga que cerró la universidad durante casi diez meses. Entre sus antiguos alumnos hay tres premios Nobel: el escritor Octavio Paz, el diplomático Alfonso García Robles y el químico Mario Molina. Y entre sus edificios todavía crece la vegetación del Pedregal, protegida en una reserva ecológica: la lava del Xitle, que acabó con Cuicuilco, sostiene hoy la universidad más grande del país.
+Q: ¿Qué querían unir los creadores de Ciudad Universitaria?
+  * La arquitectura internacional moderna y la tradición mexicana. || Vidrio y líneas rectas, pero también piedra volcánica y murales.
+  - La arquitectura colonial y la prehispánica. || No es lo que dice el texto.
+  - El estilo de Bellas Artes y el de la catedral. || No.
+Q: ¿Qué tiene de especial el mosaico de la Biblioteca Central?
+  * Está hecho con piedras de colores naturales de todo México. || Y cuenta la historia del país.
+  - Está pintado con pintura moderna. || Son piedras, no pintura.
+  - Es una copia de un mural de Rivera. || Es de Juan O'Gorman.
+Q: ¿Qué pasó por primera vez en los Juegos Olímpicos de 1968?
+  * Una mujer encendió la llama olímpica. || Enriqueta Basilio, atleta mexicana.
+  - Se jugó un partido de los Pumas. || El texto no dice eso.
+  - México ganó todas las medallas. || No.
+Q: ¿Por qué hubo una huelga en 1999?
+  * Porque se intentó subir las cuotas. || La universidad estuvo cerrada casi diez meses.
+  - Porque cerraron la biblioteca. || No.
+  - Por los Juegos Olímpicos. || Eso fue en 1968.
+Q: ¿Verdadero o falso? «El relieve de Diego Rivera en el estadio quedó sin terminar.»
+  * Verdadero. || «Quedó sin terminar.»
+  - Falso. || Vuelve a leer el segundo párrafo.
+K: Cerrar el círculo || Con «la lava del Xitle, que acabó con Cuicuilco, sostiene hoy la universidad», el texto vuelve al principio del curso. Los relatos en español a menudo terminan así, retomando la primera imagen: «y así, la historia vuelve a empezar».
+ERNESTO: Bueno, se acabó el curso. Ha sido un placer. Espero que ahora vean esta ciudad de otra forma: con todas sus capas.
+C: Quieres darle las gracias al profesor por el curso. ¿Qué dices?
+  * Muchas gracias, profesor. {{Aprendí muchísimo|I learned a huge amount}}. || Agradecimiento directo y sincero, con un pretérito bien usado.
+  ~ Gracias. || Correcto, pero muy breve después de un semestre entero.
+  ~ Muchas gracias, profesor. He aprendido muchísimo. || También es correcto, pero en México, para algo ya terminado, se prefiere «aprendí».
+ERNESTO: Gracias a ustedes. Y ya saben: cuando regresen a México, vengan a verme. Esta ciudad nunca se termina de leer.
+T: Dile al profesor que vas a volver.
+  = Voy a volver.
+  = ¡Voy a volver, profesor!
+  = Le prometo que voy a volver.
+  = Sí, voy a volver.
+  = Claro que voy a volver.
+  = Voy a regresar.
+  ! «Voy a volver» o, muy mexicano, «voy a regresar».
+ERNESTO: Más les vale. ¡Goya!

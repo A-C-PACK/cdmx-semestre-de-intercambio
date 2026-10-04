@@ -1,0 +1,87 @@
+{
+  "high_level_description": "Chapultepec Castle on top of its wooded hill in Mexico City, seen from below through the trees of the park, with a boating lake in the foreground.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A clear blue sky over a forested hill.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          80,
+          150,
+          460,
+          900
+        ],
+        "desc": "A pale neoclassical castle with terraces, arches and a small round tower on top of a hill.",
+        "color_palette": [
+          "#F6E7C8",
+          "#E9D3A1",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          380,
+          0,
+          760,
+          1000
+        ],
+        "desc": "Thick green forest of tall cypress and ash trees on the hill.",
+        "color_palette": [
+          "#3F7D4E",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          740,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A calm lake with small rowing boats and families.",
+        "color_palette": [
+          "#7FC4D6",
+          "#2E6F8E",
+          "#C2477A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          620,
+          680,
+          900,
+          960
+        ],
+        "desc": "A young man in a hoodie holding a leaflet and pointing up at the castle.",
+        "color_palette": [
+          "#3F7D4E",
+          "#F2C9A0",
+          "#1F3A4D"
+        ]
+      }
+    ]
+  }
+}

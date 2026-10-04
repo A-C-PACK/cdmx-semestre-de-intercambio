@@ -1,0 +1,99 @@
+@part 2
+@id teotihuacan
+@name Teotihuacan
+@era Clásico · hacia 100 a. C. – 550 d. C.
+@geo 19.6925 -98.8438 city l
+@focus 0.45
+@route A unos cincuenta kilómetros al noreste de la ciudad. Hay autobuses desde la Terminal del Norte (metro Autobuses del Norte, línea 5).
+@blurb La ciudad más grande de la América antigua en su época. Cuando llegaron los mexicas ya estaba en ruinas, y la llamaron «el lugar donde nacieron los dioses».
+@visit La Calzada de los Muertos, las pirámides del Sol y de la Luna, el templo de la Serpiente Emplumada y varios palacios con pinturas murales.
+
+== dioses | La ciudad de los dioses ==
+N: Sábado, siete de la mañana. El autobús del CEPE sale hacia el norte. Una hora después, en medio de un valle seco con nopales, aparecen dos montañas demasiado perfectas para ser montañas.
+VALERIA: ¡Llegamos! Yo vine con la escuela cuando tenía diez años y subí la pirámide del Sol corriendo. Hoy no sé si llego, ja, ja. El profe dice que primero leamos y luego caminemos.
+ERNESTO: Exacto. Teotihuacan es enorme: si caminan sin saber qué ven, solo van a ver piedras. Aquí tienen el primer texto. Léanlo a la sombra.
+C: Quieres saber si se puede subir a las pirámides. ¿Qué le preguntas al profesor?
+  * ¿{{Se puede subir|is it possible to climb, can one climb}} a las pirámides? || «Se puede» + infinitivo pregunta lo que está permitido, en general.
+  ~ ¿Subimos? || Se entiende, pero no preguntas si está permitido.
+  - ¿Se pueden subir a las pirámides? || Con infinitivo, «se puede» va en singular: «¿se puede subir…?».
+ERNESTO*: Antes se subía hasta arriba. En los últimos años el acceso ha estado restringido muchas veces, para protegerlas. Pregunten en la entrada ese día. Pero primero, el texto.
+H: La ciudad de los dioses
+R: Cuando los mexicas llegaron al valle de México, en el siglo trece o catorce, encontraron al norte de los lagos una ciudad abandonada desde hacía siglos. Había avenidas, plazas, palacios en ruinas y dos pirámides gigantescas cubiertas de tierra y plantas. Nadie recordaba quién las había construido. Los mexicas pensaron que algo así solo podía ser obra de los dioses, y le dieron el nombre que usamos hoy: Teotihuacan, que se suele traducir como «el lugar donde los hombres se convierten en dioses».
+R: Según su mitología, fue allí donde nacieron el Sol y la Luna. Contaban que, cuando el mundo estaba a oscuras, los dioses se reunieron en Teotihuacan y encendieron una gran hoguera. Para que hubiera luz, uno de ellos tenía que {{arrojarse|to throw oneself}} al fuego. El primero en hacerlo fue Nanahuatzin, un dios pobre y enfermo, y se convirtió en el Sol. El segundo, el rico y orgulloso Tecuciztécatl, dudó, saltó después y se convirtió en la Luna. Por eso, decían, la Luna brilla menos.
+R: Los mexicas también bautizaron los edificios. Llamaron a las dos grandes pirámides «del Sol» y «de la Luna», y a la avenida principal, «Calzada de los Muertos», porque creían que los montículos que la rodeaban eran tumbas de reyes. {{En realidad|actually, in reality}} eran templos y palacios. Los nombres se quedaron, aunque probablemente no tienen nada que ver con lo que pensaban los verdaderos constructores.
+R: ¿Quiénes fueron esos constructores? Todavía no lo sabemos con certeza. No sabemos qué lengua hablaban ni cómo se llamaban a sí mismos. Sabemos, eso sí, que eran grandes urbanistas. La ciudad se organizó a partir de la Calzada de los Muertos, una avenida de más de dos kilómetros, y todo se construyó siguiendo la misma orientación, ligeramente girada respecto al norte. La pirámide del Sol, de más de sesenta metros de altura, se terminó hacia el año 200 de nuestra era. Debajo de ella, en 1971, se descubrió un túnel que lleva a una cueva: quizás el lugar sagrado que dio origen a la ciudad.
+R: En 1987, la UNESCO declaró Teotihuacan patrimonio de la humanidad. Hoy es una de las zonas arqueológicas más visitadas de México.
+Q: ¿Quién le dio a la ciudad el nombre de Teotihuacan?
+  * Los mexicas, siglos después de que fuera abandonada. || Los constructores originales la llamaban de otra forma, que no conocemos.
+  - Los constructores de la ciudad. || No sabemos cómo la llamaban ellos.
+  - Los arqueólogos del siglo veinte. || El nombre es mexica, del náhuatl.
+Q: Según el mito, ¿por qué la Luna brilla menos que el Sol?
+  * Porque Tecuciztécatl dudó y saltó al fuego después. || El dios pobre fue valiente primero; el rico tuvo miedo.
+  - Porque Nanahuatzin era más rico. || Al contrario: Nanahuatzin era pobre y enfermo.
+  - Porque la hoguera se apagó. || El mito no dice eso.
+Q: ¿Por qué se llama «Calzada de los Muertos» la avenida principal?
+  * Porque los mexicas creyeron que había tumbas a los lados. || En realidad eran templos y palacios.
+  - Porque ahí se enterraba a los reyes de Teotihuacan. || Eso es lo que creían los mexicas, pero no era así.
+  - Por el Día de Muertos. || No tiene relación con esa fiesta.
+Q: «Todavía no lo sabemos con certeza» quiere decir que…
+  * no estamos seguros. || «Con certeza» = con seguridad.
+  - no nos interesa. || No: es que no hay datos suficientes.
+  - ya lo sabemos todo. || Es lo contrario.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Se termina la pirámide del Sol.
+  = La ciudad queda abandonada.
+  = Los mexicas encuentran las ruinas y les ponen nombre.
+  = Se descubre un túnel bajo la pirámide del Sol.
+  = La UNESCO declara la ciudad patrimonio de la humanidad.
+  ! Los nombres que usamos son mil años posteriores a la construcción.
+K: «Se convierten en» || «Convertirse en» expresa un cambio profundo: «Nanahuatzin se convirtió en el Sol», «Cuicuilco se convirtió en una ciudad». Para cambios de estado de ánimo se usa «ponerse»: «se puso triste».
+VALERIA: Qué fuerte, ¿no? Que no sepamos ni cómo se llamaban. Bueno, ¿vamos a la calzada?
+T: Dile a Valeria que sí y propón ir primero a la pirámide de la Luna.
+  = Sí, vamos primero a la pirámide de la Luna.
+  = Sí. Primero vamos a la pirámide de la Luna.
+  = Sí, ¿vamos primero a la pirámide de la Luna?
+  = Vamos primero a la pirámide de la Luna.
+  = Sí, primero a la pirámide de la Luna.
+  = Sí, pero primero vamos a la pirámide de la Luna.
+  ! «Vamos» sirve para proponer: «vamos primero a…».
+
+== ciudad | Una ciudad de cien mil personas ==
+N: Caminan por la Calzada de los Muertos bajo un sol fuerte. Desde la plaza de la Luna, la avenida se ve recta hasta el horizonte. El profesor los lleva a un palacio con columnas talladas y restos de pintura roja.
+ERNESTO: Las pirámides impresionan, pero la verdadera maravilla de Teotihuacan es otra: aquí vivía muchísima gente. ¿Cuánta? Lean.
+H: Una ciudad de cien mil personas
+R: En su mejor momento, entre los años 350 y 550, Teotihuacan ocupaba unos veinte kilómetros cuadrados y tenía, según los cálculos de los arqueólogos, alrededor de cien mil habitantes, quizás más. Era la ciudad más grande del continente americano y una de las más grandes del mundo en aquella época.
+R: La mayoría de sus habitantes vivía en conjuntos de departamentos: grandes edificios de una sola planta, con muros exteriores sin ventanas y, por dentro, patios, cuartos y pequeños altares. En cada conjunto vivían varias familias, quizás {{emparentadas|related (by family)}} entre sí, que compartían el trabajo y los dioses de la casa. Se han encontrado más de dos mil de estos conjuntos. Muchos tenían las paredes pintadas con murales de colores: jaguares, sacerdotes, flores, agua.
+R: Teotihuacan era, además, una ciudad de muchos pueblos. Los arqueólogos han descubierto barrios donde vivían familias llegadas de Oaxaca, que enterraban a sus muertos según sus propias costumbres, y otros con objetos de la costa del Golfo y del área maya. Los teotihuacanos comerciaban con obsidiana, una piedra volcánica negra con la que se hacían cuchillos y puntas de flecha, y sus productos llegaban a cientos de kilómetros. Su influencia fue tan grande que, en el año 378, un grupo relacionado con Teotihuacan intervino en la política de Tikal, una de las grandes ciudades mayas, en lo que hoy es Guatemala.
+R: Y, sin embargo, hacia el año 550 algo se rompió. Los templos y palacios del centro fueron incendiados, y muchas esculturas, destruidas. ¿Quién lo hizo? Durante años se pensó en invasores del norte, pero hoy muchos especialistas creen que fue una revuelta interna, quizás contra una élite cada vez más rica, en una época de sequías y malas cosechas. Después del incendio, la población se fue reduciendo poco a poco, y la gran ciudad se convirtió en un conjunto de pueblos entre las ruinas.
+R: Cuando los mexicas la encontraron, ochocientos años más tarde, ya solo quedaban sus piedras y su misterio. Pero la idea de una gran ciudad ordenada en el centro del valle no desapareció. Tenochtitlan, la capital mexica, la iba a heredar.
+Q: ¿Cómo vivía la mayoría de los teotihuacanos?
+  * En conjuntos de departamentos donde vivían varias familias. || Edificios de una planta, con patios y altares.
+  - En casas individuales con jardín. || Vivían varias familias juntas.
+  - En las pirámides. || Las pirámides eran templos.
+Q: ¿Qué nos dicen los barrios de familias de Oaxaca?
+  * Que en la ciudad vivía gente de distintos pueblos. || Teotihuacan era una ciudad diversa.
+  - Que Oaxaca era la capital de Teotihuacan. || No: venían de Oaxaca a vivir a Teotihuacan.
+  - Que los teotihuacanos no comerciaban. || Al contrario: comerciaban mucho.
+Q: ¿Qué es la obsidiana?
+  * Una piedra volcánica negra para hacer cuchillos y flechas. || Fue uno de los grandes productos del comercio teotihuacano.
+  - Un tipo de pintura roja para los murales. || No: es una piedra.
+  - El nombre de un barrio. || No: es un material.
+Q: Hoy, según el texto, ¿qué creen muchos especialistas sobre el incendio del centro?
+  * Que fue una revuelta interna. || Quizás contra una élite rica, en tiempos de sequía.
+  - Que fue un volcán. || Eso fue en Cuicuilco.
+  - Que lo hicieron los mexicas. || Los mexicas llegaron ochocientos años después.
+Q: «La población se fue reduciendo poco a poco» quiere decir que…
+  * cada vez había menos gente. || «Ir» + gerundio describe un proceso lento.
+  - toda la gente se fue el mismo día. || No: «poco a poco».
+  - la ciudad creció. || Es lo contrario.
+K: «Ir» + gerundio || «La población se fue reduciendo», «el español va mejorando». Esta forma describe un cambio lento, paso a paso. Con «poco a poco» queda todavía más claro.
+ERNESTO*: Ahora imagínenlo: este palacio con los muros rojos, el olor del copal, cien mil personas en las calles… Bueno, ya. Aquí cerca hay un conjunto de departamentos con murales muy bien conservados, Tepantitla. ¿Quién quiere ir a verlo?
+T: Dile al profesor que tú quieres ir.
+  = Yo quiero ir.
+  = ¡Yo quiero ir!
+  = Yo sí quiero ir.
+  = Yo quiero ir, profesor.
+  = Yo voy.
+  = Yo quiero ir a verlo.
+  ! «Yo quiero ir.» Aquí el «yo» sí hace falta: te ofreces tú.
+ERNESTO: ¡Así me gusta! Vamos, despacio y con agua, que el sol aquí no perdona.

@@ -1,0 +1,87 @@
+{
+  "high_level_description": "The Basilica of Guadalupe in Mexico City with crowds of pilgrims, the modern round basilica with its sweeping green roof beside the leaning old baroque basilica, and the Tepeyac hill behind.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A clear sky over a green hill with small chapels on its slope.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          280,
+          0,
+          700,
+          560
+        ],
+        "desc": "A huge modern round church with a sweeping steep green copper roof and a tall cross.",
+        "color_palette": [
+          "#3F7D4E",
+          "#E9D3A1",
+          "#FFFFFF"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          240,
+          520,
+          720,
+          1000
+        ],
+        "desc": "An old baroque church with a tiled dome and four towers, leaning slightly.",
+        "color_palette": [
+          "#E9D3A1",
+          "#E8A33D",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          660,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A wide plaza full of pilgrims carrying red roses and flowers.",
+        "color_palette": [
+          "#B8402A",
+          "#C2477A",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          300,
+          300,
+          1000
+        ],
+        "desc": "A green hill with small white chapels.",
+        "color_palette": [
+          "#3F7D4E",
+          "#FFFFFF"
+        ]
+      }
+    ]
+  }
+}

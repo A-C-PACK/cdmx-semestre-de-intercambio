@@ -1,0 +1,86 @@
+@id metro
+@name Metro Viveros
+@short Metro
+@zone Coyoacán · línea 3
+@geo 19.3543 -99.1751 coyoacan l
+@focus 0.45
+@route La estación Viveros-Derechos Humanos de la línea 3, a quince minutos a pie de la casa.
+@blurb El metro mueve a millones de personas cada día, y cuesta cinco pesos. Hoy vas solo o sola al centro por primera vez.
+@goal Comprar y recargar la tarjeta, preguntar por la ruta y el transbordo, y entender los avisos del andén.
+
+== tarjeta | La tarjeta del metro ==
+N: Es sábado. Quieres ir al Zócalo, en el Centro Histórico. Diego te ha dicho que el metro es lo más rápido. En la entrada de la estación hay una taquilla con una pequeña fila.
+TAQUILLERA: Buenos días. ¿Qué va a querer?
+C: No tienes tarjeta del metro. ¿Qué dices?
+  * Buenos días. Quiero {{una tarjeta|a card (here, the transit card)}} del metro, por favor. || Claro y educado. Hoy el metro funciona casi solo con tarjeta recargable.
+  ~ Un boleto, por favor. || Antes había boletos de papel; ahora se usa la tarjeta. La taquillera lo va a entender.
+  - Buenos días. Quiero un billete, por favor. || En México, para el transporte se dice «boleto». «Billete» es el dinero de papel.
+TAQUILLERA*: La tarjeta cuesta quince pesos, y luego le recarga lo que quiera. El viaje en metro son cinco pesos, vaya a donde vaya, con todos los transbordos. La misma tarjeta le sirve para el Metrobús y el Tren Ligero.
+Q: ¿Cuánto cuesta un viaje en metro?
+  * Cinco pesos. || Cinco pesos, aunque cambies de línea. Es uno de los metros más baratos del mundo.
+  - Quince pesos. || Eso es lo que cuesta la tarjeta.
+  - Depende de la distancia. || No: «vaya a donde vaya», siempre el mismo precio.
+T: Pide la tarjeta con cien pesos de recarga.
+  = Una tarjeta con cien pesos de recarga, por favor.
+  = Una tarjeta con cien pesos, por favor.
+  = La tarjeta y cien pesos de recarga, por favor.
+  = Una tarjeta y una recarga de cien pesos, por favor.
+  = Una tarjeta con una recarga de cien pesos, por favor.
+  = Me da una tarjeta con cien pesos, por favor.
+  ! «Una tarjeta con cien pesos de recarga, por favor.»
+TAQUILLERA: Son ciento quince en total. ¿Efectivo?
+N: Pagas con un billete de doscientos. Ella te da la tarjeta y el cambio.
+TAQUILLERA: Ochenta y cinco de cambio. La pasa por el lector del torniquete y ya. ¡Siguiente!
+Q: ¿Cuánto cambio te da?
+  * Ochenta y cinco pesos. || Doscientos menos ciento quince.
+  - Cien pesos. || Los cien pesos son la recarga.
+  - Quince pesos. || Ese es el precio de la tarjeta.
+N: Antes de pasar el torniquete, miras el mapa de la pared. Cada línea tiene un color y cada estación tiene un dibujo: un árbol, una campana, un coyote…
+C: No estás seguro o segura de la ruta. Le mandas un audio a Diego. ¿Qué le preguntas?
+  * Oye, Diego, ¿{{cómo llego al Zócalo|how do I get to the Zócalo}}? || «¿Cómo llego a…?» es la pregunta perfecta para pedir direcciones. Con Diego, «oye» y «tú».
+  ~ Diego, ¿Zócalo? || Él te va a entender, pero es muy telegráfico.
+  - Oye, Diego, ¿cómo voy en el Zócalo? || El destino va con «a»: «¿cómo llego al Zócalo?».
+DIEGO*: ¡Fácil! Mira: te subes aquí a la línea tres, la verde olivo, dirección Indios Verdes. Te bajas en Hidalgo y ahí {{transbordas|you change lines (transbordar)}} a la línea dos, la azul, dirección Tasqueña. De Hidalgo al Zócalo son tres estaciones.
+Q: ¿Dónde tienes que cambiar de línea?
+  * En Hidalgo. || De la línea tres (verde olivo) a la línea dos (azul).
+  - En Indios Verdes. || Esa es la dirección, la última estación de la línea.
+  - En Tasqueña. || Es la dirección de la línea dos, no el transbordo.
+K: Los dibujos de las estaciones || Cada estación del metro tiene su propio icono, porque cuando se inauguró, en 1969, mucha gente no sabía leer. Por ejemplo, Coyoacán tiene un coyote, y Chapultepec, un chapulín (un saltamontes). Para orientarte, fíjate en el color de la línea y en el nombre de la última estación: esa es la «dirección».
+
+== anden | En el vagón ==
+N: Diego tenía razón: es un sábado tranquilo, pero el andén está lleno. En el suelo hay una zona marcada con letreros: los primeros vagones son solo para mujeres y niños.
+MEGAFONIA: Por su seguridad, no rebase la línea amarilla. Permita la salida antes de entrar. Los primeros vagones son exclusivos para mujeres y niños menores de doce años.
+Q: ¿Para quién son los primeros vagones?
+  * Para mujeres y niños menores de doce años. || Los vagones exclusivos existen en el metro y en el Metrobús.
+  - Para personas mayores. || Ellas tienen asientos reservados, pero los primeros vagones son para mujeres y niños.
+  - Para turistas. || No: el aviso no dice nada de turistas.
+N: Entras en el vagón. Una señora mayor está de pie junto a ti, con una bolsa del mercado. Hay un asiento libre a tu lado.
+C: Quieres ofrecerle el asiento a la señora. ¿Qué dices?
+  * Señora, {{siéntese|sit down (usted command of sentarse)}}, por favor. || Amable y natural. Con una persona mayor, siempre «usted».
+  ~ ¿Quiere sentarse? || Muy bien, también es educado.
+  - Siéntate, por favor. || Con una señora mayor que no conoces, «tú» suena demasiado familiar.
+SENORA: Ay, gracias, joven. Qué amable. {{Que Dios se lo pague|may God repay you (a traditional thank-you)}}.
+SENORA*: ¿Y adónde va? Se ve que no es de aquí. Si me dice, le aviso dónde bajarse.
+T: Dile que vas al Zócalo.
+  = Voy al Zócalo.
+  = Voy al Zócalo, señora.
+  = Al Zócalo.
+  = Voy al Zócalo, gracias.
+  = Al Zócalo, gracias.
+  = Voy al Zócalo, en el centro.
+  ! «Voy al Zócalo.» Recuerda: «a» + «el» = «al».
+SENORA: Ah, entonces se cambia en Hidalgo, ¿verdad? Yo me bajo antes, en Centro Médico. Pero no se preocupe, en cada estación lo anuncian.
+MEGAFONIA*: Próxima estación: Hidalgo. Correspondencia con línea dos. Permita la salida antes de entrar.
+Q: ¿Qué significa «correspondencia con línea dos»?
+  * Que en Hidalgo puedes cambiar a la línea dos. || «Correspondencia» = transbordo, conexión entre líneas.
+  - Que la línea dos está cerrada. || No: es al contrario, puedes conectar con ella.
+  - Que tienes que pagar otra vez. || Con la misma tarjeta, los transbordos no se pagan.
+N: Hay mucha gente entre tú y la puerta. El tren va a parar en Hidalgo.
+C: Necesitas pasar para bajarte. ¿Qué dices?
+  * {{Con permiso|excuse me (to get past)}}, ¿me deja pasar? || «Con permiso» es la forma mexicana de pedir paso. Muy útil en el metro.
+  ~ Perdón, perdón. || Se entiende, aunque en México «con permiso» es lo normal para pasar.
+  - ¡Bajo aquí! || La gente te va a entender, pero suena un poco brusco.
+SENORA: ¡Bájese con cuidado, joven! ¡Que le vaya bien!
+N: Cambias a la línea azul en dirección Tasqueña. Tres estaciones después, subes la escalera y sales a una plaza enorme, con una bandera gigante en el centro.
+K: «Con permiso» y «disculpe» || Para pasar entre la gente se dice «con permiso». Para llamar la atención de alguien o hacer una pregunta, «disculpe» (usted) o «disculpa» (tú). Si alguien te dice «con permiso», contesta «propio» o «pásele».
+K: La hora pico || Entre semana, de siete a nueve de la mañana y de seis a nueve de la noche, el metro va lleno. Lleva la mochila delante y el celular guardado.

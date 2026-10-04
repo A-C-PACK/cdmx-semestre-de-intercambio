@@ -1,0 +1,97 @@
+@id taqueria
+@name Una taquería en la Roma
+@short Taquería
+@zone Roma Norte · de noche
+@geo 19.4180 -99.1610 city t
+@focus 0.42
+@route Colonia Roma Norte, cerca de la avenida Álvaro Obregón. Metrobús línea 1, estación Álvaro Obregón.
+@blurb Viernes en la noche con Diego y sus amigos: tacos al pastor de pie, junto al trompo, y después volver a casa con seguridad.
+@goal Pedir tacos como en México, pagar lo que comiste, entender algo de slang y pedir un taxi de forma segura.
+
+== pastor | Tacos al pastor ==
+N: Son las diez de la noche. La taquería está llena y huele a carne asada y a piña. Junto a la entrada hay un trompo enorme de carne roja que gira, con una piña encima. El taquero corta la carne con un cuchillo largo, rapidísimo.
+GUERO: ¡Buenas noches, jóvenes! ¿Qué van a querer? ¿De pastor, de suadero, de bistec?
+DIEGO: Para mí, cinco de pastor con todo. Y tú, ¿qué vas a querer? Te recomiendo el pastor, es el clásico.
+C: Quieres tres tacos al pastor. ¿Qué le dices al taquero?
+  * Tres de pastor, por favor. || Así se pide en una taquería: el número y el tipo. No hace falta decir «tacos».
+  ~ Quiero tacos al pastor. || Se entiende, pero el taquero va a tener que preguntar cuántos.
+  - Tres tacos de pastor, si es posible, por favor. || Es correcto, pero «si es posible» sobra en una taquería: suena demasiado formal.
+GUERO: ¿{{Con todo|with everything (cilantro and onion)}}? ¿Con piña?
+Q: En una taquería, ¿qué quiere decir «con todo»?
+  * Con cilantro y cebolla. || Es lo más normal. Las salsas y el limón te los pones tú.
+  - Con todas las salsas. || Las salsas están en la mesa; tú decides.
+  - Con queso y crema. || Los tacos al pastor normalmente no llevan queso ni crema.
+T: Contesta que sí: con todo y con piña.
+  = Sí, con todo y con piña.
+  = Con todo y con piña, por favor.
+  = Sí, con todo y con piña, por favor.
+  = Con todo y piña.
+  = Sí, con todo y piña.
+  ! «Sí, con todo y con piña.»
+GUERO*: Ahí van. Las salsas están en la barra: la roja es de chile de árbol y pica, ¿eh? La verde es de tomatillo y {{pica menos|is less spicy}}… Bueno, hoy le salió un poco brava. Ahí ustedes con cuidado.
+Q: ¿Qué dice el taquero de la salsa verde?
+  * Que normalmente pica menos, pero hoy pica más. || «Hoy le salió un poco brava»: hoy está más picante de lo normal.
+  - Que es la más picante de todas. || Normalmente es la que pica menos.
+  - Que se acabó. || No: dice que hoy está brava.
+N: Comes el primer taco. Está buenísimo. Diego ya va por el cuarto.
+DIEGO*: ¿Qué tal? ¿Está chido o qué? Échale limón, así, unas gotas. Y si quieres otro, nomás le dices al Güero «otro de pastor». Aquí pagas al final: le dices cuántos te comiste y ya.
+Q: ¿Cómo se paga en esta taquería?
+  * Al final, diciendo cuántos tacos comiste. || Es muy común en las taquerías: el taquero confía en ti.
+  - Antes de comer, en una caja. || Aquí no: se paga al final.
+  - Cada taco, al momento de recibirlo. || No: le dices el total al final.
+C: Quieres otro taco, pero de suadero. ¿Qué dices?
+  * Güero, {{otro de suadero|another one of suadero}}, por favor. || Perfecto. Al taquero se le llama por su apodo, si todos lo hacen.
+  ~ Uno más. || Va a entender, pero no sabe de qué lo quieres.
+  - Güero, uno otro de suadero. || «Otro» ya significa «uno más»: no se dice «uno otro».
+GUERO: ¡Uno de suadero con todo! ¿Algo de tomar, jóvenes? Hay refrescos y aguas.
+N: Al final, el Güero se acerca para cobrar.
+GUERO: ¿Cuántos fueron?
+T: Comiste tres de pastor y uno de suadero. Díselo.
+  = Tres de pastor y uno de suadero.
+  = Fueron tres de pastor y uno de suadero.
+  = Tres de pastor y uno de suadero, por favor.
+  = Me comí tres de pastor y uno de suadero.
+  = Cuatro: tres de pastor y uno de suadero.
+  ! «Fueron tres de pastor y uno de suadero.»
+GUERO: Son ochenta y ocho. Gracias, jóvenes. ¡Vuelvan pronto!
+K: El taco al pastor || La carne se adoba con chiles y especias y se asa en un «trompo» vertical. La técnica viene de los inmigrantes libaneses que llegaron a México a principios del siglo veinte con su shawarma; en México cambió el cordero por el cerdo y le añadió la piña.
+K: Pedir en la taquería || «Dos de pastor», «uno de bistec», «con todo», «sin cebolla», «otro de suadero». Al final: «¿cuánto le debo?» o, si te preguntan «¿cuántos fueron?», el número de tacos.
+
+== regreso | Volver a casa ==
+N: Es casi medianoche. Los amigos de Diego se van en otra dirección. Recibes un mensaje de Rocío: «¿Cómo van? Avísame cuando vengan para acá. Mejor pidan un taxi por aplicación, no tomen uno en la calle».
+DIEGO: Mi mamá ya escribió, ¿verdad? Ja, ja. Siempre. Bueno, tiene razón. Pide el carro en tu app y yo me voy contigo. A esta hora el metro ya va a cerrar.
+Q: ¿Qué les recomienda Rocío para volver?
+  * Un taxi por aplicación. || Y no un taxi de la calle.
+  - El metro. || El metro está a punto de cerrar.
+  - Ir caminando. || Coyoacán está demasiado lejos para ir a pie de noche.
+C: Quieres contestar a Rocío. ¿Qué le escribes?
+  * Ya vamos para allá, en un taxi de aplicación. {{No te preocupes|don't worry (tú)}}. || Le das la información y la tranquilizas.
+  ~ Ok. || Muy corto. Rocío se va a quedar con dudas.
+  - Ya vamos por allá. || «Ir para allá» indica hacia dónde vas; «por allá» significa «por esa zona».
+N: Mientras esperan el carro en la puerta de la taquería, Diego te enseña palabras que no están en los libros.
+DIEGO*: Oye, ya que estamos: aquí todo el mundo dice «¿qué onda?» para saludar, «chido» o «padre» para algo que está bien, y «¿neta?» cuando no crees algo. «Neta» es «verdad». Y si algo te sorprende, dices «¡no manches!».
+Q: Si un amigo te cuenta algo increíble, ¿qué puedes decir?
+  * ¿Neta? ¡No manches! || Muestran sorpresa. Son muy coloquiales: úsalos con amigos, no con tu profesor.
+  - ¡Qué padre, señor! || «Qué padre» es para algo que te gusta, y «señor» no va con el tono.
+  - ¿Qué onda? || Eso es un saludo.
+DIEGO*: Y otra: «güey». Entre amigos es como «dude», y lo vas a oír cada dos palabras. Pero aguas: con gente que no conoces o con gente mayor puede sonar muy mal. Mejor no lo uses hasta que sepas bien cuándo.
+Q: ¿Qué consejo te da Diego sobre «güey»?
+  * Que no lo uses todavía, porque puede sonar mal. || Entre amigos es normal, pero con desconocidos o mayores puede ofender.
+  - Que lo uses siempre, porque es muy amable. || No: dice que tengas cuidado.
+  - Que solo lo usan las personas mayores. || Al contrario: es de jóvenes.
+N: Llega un carro blanco. En la app ves la foto del conductor, el modelo del coche y las placas.
+C: Antes de subirte, ¿qué le dices al conductor?
+  * Buenas noches. ¿Va a Coyoacán, a la colonia Del Carmen? || Confirmas que es tu viaje antes de subirte. Es una buena costumbre de seguridad.
+  ~ Hola. || Saludas, pero no compruebas que es tu carro.
+  - ¿Usted es mi taxi? || Se entiende, pero es mejor confirmar con un nombre o el destino.
+DIEGO: Así me gusta. Yo comparto el viaje con mi mamá, para que lo vea en su celular. Ahora sí, vámonos.
+T: Escríbele a Rocío que ya están en el taxi.
+  = Ya estamos en el taxi.
+  = Ya estamos en el taxi, llegamos pronto.
+  = Ya estamos en el taxi. Ahorita llegamos.
+  = Ya estamos en el carro.
+  = Ya vamos en el taxi.
+  = Ya estamos en el taxi, ya vamos para allá.
+  ! «Ya estamos en el taxi.»
+K: Seguridad de noche || De noche, usa taxis de aplicación o taxis de sitio. Comprueba las placas y el nombre del conductor antes de subir, y comparte el viaje con alguien. El metro cierra cerca de la medianoche entre semana; consulta el horario del día.
+K: ¿Carro, coche o auto? || En México se dice sobre todo «carro» y «coche». «Auto» también se entiende. Y el autobús de la ciudad es «el camión», aunque también existen el «pesero» y el «micro».

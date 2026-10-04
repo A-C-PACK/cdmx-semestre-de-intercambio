@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The great Pyramid of the Sun at Teotihuacan seen from the long Avenue of the Dead, with the Pyramid of the Moon in the distance and dry hills under a vast blue sky.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A vast blue sky with a few white clouds over a dry valley and distant hills.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          300,
+          800,
+          1000
+        ],
+        "desc": "A huge stepped stone pyramid with a long staircase, warm grey and ochre stone.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#D9622B"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          380,
+          0,
+          700,
+          320
+        ],
+        "desc": "A smaller stepped pyramid at the far end of a long straight avenue.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          700,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A long wide stone avenue lined with low platforms, with a few tiny walking figures.",
+        "color_palette": [
+          "#F6E7C8",
+          "#E8A33D",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          780,
+          0,
+          1000,
+          220
+        ],
+        "desc": "Prickly pear cacti in the foreground.",
+        "color_palette": [
+          "#3F7D4E",
+          "#C2477A"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+@id casa
+@name La casa de la familia
+@short La casa
+@zone Coyoacán · colonia Del Carmen
+@geo 19.3470 -99.1705 coyoacan b
+@focus 0.45
+@route Una calle tranquila de Coyoacán, a diez minutos a pie del centro del barrio.
+@blurb Vas a vivir cuatro meses con la familia Hernández: Rocío, Arturo y su hijo Diego, que estudia en la UNAM.
+@goal Presentarte, entender las reglas de la casa y comer con la familia sin meter la pata.
+
+== llegada | Estás en tu casa ==
+N: Tocas el timbre. Se oye un perro, unos pasos rápidos y la puerta verde se abre. Una señora de unos cincuenta años te sonríe con los brazos abiertos.
+ROCIO: ¡Ya llegaste! Yo soy Rocío. ¡Qué gusto conocerte por fin! Pásale, pásale, {{estás en tu casa|make yourself at home (lit. you are in your house)}}.
+C: Es la primera vez que ves a tu mamá anfitriona. ¿Qué dices?
+  * ¡Mucho gusto, Rocío! Muchas gracias por recibirme. || Cálido y educado. «Gracias por recibirme» es perfecto para llegar a una casa.
+  ~ Hola, mucho gusto. || Correcto, aunque un poco frío para una familia que te recibe con abrazos.
+  - ¡Hola! ¿Dónde está mi cuarto? || Demasiado directo. Primero se saluda y se agradece; el cuarto puede esperar.
+ROCIO: ¡Ay, no hay nada que agradecer! Mira, él es Arturo, mi esposo. Y el {{flaco|skinny one (affectionate)}} de allá es Diego, nuestro hijo. Diego, ¡ven a saludar!
+DIEGO: ¿Qué onda? Soy Diego. ¡Por fin llegaste! Mi mamá lleva toda la semana limpiando tu cuarto, ja, ja. Estudio ingeniería en la UNAM, así que te puedo enseñar el campus cuando quieras.
+Q: ¿Qué estudia Diego?
+  * Ingeniería. || Y en la UNAM, como tú: te puede enseñar el campus.
+  - Letras. || No: dice «ingeniería».
+  - Historia de México. || No, estudia ingeniería.
+ARTURO: Mucho gusto. Yo soy Arturo. Aquí somos tranquilos, pero los domingos hay comida familiar y viene media familia. {{Ya te acostumbrarás|you'll get used to it}}.
+T: Arturo te saluda. Responde con «mucho gusto» y su nombre.
+  = Mucho gusto, Arturo.
+  = Mucho gusto, Arturo. Gracias.
+  = Igualmente, Arturo. Mucho gusto.
+  = Mucho gusto.
+  = Encantado/a, Arturo.
+  = Encantado/a.
+  ! «Mucho gusto, Arturo.» («Encantado» o «encantada» también se dice.)
+ROCIO*: Ven, te enseño tu cuarto. Aquí tienes tus llaves: esta es de la puerta de la calle y esta, de la reja. Si llegas tarde, me mandas un mensaje, ¿sí? No es para controlarte, es para no preocuparme.
+Q: ¿Por qué quiere Rocío un mensaje si llegas tarde?
+  * Para no preocuparse. || «No es para controlarte, es para no preocuparme.»
+  - Para cerrar la puerta con llave. || Ya te dio las llaves.
+  - Porque la casa cierra a las diez. || No dice eso. Solo quiere saber que estás bien.
+ROCIO*: Ah, y otra cosa importante: el agua de la llave no se toma. Para tomar, usa el agua del {{garrafón|large water jug (Mexico)}}, el que está en la cocina. Para lavarte los dientes, también, si tienes el estómago delicado.
+Q: ¿Qué agua puedes tomar?
+  * La del garrafón de la cocina. || En México casi nadie toma el agua de la llave: se usa agua purificada.
+  - La de la llave del baño. || Rocío dice justo lo contrario.
+  - Solo agua mineral de botella. || No hace falta: el garrafón es agua purificada.
+C: Quieres preguntar si puedes usar la lavadora. ¿Cómo lo dices?
+  * ¿{{Puedo usar|can I use}} la lavadora? || Pregunta clara y educada. Con la familia se usa «tú».
+  ~ ¿Hay lavadora? || Se entiende, pero no pides permiso.
+  - ¿Puede usar la lavadora? || «Puede» es para otra persona (usted). Para ti: «¿puedo…?».
+ROCIO: ¡Claro! Cuando quieras. Los sábados yo lavo, pero tú lo usas cualquier día. Ahora descansa un ratito, que en una hora comemos.
+K: «Estás en tu casa» || Es la fórmula de hospitalidad mexicana: quiere decir que puedes estar cómodo. Se responde con un simple «gracias». También vas a oír «mi casa es tu casa». Al despedirte de una visita, la gente dice «aquí tienes tu casa».
+
+== comida | La comida familiar ==
+N: Son las tres de la tarde. En México, «la comida» es la comida fuerte del día, entre las dos y las cuatro. La mesa está llena: sopa de fideo, arroz rojo, frijoles, tortillas calientitas y un platón de pollo con mole.
+ROCIO: Siéntate aquí, junto a Diego. ¿Ya probaste el mole? Es de Puebla, como mi mamá. Tiene chiles, chocolate, cacahuate… como veinte ingredientes.
+Q: Según Rocío, ¿qué lleva el mole?
+  * Chiles, chocolate y muchos ingredientes más. || «Como veinte ingredientes». El mole poblano es uno de los platos más famosos de México.
+  - Solo chocolate. || El chocolate es solo uno de los ingredientes.
+  - Pollo y arroz. || El pollo va con el mole, y el arroz está aparte.
+N: Antes de empezar, Arturo y Diego miran a todos y dicen algo al mismo tiempo.
+ARTURO: ¡{{Provecho|enjoy your meal (said before or during eating)}}!
+C: Todos dicen «¡provecho!». ¿Qué respondes?
+  * ¡Gracias, igualmente! || La respuesta normal. Y si pasas junto a alguien que come, también se dice «provecho».
+  ~ ¡Provecho! || También es normal repetirlo.
+  - ¡Salud! || «Salud» es para brindar o cuando alguien estornuda.
+DIEGO: Pruébalo con tortilla, así, mira. Haces un taquito. Es la forma más mexicana de comer.
+ROCIO*: ¿Te gusta? ¿{{Quieres más|do you want more}}? Hay un montón. Aquí nadie se queda con hambre, ¿eh? Sírvete con confianza.
+C: Está muy rico, pero ya no tienes hambre. ¿Cómo dices que no con educación?
+  * Está riquísimo, gracias, pero ya {{no puedo más|I can't eat any more}}. || Primero el elogio, después el «no». Así nadie se ofende.
+  ~ No, gracias. || Correcto, pero en una casa mexicana un «no» solo puede parecer que no te gustó.
+  - No me gusta. || Aunque fuera verdad, es muy brusco con quien cocinó.
+ROCIO: ¡Ay, qué bueno que te gustó! Bueno, pero el postre sí, ¿eh? Hice arroz con leche.
+DIEGO*: Te advierto: mi mamá va a decir que comes muy poquito y te va a servir más. Siempre. Es su forma de decir que te quiere. Ja, ja.
+Q: Según Diego, ¿qué significa que Rocío te sirva más comida?
+  * Que te quiere y te cuida. || En muchas familias mexicanas, la comida es una forma de cariño.
+  - Que no le gusta cocinar. || Es al contrario.
+  - Que tienes que comer todo. || Puedes decir que no con educación.
+ARTURO: ¿Y cómo te sientes? El vuelo fue largo, ¿no?
+T: Di que estás cansado o cansada, pero muy contento o contenta.
+  = Estoy cansado/a, pero muy contento/a.
+  = Estoy un poco cansado/a, pero muy contento/a.
+  = Un poco cansado/a, pero muy contento/a.
+  = Cansado/a, pero muy contento/a.
+  = Estoy cansado/a pero contento/a.
+  = Estoy muy cansado/a, pero muy contento/a.
+  ! «Estoy cansado/a, pero…» Elige la forma que vaya contigo: cansado o cansada.
+ARTURO: Normal. Y aquí estamos a dos mil doscientos metros de altura, ¿eh? Los primeros días te vas a cansar más. Toma mucha agua.
+N: Después del postre, Diego se levanta y empieza a recoger los platos.
+C: Quieres ayudar. ¿Qué dices?
+  * ¿Te ayudo a recoger? || Ofrecer ayuda siempre cae bien. Con «¿te ayudo?» no hace falta más.
+  ~ Yo lavo los platos. || Generoso, pero suena a orden. Mejor preguntar primero.
+  - ¿Tú me ayudas? || Así le pides ayuda a él, y no al revés.
+ROCIO: ¡Ay, qué {{lindo|kind, sweet (Mexico)}}! Hoy no, que acabas de llegar. Mañana sí te pongo a lavar, ja, ja. Ve a descansar.
+K: Desayuno, comida y cena || En México se desayuna fuerte (huevos, frijoles, fruta), «la comida» es entre las dos y las cuatro y es la más grande, y la cena es ligera: un pan dulce con café o unos tacos. «Almuerzo» puede ser un segundo desayuno a media mañana.
+K: La altura || La Ciudad de México está a unos 2 240 metros sobre el nivel del mar. Los primeros días es normal cansarse más, dormir mal o sentir dolor de cabeza. Toma agua y no corras.

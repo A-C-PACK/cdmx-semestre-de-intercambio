@@ -1,0 +1,91 @@
+@id xochimilco
+@name Xochimilco
+@short Xochimilco
+@zone Xochimilco · embarcadero Nuevo Nativitas
+@geo 19.2521 -99.0935 city l
+@focus 0.45
+@route Tren Ligero desde Tasqueña hasta la estación Xochimilco, y de ahí un taxi corto o veinte minutos a pie.
+@blurb Los canales de Xochimilco son lo que queda del gran lago del valle. Un sábado en trajinera es un clásico para los estudiantes.
+@goal Rentar una trajinera, entender la tarifa y calcular cuánto paga cada uno, y comprar comida desde el agua.
+
+== trajinera | Rentar la trajinera ==
+N: Es sábado. Vas con Valeria, Diego y tres estudiantes del CEPE. En el embarcadero hay docenas de trajineras de colores, cada una con un nombre de mujer pintado en un arco de flores.
+VALERIA: Ok, yo ya vine muchas veces, pero hoy {{te toca a ti|it's your turn}} hablar con el remero. ¡Es práctica! Ahí hay uno.
+LALO: Buenas tardes, ¿una trajinera? Pásenle. La tarifa oficial está en el letrero: setecientos cincuenta pesos la hora. Es por lancha, no por persona.
+Q: ¿Cómo se paga la trajinera?
+  * Por hora y por lancha. || No importa cuántos van: el precio es por la trajinera.
+  - Por persona. || «Es por lancha, no por persona.»
+  - Un precio fijo por todo el día. || Es por hora.
+C: Quieren dos horas. ¿Qué le dices a Lalo?
+  * Queremos {{dos horas|two hours}}, por favor. ¿Cuánto sería? || Dices lo que quieren y confirmas el precio antes. Siempre buena idea.
+  ~ Dos horas. || Se entiende, aunque es mejor confirmar el precio.
+  - Queremos por dos horas. || «Por» sobra: «queremos dos horas».
+LALO*: Dos horas son mil quinientos. Se paga aquí, antes de subir. Si después quieren más tiempo, me dicen en el camino y me pagan la diferencia.
+T: Son seis personas. Diles a todos cuánto paga cada uno: doscientos cincuenta pesos.
+  = Son doscientos cincuenta pesos cada uno.
+  = Doscientos cincuenta cada uno.
+  = Son doscientos cincuenta por persona.
+  = Doscientos cincuenta pesos cada uno.
+  = Cada uno paga doscientos cincuenta.
+  ! Mil quinientos entre seis: «doscientos cincuenta cada uno».
+DIEGO: ¡Eso! Ya hasta haces cuentas en español. Toma, mi parte.
+LALO: ¿Ya quedó? Súbanse con cuidado, uno por uno. La trajinera se mueve.
+N: La trajinera sale despacio por un canal verde. Lalo la empuja con una pértiga larga, apoyándola en el fondo.
+C: Tienes curiosidad por el nombre pintado en la trajinera: «Lupita». ¿Qué preguntas?
+  * ¿Por qué se llama Lupita la trajinera? || Una pregunta perfecta para empezar a platicar.
+  ~ ¿Quién es Lupita? || Se entiende, aunque suena un poco directo.
+  - ¿Por qué se llama Lupita a la trajinera? || Con «llamarse», el nombre va directo: «la trajinera se llama Lupita».
+LALO*: Es por mi mamá. Todas las trajineras llevan nombre de mujer: la mamá, la esposa, la hija del dueño. Esta era de mi papá, y ahora es mía. Mi familia rema en estos canales desde hace cuatro generaciones.
+Q: ¿Por qué se llama «Lupita» la trajinera?
+  * Por la mamá de Lalo. || Las trajineras llevan nombres de mujeres de la familia.
+  - Por la Virgen de Guadalupe. || Lupita es diminutivo de Guadalupe, pero aquí es por su mamá.
+  - Porque es la trajinera más vieja. || No dice eso.
+K: Las trajineras || Son barcas planas con un techo de colores. El remero las mueve con una pértiga, una vara larga que apoya en el fondo del canal. La tarifa oficial está en letreros en cada embarcadero; si te piden más, puedes señalar el letrero.
+
+== canales | Comida y música en el agua ==
+N: En los canales hay de todo: otras trajineras con fiestas, canoas que venden comida y bebidas, y hasta una trajinera con mariachis. Una canoa pequeña se acerca a la tuya.
+ELOTERA: ¡Elotes, esquites! ¿Les doy un elotito, jóvenes? Con mayonesa, queso y chile, como debe ser.
+Q: ¿Qué vende la señora?
+  * Elotes y esquites. || El elote es la mazorca entera; los esquites son los granos de maíz en un vaso.
+  - Tacos y quesadillas. || Ella solo ofrece elotes y esquites.
+  - Flores. || Hay canoas con flores, pero esta vende maíz.
+C: Quieres esquites, pero sin chile. ¿Qué dices?
+  * Unos esquites, por favor, {{pero sin chile|but without chili}}. || Muy claro. «Sin» + ingrediente sirve para todo.
+  ~ Esquites. || Te los van a dar con todo, chile incluido.
+  - Unos esquites sin el chile, por favor. || Se entiende, pero se dice «sin chile», sin artículo.
+ELOTERA*: ¿Chico o grande? El chico es de treinta y el grande, de cincuenta. ¿Le pongo limón?
+T: Pide uno grande, con limón.
+  = Uno grande, con limón, por favor.
+  = Grande, con limón, por favor.
+  = Uno grande y con limón, por favor.
+  = El grande, con limón, por favor.
+  = Uno grande con limón.
+  ! «Uno grande, con limón, por favor.»
+ELOTERA: Aquí tiene. Cincuenta. ¡Provecho!
+N: Lalo empieza a explicar algo mientras señala unas islas cubiertas de plantas y árboles.
+LALO*: ¿Ven esas islitas con árboles? Se llaman chinampas. Los antiguos mexicanos las hacían con lodo y plantas en el lago para sembrar maíz, frijol, flores. Por eso Xochimilco quiere decir «el lugar de las flores». Todavía hay familias que siembran en las chinampas, como hace siglos.
+Q: ¿Qué son las chinampas?
+  * Islas artificiales para cultivar. || Se hacían con lodo y plantas en el lago. Algunas familias todavía siembran ahí.
+  - Barcas para turistas. || Esas son las trajineras.
+  - Restaurantes en el agua. || No: son tierras de cultivo.
+Q: ¿Qué quiere decir «Xochimilco»?
+  * El lugar de las flores. || Es un nombre en náhuatl, la lengua de los mexicas.
+  - El lugar del agua. || Hay mucha agua, pero el nombre habla de flores.
+  - La isla grande. || No: «el lugar de las flores».
+N: Se acerca la trajinera de los mariachis. El cantante les pregunta si quieren una canción.
+VALERIA: ¿Y si pedimos una? Elige tú. Una clásica es «Cielito lindo». Pregúntale cuánto cuesta.
+T: Pregúntale al mariachi cuánto cuesta la canción.
+  = ¿Cuánto cuesta la canción?
+  = ¿Cuánto cuesta una canción?
+  = ¿Cuánto es la canción?
+  = ¿Cuánto cobran por canción?
+  = ¿Cuánto cobran por una canción?
+  = Disculpe, ¿cuánto cuesta una canción?
+  ! «¿Cuánto cuesta una canción?» o «¿cuánto cobran por canción?».
+VALERIA*: ¡Uy, ciento cincuenta! Bueno, entre seis sale a veinticinco cada uno. ¡Vale la pena! Ahora todos tenemos que cantar el «ay, ay, ay, ay», ¿eh? Es obligatorio.
+Q: ¿Por qué dice Valeria que vale la pena?
+  * Porque entre seis personas sale barato. || Ciento cincuenta entre seis: veinticinco cada uno.
+  - Porque la canción es gratis. || Cuesta ciento cincuenta.
+  - Porque el mariachi es su amigo. || No dice eso.
+K: «Elote» y «esquites» || Dos antojitos de maíz: el elote, la mazorca cocida con mayonesa, queso, chile y limón; los esquites, los granos en un vaso con caldo. En el centro del país se venden en la calle por todas partes, sobre todo en la tarde.
+K: Palabras del náhuatl || Muchas palabras del español de México vienen del náhuatl, la lengua de los mexicas: «elote», «chocolate», «tomate», «aguacate», «chile», «cacahuate», «tianguis», «guajolote»… y muchísimos nombres de lugares: Xochimilco, Coyoacán, Chapultepec, Tlatelolco.

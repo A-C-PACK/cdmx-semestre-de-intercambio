@@ -1,0 +1,89 @@
+@id jamaica
+@name Mercado de Jamaica
+@short Jamaica
+@zone Venustiano Carranza · Día de Muertos
+@geo 19.4086 -99.1227 city r
+@focus 0.42
+@route Metro Jamaica, líneas 4 y 9. El mercado de flores más grande de la ciudad está junto a la estación.
+@blurb Finales de octubre: todo el mercado se vuelve naranja. Con Rocío compras flores para la ofrenda de Día de Muertos y luego la ponen en casa.
+@goal Comprar flores por manojo, preguntar para qué sirve cada cosa de la ofrenda y hablar con respeto de alguien que murió.
+
+== flores | El cempasúchil ==
+N: Es el 30 de octubre. Rocío te ha invitado a comprar las flores para la ofrenda. El Mercado de Jamaica está lleno de flores naranjas, moradas y blancas, y huele a campo.
+ROCIO: Este año ponemos la ofrenda para mi papá, el abuelo de Diego. Murió hace dos años. Le encantaban las flores, así que vamos a llevar muchas. Ven, aquí le compro siempre a don Toño.
+C: Rocío habla de su papá, que murió. ¿Qué dices?
+  * {{Lo siento mucho|I'm very sorry}}. Seguro que la ofrenda le va a quedar muy bonita. || Respetuoso y cálido. El Día de Muertos es una fiesta alegre, pero el recuerdo es serio.
+  ~ Ah, ok. || Suena indiferente para un tema tan personal.
+  - ¡Qué divertido! || El Día de Muertos tiene alegría, pero Rocío habla de su papá: mejor mostrar respeto.
+ROCIO: Gracias. Qué {{lindo detalle|what a kind thing to say (lit. what a lovely gesture)}}. Sí, le va a encantar.
+FLORISTA: ¡Pásele, doña Rocío! ¿Qué va a llevar este año? El cempasúchil está fresquecito, ahorita en estas fechas es lo que más se vende.
+Q: ¿Qué flor es la que más se vende en estas fechas?
+  * El cempasúchil. || La flor naranja del Día de Muertos.
+  - Las rosas. || No las menciona.
+  - Las flores moradas. || Hay flores moradas, pero la más vendida es el cempasúchil.
+ROCIO*: Mira, te toca a ti pedir. Necesitamos tres manojos de cempasúchil y uno de terciopelo, la flor morada. Pregúntale a cuánto está el manojo.
+T: Pregúntale a don Toño a cuánto está el manojo de cempasúchil.
+  = ¿A cómo está el manojo de cempasúchil?
+  = ¿A cómo el manojo de cempasúchil?
+  = ¿A cómo está el manojo?
+  = ¿Cuánto cuesta el manojo de cempasúchil?
+  = ¿Cuánto cuesta el manojo?
+  = Disculpe, ¿a cómo está el manojo de cempasúchil?
+  ! Igual que en el mercado de Coyoacán: «¿A cómo está…?»
+FLORISTA*: El cempasúchil, a sesenta el manojo. El terciopelo, a setenta. Si se lleva cuatro de cempasúchil, se los dejo en doscientos.
+Q: ¿Qué oferta te hace don Toño?
+  * Cuatro manojos de cempasúchil por doscientos pesos. || Normalmente serían doscientos cuarenta.
+  - Un manojo gratis de terciopelo. || No: la oferta es de cempasúchil.
+  - Tres manojos por cien pesos. || No dice eso.
+C: Rocío te dice que sí con la cabeza. ¿Qué le dices a don Toño?
+  * Entonces, cuatro de cempasúchil y uno de terciopelo, por favor. || Aprovechas la oferta y pides todo junto.
+  ~ Cuatro, por favor. || Te olvidas del terciopelo.
+  - Entonces, cuatro de cempasúchil y uno de terciopelo, gracias por la oferta muy amable. || Es correcto, pero demasiado largo y formal para un mercado.
+FLORISTA: ¡Así me gusta! Son doscientos setenta. Y le regalo un poquito de nube, para que se vea más bonita la ofrenda.
+T: Dale las gracias a don Toño por el regalo.
+  = Muchas gracias por el regalo.
+  = Muchas gracias, don Toño.
+  = Gracias por el regalo.
+  = Muchas gracias, muy amable.
+  = ¡Muchas gracias!
+  ! «Muchas gracias por el regalo.»
+K: El cempasúchil || Es una flor naranja de origen mexicano. Según la tradición, su color y su olor guían a las almas de los muertos hasta las ofrendas de sus familias. Su nombre viene del náhuatl y quiere decir algo como «veinte flores» o «flor de muchos pétalos».
+
+== ofrenda | La ofrenda del abuelo ==
+N: En casa, Arturo ya puso una mesa en la sala con tres niveles cubiertos con manteles. Diego cuelga papel picado de colores. En el centro hay una foto de un señor sonriente con sombrero.
+ARTURO: Ese es don Ramiro, el papá de Rocío. Era muy bromista. Le gustaban el mole, el tequila y las canciones de Pedro Infante. Por eso todo eso va en la ofrenda.
+Q: ¿Por qué ponen mole y tequila en la ofrenda?
+  * Porque eran las cosas que le gustaban a don Ramiro. || En la ofrenda se pone lo que le gustaba a la persona.
+  - Porque es lo que se come en noviembre. || Se pone por el difunto, no por la fecha.
+  - Para los invitados de la fiesta. || La comida de la ofrenda es para el difunto.
+DIEGO: Ayúdame con esto. Hay que poner las velas, el agua, la sal, el pan de muerto y las calaveritas de azúcar. Cada cosa tiene un significado.
+C: Ves un vaso de agua y un platito con sal y no entiendes por qué. ¿Qué preguntas?
+  * ¿{{Para qué es|what is it for}} el agua? || «¿Para qué es…?» pregunta por la función de algo.
+  ~ ¿Agua? ¿Por qué? || Se entiende.
+  - ¿Por qué es el agua? || Para preguntar la función: «¿para qué es…?» o «¿para qué sirve…?».
+DIEGO*: El agua es porque los muertos llegan cansados y con sed después del viaje. La sal es para purificar. Las velas iluminan el camino. Y los pétalos de cempasúchil hacen un caminito desde la puerta hasta la ofrenda, para que encuentre la casa.
+Q: Según Diego, ¿para qué es el agua?
+  * Para la sed de los muertos después del viaje. || Llegan «cansados y con sed».
+  - Para las flores. || Las flores van aparte; el vaso de agua es para el difunto.
+  - Para purificar. || Esa es la función de la sal.
+Q: ¿Para qué sirve el camino de pétalos?
+  * Para que el muerto encuentre la casa. || Va desde la puerta hasta la ofrenda.
+  - Para decorar la calle. || Es un camino dentro de la casa.
+  - Para que no entren los gatos. || ¡No!
+ROCIO*: Mi papá decía que no estaba muerto mientras alguien lo recordara. Por eso hacemos esto: no es una fiesta triste, es una forma de seguir con ellos. Y tú, ¿en tu país hacen algo para recordar a sus muertos?
+C: En tu familia no hay una tradición así. ¿Qué dices?
+  * No tenemos algo así, pero me parece {{muy bonito|very beautiful}} recordarlos de esta forma. || Honesto y respetuoso. A Rocío le va a gustar.
+  ~ No. || Es verdad, pero cierra la conversación.
+  - No, nosotros no celebramos a los muertos, es raro. || Llamar «raro» a la tradición de otra persona puede ofender.
+ROCIO: Gracias. Pues este año, si quieres, pon la foto de alguien que tú quieras recordar. Aquí cabe toda la familia… y tú ya eres parte.
+T: Dile que te encantaría.
+  = Me encantaría.
+  = Me encantaría, gracias.
+  = ¡Me encantaría!
+  = Sí, me encantaría.
+  = Me encantaría, muchas gracias.
+  = Me gustaría mucho.
+  ! «Me encantaría.» Con el condicional, la respuesta suena amable y emocionada.
+DIEGO: Y el dos de noviembre, después de que «comió» el abuelo, nos comemos nosotros el pan de muerto. Esa es la mejor parte, ja, ja.
+K: Día de Muertos || Se celebra el 1 y el 2 de noviembre: según la tradición, el 1 llegan los niños que murieron y el 2, los adultos. Las familias ponen ofrendas en casa y visitan los panteones. En 2008 la UNESCO lo reconoció como patrimonio cultural inmaterial de la humanidad. El gran desfile de la ciudad es reciente: empezó en 2016.
+K: Hablar de alguien que murió || «Lo siento mucho», «mi más sentido pésame» (más formal), «que en paz descanse». Para hablar de la persona: «murió», «falleció» (más formal) o «se nos fue».

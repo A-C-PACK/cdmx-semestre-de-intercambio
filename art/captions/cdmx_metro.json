@@ -1,0 +1,86 @@
+{
+  "high_level_description": "A busy Mexico City metro platform with an orange train arriving and a few passengers waiting, including an elderly lady with a shopping bag.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A long underground station with a curved pale ceiling, tiled walls and a yellow line along the platform edge.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          320,
+          0,
+          760,
+          620
+        ],
+        "desc": "An orange metro train with rounded front and large windows pulling in along the platform.",
+        "color_palette": [
+          "#D9622B",
+          "#E8A33D",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          380,
+          640,
+          900,
+          860
+        ],
+        "desc": "An elderly woman of about seventy-five with grey hair in a bun, a cardigan and a woven market bag, smiling kindly.",
+        "color_palette": [
+          "#F2C9A0",
+          "#C2477A",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          420,
+          860,
+          840,
+          1000
+        ],
+        "desc": "A young person with a backpack looking at a colourful metro map made of coloured lines and round icons, with no readable words.",
+        "color_palette": [
+          "#2E6F8E",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          760,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "The platform floor with a bold yellow safety stripe.",
+        "color_palette": [
+          "#E9D3A1",
+          "#E8A33D"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "high_level_description": "A flower stall in Mexico City's Jamaica market piled with bright orange marigolds and purple cockscomb flowers for the Day of the Dead, with a smiling florist.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "The colourful interior of a big flower market, full of buckets of flowers and hanging papel picado bunting.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          440,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Huge bundles of bright orange cempasúchil marigolds and deep purple cockscomb flowers in buckets.",
+        "color_palette": [
+          "#E8A33D",
+          "#D9622B",
+          "#C2477A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          340,
+          640,
+          700
+        ],
+        "desc": "A good-natured man of about fifty-five with a moustache and a cap, holding out a big bunch of orange marigolds and smiling.",
+        "color_palette": [
+          "#F2C9A0",
+          "#2E6F8E",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          220,
+          1000
+        ],
+        "desc": "Strings of colourful cut-paper bunting overhead.",
+        "color_palette": [
+          "#C2477A",
+          "#E8A33D",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          220,
+          0,
+          520,
+          300
+        ],
+        "desc": "A small sugar skull decorated with coloured icing on a shelf.",
+        "color_palette": [
+          "#FFFFFF",
+          "#C2477A",
+          "#2E6F8E"
+        ]
+      }
+    ]
+  }
+}

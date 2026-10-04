@@ -1,0 +1,90 @@
+@id tiendita
+@name La tiendita de don Pepe
+@short La tiendita
+@zone Coyoacán · en la esquina
+@geo 19.3482 -99.1638 coyoacan r
+@focus 0.45
+@route En la esquina de tu calle, a dos cuadras de la casa.
+@blurb La tienda de abarrotes del barrio: refrescos, pan, tortillas, recargas para el celular y un dueño que lo sabe todo.
+@goal Comprar un chip y una recarga, pagar con un billete grande y pedir cosas como un vecino más.
+
+== chip | Un chip para el celular ==
+N: Es tu primera mañana en México. Tu celular no tiene señal y quieres un número mexicano. Diego te lleva a la tiendita de la esquina.
+DIEGO: Don Pepe, buenos días. Le presento a alguien nuevo en el barrio. Viene a estudiar a la UNAM y está con nosotros en la casa.
+PEPE: ¡Ah, qué bien! Bienvenidos al barrio. Buenos días, joven. ¿Qué le damos?
+C: Quieres un chip para tu celular. ¿Qué dices?
+  * Buenos días. ¿{{Tiene chips|do you have SIM cards (chip = SIM card in Mexico)}} para celular? || Perfecto. En México, a la tarjeta SIM se le dice «chip».
+  ~ Un chip. || Se entiende, pero sin saludo ni pregunta suena muy seco.
+  - Buenos días. ¿Tiene una tarjeta de teléfono? || Se entiende, pero en México se dice «chip». Una «tarjeta» puede ser otra cosa.
+PEPE*: Sí, cómo no. Tengo de dos compañías. El chip cuesta cien pesos y ya trae saldo. Pero ojo, ¿eh? Ahora hay que registrar la línea: los mexicanos con su CURP, y los extranjeros con su pasaporte. Eso lo hace usted en línea, en la página de la compañía.
+Q: ¿Qué tienes que hacer después de comprar el chip?
+  * Registrar la línea con tu pasaporte. || «Los extranjeros, con su pasaporte». Se hace en línea.
+  - Llevarle el pasaporte a don Pepe. || No: «eso lo hace usted en línea».
+  - Nada: el chip ya funciona para siempre. || Si no registras la línea, la pueden suspender.
+T: Pide un chip, el de cien pesos.
+  = Un chip, por favor.
+  = Me da un chip, por favor.
+  = ¿Me da un chip, por favor?
+  = Deme un chip, por favor.
+  = Quiero un chip, por favor.
+  = Un chip de cien pesos, por favor.
+  ! «¿Me da un chip, por favor?»
+PEPE: Aquí tiene. ¿Le hago también una {{recarga|top-up (of phone credit)}}? Tengo de cincuenta, de cien, de doscientos…
+DIEGO*: Te recomiendo la de doscientos. Trae datos para todo el mes y redes sociales sin límite. Con WhatsApp aquí haces todo: mi mamá te va a mandar como veinte mensajes al día, ja, ja.
+Q: ¿Por qué Diego recomienda la recarga de doscientos?
+  * Porque tiene datos para todo el mes. || Y redes sociales sin límite.
+  - Porque es la más barata. || Es la más cara de las tres.
+  - Porque su mamá no usa WhatsApp. || Al contrario: le va a mandar muchos mensajes.
+C: Quieres seguir el consejo de Diego. ¿Qué le dices a don Pepe?
+  * Sí, por favor, una de doscientos. || Claro y educado. «De doscientos» se refiere a la recarga.
+  ~ Doscientos. || Funciona en una tienda, aunque «sí, por favor» suena mejor.
+  - Sí, por favor, una por doscientos. || El valor de la recarga se dice con «de»: «una de doscientos».
+PEPE: Muy bien. Deme su número… ah, no, todavía no lo sabe. A ver, el número viene aquí, en el plástico del chip. Ya está, ya le cayó la recarga.
+K: ¿Mensaje o llamada? || En México casi todo se hace por WhatsApp: hablar con la familia, pedir comida, preguntar en una tienda o al doctor. Los mensajes de voz también son muy comunes. Para llamar a un número fijo de la ciudad, se marcan los diez dígitos.
+K: El registro de las líneas || Desde 2026, todas las líneas de celular en México tienen que estar registradas a nombre de una persona. Los extranjeros pueden usar el pasaporte. Las reglas cambian a veces: pregunta en la tienda o en la página de la compañía.
+
+== cambio | ¿No tiene más chico? ==
+N: Unos días después, vuelves a la tiendita. Necesitas cosas para la casa y solo tienes un billete de quinientos que te dio el cajero automático.
+PEPE: ¡Buenas! ¿Cómo le fue en la universidad? ¿Qué le damos hoy?
+C: Necesitas un litro de leche, pan de caja y un jabón. ¿Cómo empiezas?
+  * ¿Me da un litro de leche, por favor? || «¿Me da…?» es la forma más natural de pedir en una tienda mexicana.
+  ~ Quiero leche. || Correcto, pero «¿me da…?» suena más amable.
+  - ¿Me regala un litro de leche? || En México se oye mucho «¿me regala…?», incluso para comprar, pero algunos lo encuentran raro. «¿Me da…?» siempre funciona.
+PEPE: ¿Entera o deslactosada?
+Q: ¿Qué te pregunta don Pepe?
+  * Qué tipo de leche quieres. || Entera (normal) o deslactosada (sin lactosa).
+  - Cuántos litros quieres. || No pregunta por la cantidad, sino por el tipo.
+  - Si quieres una bolsa. || No habla de bolsas.
+T: Pide la leche entera.
+  = Entera, por favor.
+  = La entera, por favor.
+  = Leche entera, por favor.
+  = Entera.
+  = La entera.
+  ! «Entera, por favor.»
+PEPE: Listo. Leche, pan Bimbo y el jabón. Son ochenta y siete pesos.
+N: Le das el billete de quinientos. Don Pepe lo mira y pone cara de preocupación.
+PEPE*: Ay, joven, ¿no tiene {{más chico|smaller (a smaller bill)}}? Es que todavía es temprano y no tengo {{cambio|change (money)}}. Con un billete de quinientos me deja sin monedas para todo el día.
+Q: ¿Cuál es el problema?
+  * Don Pepe no tiene cambio para un billete tan grande. || Es muy común en tiendas pequeñas, sobre todo por la mañana.
+  - El billete de quinientos es falso. || No dice eso.
+  - Las cosas cuestan más de quinientos. || Cuestan ochenta y siete pesos.
+C: No tienes otro billete. ¿Qué dices?
+  * Lo siento, solo traigo este. ¿{{Puedo pagar con tarjeta|can I pay by card}}? || Bien: pides perdón y propones otra solución.
+  ~ No tengo. || Es verdad, pero no ayuda a resolver el problema.
+  - Usted tiene que tener cambio. || Muy brusco. En una tienda de barrio, la amabilidad es lo primero.
+PEPE*: Tarjeta no acepto, la terminal se me descompuso. Pero mire, no se preocupe. Lléveselo y me paga mañana. Usted ya es de la familia de Rocío, ¿no? Aquí nos conocemos todos.
+Q: ¿Qué te propone don Pepe?
+  * Llevarte las cosas y pagarle otro día. || La confianza del barrio: «me paga mañana».
+  - Pagarle con tarjeta. || La terminal está descompuesta.
+  - Ir a cambiar el billete al banco. || No; prefiere que le pagues mañana.
+T: Dale las gracias y dile que mañana le pagas.
+  = Muchas gracias. Mañana le pago.
+  = Gracias, mañana le pago.
+  = Muchas gracias, don Pepe. Mañana le pago.
+  = Muchas gracias. Le pago mañana.
+  = Gracias, le pago mañana.
+  = Muy amable. Mañana le pago.
+  ! «Mañana le pago.» Con «le» porque le hablas de usted.
+PEPE: No hay de qué. Y un consejo: en el cajero, saque cantidades como cuatrocientos noventa, ¿eh? Así le da billetes más chicos. ¡Que le vaya bien!
+K: Billetes y monedas || Los billetes de quinientos y mil pesos son difíciles de usar en tiendas pequeñas, mercados, taxis y puestos de comida. Lleva billetes de cincuenta, cien y doscientos, y monedas. En las tiendas grandes y en los supermercados no hay problema.

@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The Plaza of the Three Cultures in Mexico City: Aztec stone ruins in the foreground, a grey colonial stone church in the middle, and 1960s modernist apartment blocks and a tower behind.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A clear blue sky over a wide plaza.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          500,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Low excavated stepped stone platforms and walls of an Aztec temple.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          250,
+          700,
+          750
+        ],
+        "desc": "A sturdy grey stone colonial church with a single bell tower and a dome.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          80,
+          0,
+          520,
+          300
+        ],
+        "desc": "A tall modernist tower of concrete and glass.",
+        "color_palette": [
+          "#7FC4D6",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          120,
+          720,
+          500,
+          1000
+        ],
+        "desc": "Long 1960s apartment blocks with rows of windows.",
+        "color_palette": [
+          "#F6E7C8",
+          "#2E6F8E"
+        ]
+      }
+    ]
+  }
+}

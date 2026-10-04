@@ -1,0 +1,102 @@
+@id zocalo
+@name El Zócalo y la calle Madero
+@short Zócalo
+@zone Centro Histórico
+@geo 19.43265 -99.13319 centre b
+@focus 0.42
+@route Metro Zócalo/Tenochtitlan, línea 2. La calle Madero sale de la plaza hacia el poniente.
+@blurb La plaza principal del país, una de las más grandes del mundo. Desde aquí, una calle peatonal lleva hasta Bellas Artes.
+@goal Pedir direcciones y entenderlas, y comer una comida corrida en una fonda.
+
+== madero | ¿Cómo llego a Bellas Artes? ==
+N: Sales del metro al Zócalo. La plaza es inmensa: a un lado, la catedral; a otro, el Palacio Nacional; en el centro, una bandera enorme. Quieres ir al Palacio de Bellas Artes, pero no sabes por dónde. Cerca de ti hay una policía con un chaleco que dice «Policía Turística».
+C: ¿Cómo empiezas la conversación?
+  * Disculpe, ¿me puede ayudar? || Perfecto: «disculpe» para llamar la atención y una pregunta amable.
+  ~ Hola, ¿Bellas Artes? || Se entiende, pero es muy directo.
+  - Oye, ¿me ayudas? || Con una policía que no conoces, mejor «usted»: «disculpe, ¿me puede ayudar?».
+POLICIA: Claro que sí. Para eso estamos. ¿A dónde quiere ir?
+T: Pregúntale cómo llegas a Bellas Artes.
+  = ¿Cómo llego a Bellas Artes?
+  = ¿Cómo llego al Palacio de Bellas Artes?
+  = ¿Cómo puedo llegar a Bellas Artes?
+  = ¿Por dónde se va a Bellas Artes?
+  = ¿Cómo voy a Bellas Artes?
+  = Quiero ir a Bellas Artes. ¿Cómo llego?
+  ! «¿Cómo llego a…?»
+POLICIA*: Mire, es muy fácil. Vaya {{derecho|straight ahead (Mexico)}} por esa calle, la de Madero. Es peatonal, no hay coches. Camine unas cinco cuadras, hasta el Eje Central, una avenida grande. Ahí {{cruza|you cross (cruzar)}}, y a la derecha va a ver el palacio. Es blanco, con una cúpula naranja. No tiene pérdida.
+Q: ¿Por qué calle tienes que ir?
+  * Por Madero, que es peatonal. || «La de Madero. Es peatonal, no hay coches.»
+  - Por el Eje Central. || El Eje Central es la avenida que cruzas al final.
+  - Por una calle con muchos coches. || Al contrario: Madero es peatonal.
+Q: Cuando cruces el Eje Central, ¿dónde vas a ver el palacio?
+  * A la derecha. || «Ahí cruza, y a la derecha va a ver el palacio.»
+  - A la izquierda. || Dice «a la derecha».
+  - Detrás de ti. || No: está enfrente, a la derecha.
+C: Quieres saber si está lejos caminando. ¿Qué preguntas?
+  * ¿{{Está lejos|is it far}} caminando? || Pregunta natural. «Caminando» = a pie.
+  ~ ¿Cuántos kilómetros son? || Se entiende, pero es raro medir en kilómetros un paseo por el centro.
+  - ¿Es lejos caminando? || Para la distancia se usa «estar»: «¿está lejos?».
+POLICIA: No, qué va. Unos diez, quince minutos. Y en el camino va a ver la Casa de los Azulejos, que es preciosa. Ah, y cuidado con su celular, ¿eh? Hay mucha gente.
+T: Dale las gracias. Usa «muy amable».
+  = Muchas gracias, muy amable.
+  = Gracias, muy amable.
+  = Muy amable, muchas gracias.
+  = Muy amable, gracias.
+  = Muchas gracias. Es usted muy amable.
+  ! «Muchas gracias, muy amable.»
+POLICIA: Para servirle. ¡Que disfrute el centro!
+N: Caminas por Madero entre tiendas, músicos y organilleros que piden una moneda. A la mitad de la calle ves un palacio cubierto de azulejos azules y blancos.
+K: Las direcciones en México || «Derecho» (o «todo derecho») = recto, sin girar. «Una cuadra» = el espacio entre dos esquinas. «Voltee a la izquierda» = gire a la izquierda. «No tiene pérdida» = es imposible perderse. Si alguien dice «aquí nomás», puede estar cerca… o no tanto.
+K: El organillero || En el centro vas a oír organilleros: músicos con un organillo antiguo de manivela y uniforme café. Se les da una moneda, sobre todo si les tomas una foto. Es una tradición de más de cien años.
+
+== fonda | La comida corrida ==
+N: Después de Bellas Artes tienes hambre. Son las dos y media. En una calle lateral ves una pequeña fonda con un pizarrón en la puerta: «Comida corrida, 95 pesos».
+MARI: Buenas tardes, pásele. ¿Mesa para uno? Siéntese donde guste.
+C: Quieres saber qué hay hoy. ¿Qué preguntas?
+  * ¿Qué hay {{de comida corrida|in the set lunch}} hoy? || La pregunta de siempre en una fonda.
+  ~ ¿Tiene menú? || Se entiende, pero en una fonda el menú cambia cada día: casi siempre te lo dicen de palabra.
+  - ¿Qué es la comida corrida? || Es una pregunta válida, pero suena a que no sabes nada. Mejor pregunta qué hay hoy.
+MARI*: Hoy tenemos de primer tiempo sopa de fideo o crema de elote. Luego arroz, y de guisado: tinga de pollo, chile relleno o {{bistec en salsa verde|beef steak in green sauce}}. Lleva agua del día, que hoy es de jamaica, y gelatina de postre. Las tortillas, todas las que quiera.
+Q: ¿Qué incluye la comida corrida?
+  * Sopa, arroz, un guisado, agua y postre. || Por eso se llama «corrida»: los platos van saliendo uno detrás de otro.
+  - Solo un guisado con tortillas. || Incluye mucho más: sopa, arroz, agua y postre también.
+  - Sopa y agua; el guisado se paga aparte. || Todo va en el precio de la comida corrida.
+Q: ¿De qué es el agua del día?
+  * De jamaica. || El agua de jamaica es una bebida de flor de hibisco, roja y fresca.
+  - De horchata. || Hoy no: hoy es de jamaica.
+  - De limón. || No: es de jamaica.
+T: Pide la crema de elote y la tinga de pollo.
+  = La crema de elote y la tinga de pollo, por favor.
+  = Crema de elote y tinga de pollo, por favor.
+  = Me da la crema de elote y la tinga, por favor.
+  = La crema y la tinga, por favor.
+  = Quiero la crema de elote y la tinga de pollo, por favor.
+  = De sopa, la crema de elote, y de guisado, la tinga, por favor.
+  ! «La crema de elote y la tinga de pollo, por favor.»
+MARI: Muy bien. ¿La tinga le pica? Lleva chipotle. Pica poquito, pero pica.
+C: Te gusta el picante suave. ¿Qué dices?
+  * No hay problema, me gusta {{poquito picante|a little bit spicy}}. || Natural y honesto. «Poquito» es muy mexicano.
+  ~ Sí. || Contesta, pero no dice si te parece bien.
+  - Sí, me pica. || «Me pica» describe lo que sientes al comer; aquí ella te pregunta si te molesta el picante.
+N: La comida llega rápido. Todo está buenísimo. Al terminar, doña Mari se acerca.
+MARI: ¿Qué tal todo? ¿Le traigo un cafecito?
+C: Ya quieres pagar. ¿Cómo pides la cuenta?
+  * Todo muy rico, gracias. ¿Me {{trae la cuenta|bring me the bill}}, por favor? || Elogio y petición. Perfecto.
+  ~ La cuenta. || Se entiende, pero sin «por favor» es seco.
+  - ¿Cuánto le debo yo? || Aunque «¿cuánto le debo?» es correcto, el «yo» sobra y suena raro.
+MARI*: Son noventa y cinco. Aquí no tenemos terminal, nada más efectivo, ¿eh? Pero si quiere, le puedo pasar el número de cuenta para una transferencia.
+Q: ¿Cómo puedes pagar?
+  * En efectivo o por transferencia. || No hay terminal para tarjetas, pero sí transferencia bancaria.
+  - Solo con tarjeta. || Al contrario: no tiene terminal.
+  - Con dólares. || No lo menciona.
+T: Dile que pagas en efectivo.
+  = Pago en efectivo.
+  = En efectivo, por favor.
+  = Le pago en efectivo.
+  = En efectivo.
+  = Pago en efectivo, gracias.
+  = Voy a pagar en efectivo.
+  ! «Pago en efectivo.»
+MARI: Gracias, que le vaya bonito. ¡Vuelva pronto!
+K: La comida corrida || Es el menú del día de las fondas: barato, casero y abundante, con sopa, arroz o pasta, un guisado con tortillas, agua del día y postre. Lo normal es entre las dos y las cinco de la tarde. Es la forma más económica de comer bien en la ciudad.
+K: «Que le vaya bonito» || Una despedida muy mexicana y cariñosa: «que todo le salga bien». También vas a oír «que le vaya bien» y «cuídese».

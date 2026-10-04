@@ -1,0 +1,88 @@
+{
+  "high_level_description": "A lively Mexico City taco stand at night, with a taco cook slicing meat from a vertical spit of al pastor pork topped with a pineapple, and young friends eating tacos at the counter.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A warm glowing taquería open to a night street, with string lights and a dark blue night sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          380,
+          760,
+          700
+        ],
+        "desc": "A tall vertical spit of red marinated pork with a pineapple on top, glowing in front of a heater.",
+        "color_palette": [
+          "#B8402A",
+          "#E8A33D",
+          "#D9622B"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          180,
+          640,
+          760,
+          960
+        ],
+        "desc": "A cheerful fair-haired taco cook of about thirty-five in a white apron and cap, slicing meat with a long knife.",
+        "color_palette": [
+          "#FFFFFF",
+          "#F2C9A0",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          560,
+          0,
+          960,
+          520
+        ],
+        "desc": "Two young friends at the counter laughing, holding small tacos on paper plates.",
+        "color_palette": [
+          "#2E6F8E",
+          "#3F7D4E",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          800,
+          400,
+          1000,
+          1000
+        ],
+        "desc": "A counter with bowls of red and green salsa, chopped onion, coriander and lime halves.",
+        "color_palette": [
+          "#B8402A",
+          "#3F7D4E",
+          "#FFFFFF"
+        ]
+      }
+    ]
+  }
+}

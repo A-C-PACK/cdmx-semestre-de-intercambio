@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "98f34f920a4a",
+  "who": "KARLA",
+  "text": "¡Buenas tardes! ¿Taxi? Aquí es la taquilla de taxis autorizados. ¿A qué colonia va?"
+ },
+ {
+  "id": "8f2598292aa6",
+  "who": "YO",
+  "text": "Buenas tardes. Voy a Coyoacán, a la colonia Del Carmen, por favor."
+ },
+ {
+  "id": "72c4ad697b58",
+  "who": "YO",
+  "text": "Coyoacán."
+ },
+ {
+  "id": "8766cd41ea72",
+  "who": "KARLA",
+  "text": "Coyoacán es zona cinco. El taxi sedán son seiscientos ochenta pesos, y la camioneta, si trae mucho equipaje, ochocientos noventa. Se paga aquí, por adelantado."
+ },
+ {
+  "id": "74b821335435",
+  "who": "YO",
+  "text": "El sedán, por favor."
+ },
+ {
+  "id": "4ed982009330",
+  "who": "KARLA",
+  "text": "Muy bien. ¿Va a pagar con tarjeta o en efectivo?"
+ },
+ {
+  "id": "4690849760b2",
+  "who": "YO",
+  "text": "Con tarjeta, por favor."
+ },
+ {
+  "id": "376692a4bf32",
+  "who": "YO",
+  "text": "Tarjeta."
+ },
+ {
+  "id": "dd1889a1d645",
+  "who": "KARLA",
+  "text": "Listo. Aquí está su boleto. Salga por la puerta seis y enséñele el boleto al chofer. No le tiene que pagar nada más, ¿eh? Solo la propina, si usted quiere."
+ },
+ {
+  "id": "39c9a110a498",
+  "who": "YO",
+  "text": "Muchas gracias."
+ },
+ {
+  "id": "ff24a6f30608",
+  "who": "KARLA",
+  "text": "A usted. ¡Que disfrute México, y que le vaya bien!"
+ },
+ {
+  "id": "53e13bb0c55f",
+  "who": "CHUY",
+  "text": "Ándele, súbase. Yo me llamo Jesús, pero todos me dicen don Chuy. ¿A Coyoacán, verdad? Déjeme ver el boleto… Sí, colonia Del Carmen. Ahorita llegamos."
+ },
+ {
+  "id": "15fd299fa939",
+  "who": "CHUY",
+  "text": "Bueno, «ahorita»… con este tráfico, a lo mejor una hora. A esta hora todo el mundo sale de trabajar. Aquí en la ciudad el tráfico está pesado casi siempre."
+ },
+ {
+  "id": "1c30fac74413",
+  "who": "CHUY",
+  "text": "¿Y usted de dónde viene? ¿Es su primera vez en México?"
+ },
+ {
+  "id": "a20a103af09d",
+  "who": "YO",
+  "text": "Sí, es mi primera vez. Vengo a estudiar un semestre en la UNAM."
+ },
+ {
+  "id": "39da8c65079b",
+  "who": "YO",
+  "text": "Sí, primera vez. Estudiar en la UNAM."
+ },
+ {
+  "id": "0794eeb3971d",
+  "who": "CHUY",
+  "text": "¡Ah, la UNAM! La máxima casa de estudios. Mi hija estudió ahí, en Ciudad Universitaria. Le va a encantar. ¿Y se va a quedar con una familia?"
+ },
+ {
+  "id": "1eab66f9ac3b",
+  "who": "YO",
+  "text": "Sí, voy a vivir con una familia en Coyoacán."
+ },
+ {
+  "id": "38f5e158958f",
+  "who": "CHUY",
+  "text": "Qué bien, así practica el español todos los días. Mire, a la izquierda: eso es el Viaducto. Antes por ahí pasaba un río, la Piedad, pero lo entubaron hace muchos años. Esta ciudad estaba llena de agua, ¿sabe? Era un lago."
+ },
+ {
+  "id": "99f25a2dffb9",
+  "who": "CHUY",
+  "text": "Una cosa: ¿usted ya come picante? Porque aquí la comida… aguas con la salsa, ¿eh?"
+ },
+ {
+  "id": "05b91ca1ad81",
+  "who": "YO",
+  "text": "Me gusta un poco, pero no mucho."
+ },
+ {
+  "id": "676771770400",
+  "who": "YO",
+  "text": "Sí, me gusta."
+ },
+ {
+  "id": "1ce7b0307efa",
+  "who": "CHUY",
+  "text": "¡Eso! Poco a poco. Primero la salsa verde, que a veces pica menos… o más. Depende. Ja, ja."
+ },
+ {
+  "id": "bea6eeb5e808",
+  "who": "CHUY",
+  "text": "Pues ya llegamos. ¿Es esta casa, la de la puerta verde?"
+ },
+ {
+  "id": "d4714d4fe986",
+  "who": "YO",
+  "text": "Sí, es esta. Muchas gracias por todo."
+ },
+ {
+  "id": "4af97a83ec7d",
+  "who": "CHUY",
+  "text": "No hay de qué. Le bajo las maletas. Y que le vaya muy bien en la UNAM, ¿eh? ¡Échele ganas!"
+ },
+ {
+  "id": "9618c8a1fc6f",
+  "who": "ROCIO",
+  "text": "¡Ya llegaste! Yo soy Rocío. ¡Qué gusto conocerte por fin! Pásale, pásale, estás en tu casa."
+ },
+ {
+  "id": "051dd32fd68b",
+  "who": "YO",
+  "text": "¡Mucho gusto, Rocío! Muchas gracias por recibirme."
+ },
+ {
+  "id": "5e0faa6a171b",
+  "who": "YO",
+  "text": "Hola, mucho gusto."
+ },
+ {
+  "id": "92bda229fc67",
+  "who": "ROCIO",
+  "text": "¡Ay, no hay nada que agradecer! Mira, él es Arturo, mi esposo. Y el flaco de allá es Diego, nuestro hijo. Diego, ¡ven a saludar!"
+ },
+ {
+  "id": "66d44b4f17ec",
+  "who": "DIEGO",
+  "text": "¿Qué onda? Soy Diego. ¡Por fin llegaste! Mi mamá lleva toda la semana limpiando tu cuarto, ja, ja. Estudio ingeniería en la UNAM, así que te puedo enseñar el campus cuando quieras."
+ },
+ {
+  "id": "520af0688ab2",
+  "who": "ARTURO",
+  "text": "Mucho gusto. Yo soy Arturo. Aquí somos tranquilos, pero los domingos hay comida familiar y viene media familia. Ya te acostumbrarás."
+ },
+ {
+  "id": "6d940d91c2f3",
+  "who": "YO",
+  "text": "Mucho gusto, Arturo."
+ },
+ {
+  "id": "f59c99ce6bfa",
+  "who": "ROCIO",
+  "text": "Ven, te enseño tu cuarto. Aquí tienes tus llaves: esta es de la puerta de la calle y esta, de la reja. Si llegas tarde, me mandas un mensaje, ¿sí? No es para controlarte, es para no preocuparme."
+ },
+ {
+  "id": "d4ebd5d78104",
+  "who": "ROCIO",
+  "text": "Ah, y otra cosa importante: el agua de la llave no se toma. Para tomar, usa el agua del garrafón, el que está en la cocina. Para lavarte los dientes, también, si tienes el estómago delicado."
+ },
+ {
+  "id": "8b50a04aef28",
+  "who": "YO",
+  "text": "¿Puedo usar la lavadora?"
+ },
+ {
+  "id": "ba225395a7da",
+  "who": "YO",
+  "text": "¿Hay lavadora?"
+ },
+ {
+  "id": "ca8ab08a6f2b",
+  "who": "ROCIO",
+  "text": "¡Claro! Cuando quieras. Los sábados yo lavo, pero tú lo usas cualquier día. Ahora descansa un ratito, que en una hora comemos."
+ },
+ {
+  "id": "a438dd43c1cc",
+  "who": "ROCIO",
+  "text": "Siéntate aquí, junto a Diego. ¿Ya probaste el mole? Es de Puebla, como mi mamá. Tiene chiles, chocolate, cacahuate… como veinte ingredientes."
+ },
+ {
+  "id": "36cdb681162b",
+  "who": "ARTURO",
+  "text": "¡Provecho!"
+ },
+ {
+  "id": "14cc79f28b12",
+  "who": "YO",
+  "text": "¡Gracias, igualmente!"
+ },
+ {
+  "id": "91e5554490d8",
+  "who": "YO",
+  "text": "¡Provecho!"
+ },
+ {
+  "id": "df860e15a152",
+  "who": "DIEGO",
+  "text": "Pruébalo con tortilla, así, mira. Haces un taquito. Es la forma más mexicana de comer."
+ },
+ {
+  "id": "6600164163e4",
+  "who": "ROCIO",
+  "text": "¿Te gusta? ¿Quieres más? Hay un montón. Aquí nadie se queda con hambre, ¿eh? Sírvete con confianza."
+ },
+ {
+  "id": "d37c2a7f52f7",
+  "who": "YO",
+  "text": "Está riquísimo, gracias, pero ya no puedo más."
+ },
+ {
+  "id": "6f8b56b8a0ff",
+  "who": "YO",
+  "text": "No, gracias."
+ },
+ {
+  "id": "4014148b14c4",
+  "who": "ROCIO",
+  "text": "¡Ay, qué bueno que te gustó! Bueno, pero el postre sí, ¿eh? Hice arroz con leche."
+ },
+ {
+  "id": "5cee72a7f691",
+  "who": "DIEGO",
+  "text": "Te advierto: mi mamá va a decir que comes muy poquito y te va a servir más. Siempre. Es su forma de decir que te quiere. Ja, ja."
+ },
+ {
+  "id": "98dac7d433e1",
+  "who": "ARTURO",
+  "text": "¿Y cómo te sientes? El vuelo fue largo, ¿no?"
+ },
+ {
+  "id": "83f87ed33295",
+  "who": "YO",
+  "text": "Estoy cansada, pero muy contenta."
+ },
+ {
+  "id": "cd1fba3334b6",
+  "who": "ARTURO",
+  "text": "Normal. Y aquí estamos a dos mil doscientos metros de altura, ¿eh? Los primeros días te vas a cansar más. Toma mucha agua."
+ },
+ {
+  "id": "c5e694995f81",
+  "who": "YO",
+  "text": "¿Te ayudo a recoger?"
+ },
+ {
+  "id": "907d472cc889",
+  "who": "YO",
+  "text": "Yo lavo los platos."
+ },
+ {
+  "id": "7cef0b245c41",
+  "who": "ROCIO",
+  "text": "¡Ay, qué lindo! Hoy no, que acabas de llegar. Mañana sí te pongo a lavar, ja, ja. Ve a descansar."
+ },
+ {
+  "id": "35d01dbf3595",
+  "who": "DIEGO",
+  "text": "Don Pepe, buenos días. Le presento a alguien nuevo en el barrio. Viene a estudiar a la UNAM y está con nosotros en la casa."
+ },
+ {
+  "id": "64b21f9aec18",
+  "who": "PEPE",
+  "text": "¡Ah, qué bien! Bienvenidos al barrio. Buenos días, joven. ¿Qué le damos?"
+ },
+ {
+  "id": "1c9cf87a465f",
+  "who": "YO",
+  "text": "Buenos días. ¿Tiene chips para celular?"
+ },
+ {
+  "id": "effe7b6dc09e",
+  "who": "YO",
+  "text": "Un chip."
+ },
+ {
+  "id": "2d97a3725b27",
+  "who": "PEPE",
+  "text": "Sí, cómo no. Tengo de dos compañías. El chip cuesta cien pesos y ya trae saldo. Pero ojo, ¿eh? Ahora hay que registrar la línea: los mexicanos con su CURP, y los extranjeros con su pasaporte. Eso lo hace usted en línea, en la página de la compañía."
+ },
+ {
+  "id": "3012782393d6",
+  "who": "YO",
+  "text": "Un chip, por favor."
+ },
+ {
+  "id": "a5eff8bd1c6f",
+  "who": "PEPE",
+  "text": "Aquí tiene. ¿Le hago también una recarga? Tengo de cincuenta, de cien, de doscientos…"
+ },
+ {
+  "id": "be993be4f366",
+  "who": "DIEGO",
+  "text": "Te recomiendo la de doscientos. Trae datos para todo el mes y redes sociales sin límite. Con WhatsApp aquí haces todo: mi mamá te va a mandar como veinte mensajes al día, ja, ja."
+ },
+ {
+  "id": "d484eb6b7455",
+  "who": "YO",
+  "text": "Sí, por favor, una de doscientos."
+ },
+ {
+  "id": "950893ca5fd2",
+  "who": "YO",
+  "text": "Doscientos."
+ },
+ {
+  "id": "9e9f8eca1dba",
+  "who": "PEPE",
+  "text": "Muy bien. Deme su número… ah, no, todavía no lo sabe. A ver, el número viene aquí, en el plástico del chip. Ya está, ya le cayó la recarga."
+ },
+ {
+  "id": "3d5280769e8c",
+  "who": "PEPE",
+  "text": "¡Buenas! ¿Cómo le fue en la universidad? ¿Qué le damos hoy?"
+ },
+ {
+  "id": "45575a61dfee",
+  "who": "YO",
+  "text": "¿Me da un litro de leche, por favor?"
+ },
+ {
+  "id": "30f9646bf86d",
+  "who": "YO",
+  "text": "Quiero leche."
+ },
+ {
+  "id": "26ee7a491dfb",
+  "who": "PEPE",
+  "text": "¿Entera o deslactosada?"
+ },
+ {
+  "id": "938623dbbe7e",
+  "who": "YO",
+  "text": "Entera, por favor."
+ },
+ {
+  "id": "67701c863622",
+  "who": "PEPE",
+  "text": "Listo. Leche, pan Bimbo y el jabón. Son ochenta y siete pesos."
+ },
+ {
+  "id": "c720d1b83f80",
+  "who": "PEPE",
+  "text": "Ay, joven, ¿no tiene más chico? Es que todavía es temprano y no tengo cambio. Con un billete de quinientos me deja sin monedas para todo el día."
+ },
+ {
+  "id": "552489b89cf3",
+  "who": "YO",
+  "text": "Lo siento, solo traigo este. ¿Puedo pagar con tarjeta?"
+ },
+ {
+  "id": "d16dd3be0fbc",
+  "who": "YO",
+  "text": "No tengo."
+ },
+ {
+  "id": "a1025072854b",
+  "who": "PEPE",
+  "text": "Tarjeta no acepto, la terminal se me descompuso. Pero mire, no se preocupe. Lléveselo y me paga mañana. Usted ya es de la familia de Rocío, ¿no? Aquí nos conocemos todos."
+ },
+ {
+  "id": "3f60b9157e47",
+  "who": "YO",
+  "text": "Muchas gracias. Mañana le pago."
+ },
+ {
+  "id": "6d13c0e60486",
+  "who": "PEPE",
+  "text": "No hay de qué. Y un consejo: en el cajero, saque cantidades como cuatrocientos noventa, ¿eh? Así le da billetes más chicos. ¡Que le vaya bien!"
+ },
+ {
+  "id": "6de48b898faf",
+  "who": "TAQUILLERA",
+  "text": "Buenos días. ¿Qué va a querer?"
+ },
+ {
+  "id": "08694d64c046",
+  "who": "YO",
+  "text": "Buenos días. Quiero una tarjeta del metro, por favor."
+ },
+ {
+  "id": "5cdfb7ecc267",
+  "who": "YO",
+  "text": "Un boleto, por favor."
+ },
+ {
+  "id": "d65665de9801",
+  "who": "TAQUILLERA",
+  "text": "La tarjeta cuesta quince pesos, y luego le recarga lo que quiera. El viaje en metro son cinco pesos, vaya a donde vaya, con todos los transbordos. La misma tarjeta le sirve para el Metrobús y el Tren Ligero."
+ },
+ {
+  "id": "80ca99364271",
+  "who": "YO",
+  "text": "Una tarjeta con cien pesos de recarga, por favor."
+ },
+ {
+  "id": "f72e212c3c33",
+  "who": "TAQUILLERA",
+  "text": "Son ciento quince en total. ¿Efectivo?"
+ },
+ {
+  "id": "0b7eb8bf091f",
+  "who": "TAQUILLERA",
+  "text": "Ochenta y cinco de cambio. La pasa por el lector del torniquete y ya. ¡Siguiente!"
+ },
+ {
+  "id": "c8a68291bd9e",
+  "who": "YO",
+  "text": "Oye, Diego, ¿cómo llego al Zócalo?"
+ },
+ {
+  "id": "a33fc6cb93eb",
+  "who": "YO",
+  "text": "Diego, ¿Zócalo?"
+ },
+ {
+  "id": "8497c084a0fd",
+  "who": "DIEGO",
+  "text": "¡Fácil! Mira: te subes aquí a la línea tres, la verde olivo, dirección Indios Verdes. Te bajas en Hidalgo y ahí transbordas a la línea dos, la azul, dirección Tasqueña. De Hidalgo al Zócalo son tres estaciones."
+ },
+ {
+  "id": "8eed737a93c9",
+  "who": "MEGAFONIA",
+  "text": "Por su seguridad, no rebase la línea amarilla. Permita la salida antes de entrar. Los primeros vagones son exclusivos para mujeres y niños menores de doce años."
+ },
+ {
+  "id": "c7ded30e7e9e",
+  "who": "YO",
+  "text": "Señora, siéntese, por favor."
+ },
+ {
+  "id": "1f9a277d276f",
+  "who": "YO",
+  "text": "¿Quiere sentarse?"
+ },
+ {
+  "id": "b59b990f3b0e",
+  "who": "SENORA",
+  "text": "Ay, gracias, joven. Qué amable. Que Dios se lo pague."
+ },
+ {
+  "id": "6bcc607a4bed",
+  "who": "SENORA",
+  "text": "¿Y adónde va? Se ve que no es de aquí. Si me dice, le aviso dónde bajarse."
+ },
+ {
+  "id": "055a01353290",
+  "who": "YO",
+  "text": "Voy al Zócalo."
+ },
+ {
+  "id": "891acf23ae1e",
+  "who": "SENORA",
+  "text": "Ah, entonces se cambia en Hidalgo, ¿verdad? Yo me bajo antes, en Centro Médico. Pero no se preocupe, en cada estación lo anuncian."
+ },
+ {
+  "id": "4239404313b2",
+  "who": "MEGAFONIA",
+  "text": "Próxima estación: Hidalgo. Correspondencia con línea dos. Permita la salida antes de entrar."
+ },
+ {
+  "id": "ace7a6674d52",
+  "who": "YO",
+  "text": "Con permiso, ¿me deja pasar?"
+ },
+ {
+  "id": "ae47c98911d9",
+  "who": "YO",
+  "text": "Perdón, perdón."
+ },
+ {
+  "id": "009b956d7111",
+  "who": "SENORA",
+  "text": "¡Bájese con cuidado, joven! ¡Que le vaya bien!"
+ },
+ {
+  "id": "4f54a834c019",
+  "who": "YO",
+  "text": "Disculpe, ¿me puede ayudar?"
+ },
+ {
+  "id": "abd9959642d1",
+  "who": "YO",
+  "text": "Hola, ¿Bellas Artes?"
+ },
+ {
+  "id": "ddefd2906796",
+  "who": "POLICIA",
+  "text": "Claro que sí. Para eso estamos. ¿A dónde quiere ir?"
+ },
+ {
+  "id": "85ebde4fc173",
+  "who": "YO",
+  "text": "¿Cómo llego a Bellas Artes?"
+ },
+ {
+  "id": "d627791ffafb",
+  "who": "POLICIA",
+  "text": "Mire, es muy fácil. Vaya derecho por esa calle, la de Madero. Es peatonal, no hay coches. Camine unas cinco cuadras, hasta el Eje Central, una avenida grande. Ahí cruza, y a la derecha va a ver el palacio. Es blanco, con una cúpula naranja. No tiene pérdida."
+ },
+ {
+  "id": "8f476ba7969e",
+  "who": "YO",
+  "text": "¿Está lejos caminando?"
+ },
+ {
+  "id": "ea4da9ff72bb",
+  "who": "YO",
+  "text": "¿Cuántos kilómetros son?"
+ },
+ {
+  "id": "e24d65b7f68a",
+  "who": "POLICIA",
+  "text": "No, qué va. Unos diez, quince minutos. Y en el camino va a ver la Casa de los Azulejos, que es preciosa. Ah, y cuidado con su celular, ¿eh? Hay mucha gente."
+ },
+ {
+  "id": "1924c753515f",
+  "who": "YO",
+  "text": "Muchas gracias, muy amable."
+ },
+ {
+  "id": "a608de0eed0b",
+  "who": "POLICIA",
+  "text": "Para servirle. ¡Que disfrute el centro!"
+ },
+ {
+  "id": "41325cbef001",
+  "who": "MARI",
+  "text": "Buenas tardes, pásele. ¿Mesa para uno? Siéntese donde guste."
+ },
+ {
+  "id": "3f6c833e77d1",
+  "who": "YO",
+  "text": "¿Qué hay de comida corrida hoy?"
+ },
+ {
+  "id": "14a18a2df453",
+  "who": "YO",
+  "text": "¿Tiene menú?"
+ },
+ {
+  "id": "7171f9ac82e8",
+  "who": "MARI",
+  "text": "Hoy tenemos de primer tiempo sopa de fideo o crema de elote. Luego arroz, y de guisado: tinga de pollo, chile relleno o bistec en salsa verde. Lleva agua del día, que hoy es de jamaica, y gelatina de postre. Las tortillas, todas las que quiera."
+ },
+ {
+  "id": "f0cec98a6be1",
+  "who": "YO",
+  "text": "La crema de elote y la tinga de pollo, por favor."
+ },
+ {
+  "id": "8198e2a895b3",
+  "who": "MARI",
+  "text": "Muy bien. ¿La tinga le pica? Lleva chipotle. Pica poquito, pero pica."
+ },
+ {
+  "id": "29bcd577d28f",
+  "who": "YO",
+  "text": "No hay problema, me gusta poquito picante."
+ },
+ {
+  "id": "151667f1cfe0",
+  "who": "YO",
+  "text": "Sí."
+ },
+ {
+  "id": "8a9723069b26",
+  "who": "MARI",
+  "text": "¿Qué tal todo? ¿Le traigo un cafecito?"
+ },
+ {
+  "id": "4ec65acd21cb",
+  "who": "YO",
+  "text": "Todo muy rico, gracias. ¿Me trae la cuenta, por favor?"
+ },
+ {
+  "id": "ceeb1b334c57",
+  "who": "YO",
+  "text": "La cuenta."
+ },
+ {
+  "id": "bd383913e8f5",
+  "who": "MARI",
+  "text": "Son noventa y cinco. Aquí no tenemos terminal, nada más efectivo, ¿eh? Pero si quiere, le puedo pasar el número de cuenta para una transferencia."
+ },
+ {
+  "id": "75b9471f5fd5",
+  "who": "YO",
+  "text": "Pago en efectivo."
+ },
+ {
+  "id": "4a0e3e6a3e78",
+  "who": "MARI",
+  "text": "Gracias, que le vaya bonito. ¡Vuelva pronto!"
+ },
+ {
+  "id": "b5ccecba78c1",
+  "who": "MARISOL",
+  "text": "Buenos días. Siguiente, por favor. ¿Viene a inscribirse?"
+ },
+ {
+  "id": "b1b40dee1a52",
+  "who": "YO",
+  "text": "Sí, buenos días. Vengo a inscribirme para el semestre."
+ },
+ {
+  "id": "036eb150aa61",
+  "who": "YO",
+  "text": "Sí, inscripción."
+ },
+ {
+  "id": "ed6873d91639",
+  "who": "MARISOL",
+  "text": "Muy bien. Me permite su pasaporte y su carta de aceptación, por favor. También necesito dos fotografías tamaño infantil, para la credencial."
+ },
+ {
+  "id": "7af31ead47be",
+  "who": "YO",
+  "text": "Perdón, se me olvidaron las fotos. ¿Las puedo traer mañana?"
+ },
+ {
+  "id": "740559b2c5ea",
+  "who": "YO",
+  "text": "No tengo fotos."
+ },
+ {
+  "id": "e2cc8508bd3b",
+  "who": "MARISOL",
+  "text": "No se preocupe. Cerca del metro Copilco hay varios lugares donde se las toman en cinco minutos. Puede traerlas hoy mismo, antes de las dos. Si no, mañana, pero sin fotos no le puedo dar la credencial."
+ },
+ {
+  "id": "63024ade45c8",
+  "who": "MARISOL",
+  "text": "Ahora, el examen de colocación. Es mañana martes, a las diez, en el salón doce del edificio B. Dura dos horas: una parte escrita y una entrevista oral. Según el resultado, le asignamos su nivel y su grupo."
+ },
+ {
+  "id": "51e1619314bb",
+  "who": "YO",
+  "text": "¿A qué hora es el examen?"
+ },
+ {
+  "id": "c43fa02f1ac7",
+  "who": "MARISOL",
+  "text": "A las diez en punto. Llegue unos minutos antes, por favor. Y no se preocupe: el examen no es para aprobar o reprobar, solo es para saber su nivel."
+ },
+ {
+  "id": "c1c7fca2ebc7",
+  "who": "YO",
+  "text": "Muchas gracias. Hasta mañana."
+ },
+ {
+  "id": "80f2e7e6fba9",
+  "who": "MARISOL",
+  "text": "Hasta mañana. ¡Siguiente!"
+ },
+ {
+  "id": "4005fff1b2a8",
+  "who": "VALERIA",
+  "text": "¡Hola! Soy Valeria. ¡Qué gusto conocerte! ¿Cómo te fue en la inscripción?"
+ },
+ {
+  "id": "f68e910de6e9",
+  "who": "YO",
+  "text": "Bien, pero se me olvidaron las fotos. Ya me las tomé."
+ },
+ {
+  "id": "287a9e848e1b",
+  "who": "YO",
+  "text": "Bien, gracias."
+ },
+ {
+  "id": "a3c4f5b0fbef",
+  "who": "VALERIA",
+  "text": "Ja, ja, a todos nos pasa. Bueno, mira, esta es la Biblioteca Central. Los murales son de Juan O'Gorman, y están hechos con piedras de colores de todo México. Cuentan la historia del país, desde los aztecas hasta hoy."
+ },
+ {
+  "id": "c5e961b37833",
+  "who": "VALERIA",
+  "text": "Y este pasto enorme se llama Las Islas. Aquí la gente come, estudia, duerme la siesta… En los partidos de fútbol americano, todo el mundo grita el «Goya». Ya lo vas a aprender: es el grito de la UNAM."
+ },
+ {
+  "id": "65d41bbb8a2d",
+  "who": "YO",
+  "text": "¿Qué quiere decir «Goya»?"
+ },
+ {
+  "id": "1f4d2a481cb3",
+  "who": "YO",
+  "text": "¿Goya?"
+ },
+ {
+  "id": "af975413b0be",
+  "who": "VALERIA",
+  "text": "Es un grito de ánimo. Viene de un viejo cine que estaba junto a la universidad, cuando estaba en el centro: los estudiantes se iban de clase al cine Goya. Bueno, eso dicen. ¡Goya, Goya! ¡Cachún, cachún, ra, ra!"
+ },
+ {
+  "id": "912d23aae16d",
+  "who": "VALERIA",
+  "text": "Oye, ¿y cómo vas a venir todos los días? Desde Coyoacán puedes tomar el metro hasta Copilco o hasta Universidad. Y aquí adentro, el Pumabús te lleva gratis a todas las facultades."
+ },
+ {
+  "id": "cb85d1e887fa",
+  "who": "YO",
+  "text": "¿Quieres comer conmigo?"
+ },
+ {
+  "id": "ab053af22c71",
+  "who": "VALERIA",
+  "text": "¡Claro! Hay unos puestos aquí atrás con unas quesadillas buenísimas. Y luego te enseño el Estadio Olímpico. ¡Vámonos!"
+ },
+ {
+  "id": "db1cf21ba346",
+  "who": "CHELA",
+  "text": "¡Pásele, pásele! ¿Qué le damos, joven? Todo fresquecito, ¿eh?"
+ },
+ {
+  "id": "a74f1c3f9501",
+  "who": "YO",
+  "text": "Buenos días. ¿A cómo está el mango?"
+ },
+ {
+  "id": "81d10e44e0a9",
+  "who": "YO",
+  "text": "¿Cuánto cuesta el mango?"
+ },
+ {
+  "id": "33ed63045a12",
+  "who": "CHELA",
+  "text": "El manila está a cuarenta el kilo, y el ataúlfo, a cuarenta y cinco. Este ataúlfo está bien dulce, ¿eh? Mire, ¿le doy una probadita? Sin compromiso."
+ },
+ {
+  "id": "5af6f72d9801",
+  "who": "YO",
+  "text": "¡Sí, gracias! Mmm, está riquísimo."
+ },
+ {
+  "id": "4f40a0a287d8",
+  "who": "YO",
+  "text": "Un kilo de mango ataúlfo, por favor."
+ },
+ {
+  "id": "733dd8f679d4",
+  "who": "CHELA",
+  "text": "Ándele. ¿Qué más le damos?"
+ },
+ {
+  "id": "1ec5d1550bd5",
+  "who": "YO",
+  "text": "Una papaya y medio kilo de limones, por favor."
+ },
+ {
+  "id": "683d4046420e",
+  "who": "CHELA",
+  "text": "¿La papaya para hoy o para el miércoles? Esta ya está madurita, para comer hoy mismo. Si es para después, le doy una más verde."
+ },
+ {
+  "id": "5af0ac276480",
+  "who": "YO",
+  "text": "Para mañana, por favor. Una no tan madura."
+ },
+ {
+  "id": "27edab17daf2",
+  "who": "YO",
+  "text": "Para mañana."
+ },
+ {
+  "id": "b9ab4a1e63ae",
+  "who": "CHELA",
+  "text": "Esta está perfecta para mañana. Son cuarenta y cinco del mango, cincuenta y cinco de la papaya y quince de limones: ciento quince. ¿Algo más?"
+ },
+ {
+  "id": "d87153fff752",
+  "who": "YO",
+  "text": "Es todo, gracias."
+ },
+ {
+  "id": "1f655ff2ee5b",
+  "who": "CHELA",
+  "text": "Ciento quince, entonces. Me saluda mucho a Rocío, ¿eh? Y aquí le pongo un pilón: unas guayabas para usted."
+ },
+ {
+  "id": "ff257153a5c8",
+  "who": "ROCIO",
+  "text": "Aquí vienen todos los domingos medio Coyoacán. Las tostadas son la especialidad. La tostada es una tortilla frita, crujiente, y encima le ponen frijoles, el guisado, crema, lechuga, queso… ¡Ay, se me antoja todo!"
+ },
+ {
+  "id": "32d4e253fd51",
+  "who": "LUPE",
+  "text": "¡Pásenle, pásenle! ¿Qué van a querer? Tenemos de pata, tinga, pollo, ceviche, camarón y pulpo. ¿Algo de tomar?"
+ },
+ {
+  "id": "9437954bcf10",
+  "who": "YO",
+  "text": "Perdón, ¿qué es la pata?"
+ },
+ {
+  "id": "1898ea4c46ec",
+  "who": "YO",
+  "text": "¿Pata? ¿Qué?"
+ },
+ {
+  "id": "9dca2b1c339c",
+  "who": "LUPE",
+  "text": "Es pata de res, cocida y en vinagre, ¿eh? Fría, en cuadritos. A mucha gente le encanta… y a otros no tanto, ja, ja. Si es su primera vez, le recomiendo la de tinga o la de pollo."
+ },
+ {
+  "id": "752a95b2401a",
+  "who": "YO",
+  "text": "Una de tinga y una de pollo, por favor."
+ },
+ {
+  "id": "c1f89df87a55",
+  "who": "LUPE",
+  "text": "¿Y de tomar? Hay agua de horchata, de jamaica y de tamarindo."
+ },
+ {
+  "id": "9085ce9be243",
+  "who": "YO",
+  "text": "Un agua de horchata, por favor."
+ },
+ {
+  "id": "9ca23df23d9c",
+  "who": "YO",
+  "text": "Horchata."
+ },
+ {
+  "id": "53668c1ef45b",
+  "who": "ROCIO",
+  "text": "¿Ya viste cómo se come? Con las dos manos, y te inclinas un poco hacia el plato. Porque la tostada se rompe y se te cae todo. Es imposible comerla con elegancia, ¿eh? Nadie lo logra."
+ },
+ {
+  "id": "b4d053649aa2",
+  "who": "ROCIO",
+  "text": "¿Viste? ¡Nadie lo logra! ¿Qué te pareció?"
+ },
+ {
+  "id": "8e3dfb8a8721",
+  "who": "YO",
+  "text": "Estaban buenísimas."
+ },
+ {
+  "id": "51c967c37cce",
+  "who": "ROCIO",
+  "text": "¡Pues ya eres de aquí! El próximo domingo te toca invitar a ti, ja, ja."
+ },
+ {
+  "id": "f62e4fdbbc7d",
+  "who": "GUERO",
+  "text": "¡Buenas noches, jóvenes! ¿Qué van a querer? ¿De pastor, de suadero, de bistec?"
+ },
+ {
+  "id": "c4de5a4f0632",
+  "who": "DIEGO",
+  "text": "Para mí, cinco de pastor con todo. Y tú, ¿qué vas a querer? Te recomiendo el pastor, es el clásico."
+ },
+ {
+  "id": "2a90c61abf49",
+  "who": "YO",
+  "text": "Tres de pastor, por favor."
+ },
+ {
+  "id": "4a279bffad93",
+  "who": "YO",
+  "text": "Quiero tacos al pastor."
+ },
+ {
+  "id": "56c6ddeb684a",
+  "who": "GUERO",
+  "text": "¿Con todo? ¿Con piña?"
+ },
+ {
+  "id": "cd4e24ee9436",
+  "who": "YO",
+  "text": "Sí, con todo y con piña."
+ },
+ {
+  "id": "70fd514b3850",
+  "who": "GUERO",
+  "text": "Ahí van. Las salsas están en la barra: la roja es de chile de árbol y pica, ¿eh? La verde es de tomatillo y pica menos… Bueno, hoy le salió un poco brava. Ahí ustedes con cuidado."
+ },
+ {
+  "id": "690ba4624ac0",
+  "who": "DIEGO",
+  "text": "¿Qué tal? ¿Está chido o qué? Échale limón, así, unas gotas. Y si quieres otro, nomás le dices al Güero «otro de pastor». Aquí pagas al final: le dices cuántos te comiste y ya."
+ },
+ {
+  "id": "b1dcf0074596",
+  "who": "YO",
+  "text": "Güero, otro de suadero, por favor."
+ },
+ {
+  "id": "347b6cc936e7",
+  "who": "YO",
+  "text": "Uno más."
+ },
+ {
+  "id": "209f0c1b626e",
+  "who": "GUERO",
+  "text": "¡Uno de suadero con todo! ¿Algo de tomar, jóvenes? Hay refrescos y aguas."
+ },
+ {
+  "id": "6be609fe2b59",
+  "who": "GUERO",
+  "text": "¿Cuántos fueron?"
+ },
+ {
+  "id": "20ec38577660",
+  "who": "YO",
+  "text": "Tres de pastor y uno de suadero."
+ },
+ {
+  "id": "514af45e6a9a",
+  "who": "GUERO",
+  "text": "Son ochenta y ocho. Gracias, jóvenes. ¡Vuelvan pronto!"
+ },
+ {
+  "id": "02b0f599cc20",
+  "who": "DIEGO",
+  "text": "Mi mamá ya escribió, ¿verdad? Ja, ja. Siempre. Bueno, tiene razón. Pide el carro en tu app y yo me voy contigo. A esta hora el metro ya va a cerrar."
+ },
+ {
+  "id": "301bcd301895",
+  "who": "YO",
+  "text": "Ya vamos para allá, en un taxi de aplicación. No te preocupes."
+ },
+ {
+  "id": "30fca147b290",
+  "who": "YO",
+  "text": "Ok."
+ },
+ {
+  "id": "5c4f2846de33",
+  "who": "DIEGO",
+  "text": "Oye, ya que estamos: aquí todo el mundo dice «¿qué onda?» para saludar, «chido» o «padre» para algo que está bien, y «¿neta?» cuando no crees algo. «Neta» es «verdad». Y si algo te sorprende, dices «¡no manches!»."
+ },
+ {
+  "id": "a36491990db9",
+  "who": "DIEGO",
+  "text": "Y otra: «güey». Entre amigos es como «dude», y lo vas a oír cada dos palabras. Pero aguas: con gente que no conoces o con gente mayor puede sonar muy mal. Mejor no lo uses hasta que sepas bien cuándo."
+ },
+ {
+  "id": "e12ad3e12457",
+  "who": "YO",
+  "text": "Buenas noches. ¿Va a Coyoacán, a la colonia Del Carmen?"
+ },
+ {
+  "id": "82c0773881af",
+  "who": "YO",
+  "text": "Hola."
+ },
+ {
+  "id": "806dc925c5ba",
+  "who": "DIEGO",
+  "text": "Así me gusta. Yo comparto el viaje con mi mamá, para que lo vea en su celular. Ahora sí, vámonos."
+ },
+ {
+  "id": "d722b59baf85",
+  "who": "YO",
+  "text": "Ya estamos en el taxi."
+ },
+ {
+  "id": "37abd57ade23",
+  "who": "PATRICIA",
+  "text": "Buenos días. ¿En qué le puedo ayudar?"
+ },
+ {
+  "id": "37c926c3c783",
+  "who": "YO",
+  "text": "Buenos días. Creo que algo me cayó mal. Me duele el estómago."
+ },
+ {
+  "id": "39cf4294fdd7",
+  "who": "YO",
+  "text": "Estómago. Dolor."
+ },
+ {
+  "id": "40999715bb78",
+  "who": "PATRICIA",
+  "text": "Ay, pobre. ¿Desde cuándo se siente así? ¿Tiene diarrea, vómito? ¿Ha tenido fiebre?"
+ },
+ {
+  "id": "a8c45365bb10",
+  "who": "YO",
+  "text": "Desde anoche. No tengo fiebre."
+ },
+ {
+  "id": "0ab66c0f6b6c",
+  "who": "PATRICIA",
+  "text": "Bueno, lo primero es hidratarse. Le voy a dar un suero oral: tómeselo poco a poco, a traguitos, durante el día. Y coma ligero: caldo de pollo, arroz, plátano. Nada de grasa ni de picante."
+ },
+ {
+  "id": "16ac50c99b0d",
+  "who": "YO",
+  "text": "¿Me puede dar algún antibiótico?"
+ },
+ {
+  "id": "e7e0bcd8b545",
+  "who": "YO",
+  "text": "Antibiótico, ¿sí?"
+ },
+ {
+  "id": "011c0a762303",
+  "who": "PATRICIA",
+  "text": "Los antibióticos solo se venden con receta médica. Pero mire, aquí al lado está el consultorio. El doctor está de turno, la consulta cuesta cincuenta pesos y no necesita cita. Si quiere, pase con él para que le haga una revisión."
+ },
+ {
+  "id": "494d31db6335",
+  "who": "YO",
+  "text": "Sí, paso con el doctor."
+ },
+ {
+  "id": "5da42f447116",
+  "who": "PATRICIA",
+  "text": "Muy bien. Es la puerta de al lado. Y no se le olvide el suero, ¿eh? Que se mejore."
+ },
+ {
+  "id": "6fada63f404a",
+  "who": "DOCTOR",
+  "text": "Buenos días, pásele. Siéntese, por favor. Cuénteme, ¿qué le pasa?"
+ },
+ {
+  "id": "d87c150233ec",
+  "who": "YO",
+  "text": "Me duele mucho el estómago desde anoche. Creo que algo me cayó mal."
+ },
+ {
+  "id": "e38af43fd205",
+  "who": "YO",
+  "text": "Me duele el estómago."
+ },
+ {
+  "id": "ba32cc4ab920",
+  "who": "DOCTOR",
+  "text": "Ajá. ¿Y qué comió ayer? ¿Comió algo en la calle? No se preocupe, aquí todos comemos en la calle. Nada más quiero saber."
+ },
+ {
+  "id": "195515fa47ec",
+  "who": "YO",
+  "text": "Cené unos tamales en un puesto."
+ },
+ {
+  "id": "54a5d5290e2e",
+  "who": "DOCTOR",
+  "text": "Ya veo. A ver, recuéstese en la camilla… ¿Aquí le duele? ¿Y aquí? Bueno, parece una infección leve del estómago. Es muy común en las primeras semanas: su cuerpo se tiene que acostumbrar a las bacterias de aquí. No es nada grave."
+ },
+ {
+  "id": "c38e13b68236",
+  "who": "DOCTOR",
+  "text": "Le voy a dar una receta. Este medicamento, una pastilla cada ocho horas durante cinco días. Aunque se sienta bien antes, tómelo los cinco días completos, ¿eh? Y el suero, todo el día."
+ },
+ {
+  "id": "6991d517f8d8",
+  "who": "YO",
+  "text": "¿La tengo que tomar con alimentos?"
+ },
+ {
+  "id": "f534a95920e9",
+  "who": "YO",
+  "text": "¿Comida?"
+ },
+ {
+  "id": "488a05dff1a1",
+  "who": "DOCTOR",
+  "text": "Sí, mejor después de comer algo ligero, para que no le caiga pesada. Y si en dos días no está mejor, o si le da fiebre, regrese, ¿sí?"
+ },
+ {
+  "id": "b5d2ec0a9554",
+  "who": "YO",
+  "text": "Muchas gracias, doctor."
+ },
+ {
+  "id": "25f6014379ed",
+  "who": "DOCTOR",
+  "text": "De nada. Mucho líquido y mucho descanso. ¡Que se mejore pronto!"
+ },
+ {
+  "id": "1a1923cb00c7",
+  "who": "VALERIA",
+  "text": "Ok, yo ya vine muchas veces, pero hoy te toca a ti hablar con el remero. ¡Es práctica! Ahí hay uno."
+ },
+ {
+  "id": "94dc258a4cc2",
+  "who": "LALO",
+  "text": "Buenas tardes, ¿una trajinera? Pásenle. La tarifa oficial está en el letrero: setecientos cincuenta pesos la hora. Es por lancha, no por persona."
+ },
+ {
+  "id": "f0027f50b834",
+  "who": "YO",
+  "text": "Queremos dos horas, por favor. ¿Cuánto sería?"
+ },
+ {
+  "id": "53e02099001b",
+  "who": "YO",
+  "text": "Dos horas."
+ },
+ {
+  "id": "a2b6d8b03697",
+  "who": "LALO",
+  "text": "Dos horas son mil quinientos. Se paga aquí, antes de subir. Si después quieren más tiempo, me dicen en el camino y me pagan la diferencia."
+ },
+ {
+  "id": "bc4f099d2bdf",
+  "who": "YO",
+  "text": "Son doscientos cincuenta pesos cada uno."
+ },
+ {
+  "id": "ed50ddf031f3",
+  "who": "DIEGO",
+  "text": "¡Eso! Ya hasta haces cuentas en español. Toma, mi parte."
+ },
+ {
+  "id": "b6f3d320bbc1",
+  "who": "LALO",
+  "text": "¿Ya quedó? Súbanse con cuidado, uno por uno. La trajinera se mueve."
+ },
+ {
+  "id": "300740c24ae9",
+  "who": "YO",
+  "text": "¿Por qué se llama Lupita la trajinera?"
+ },
+ {
+  "id": "c211c4c45714",
+  "who": "YO",
+  "text": "¿Quién es Lupita?"
+ },
+ {
+  "id": "e4e6d572ca66",
+  "who": "LALO",
+  "text": "Es por mi mamá. Todas las trajineras llevan nombre de mujer: la mamá, la esposa, la hija del dueño. Esta era de mi papá, y ahora es mía. Mi familia rema en estos canales desde hace cuatro generaciones."
+ },
+ {
+  "id": "038756d8a7cb",
+  "who": "ELOTERA",
+  "text": "¡Elotes, esquites! ¿Les doy un elotito, jóvenes? Con mayonesa, queso y chile, como debe ser."
+ },
+ {
+  "id": "93ea493084dd",
+  "who": "YO",
+  "text": "Unos esquites, por favor, pero sin chile."
+ },
+ {
+  "id": "a3f770d948a8",
+  "who": "YO",
+  "text": "Esquites."
+ },
+ {
+  "id": "2f8d52588122",
+  "who": "ELOTERA",
+  "text": "¿Chico o grande? El chico es de treinta y el grande, de cincuenta. ¿Le pongo limón?"
+ },
+ {
+  "id": "8341a50f4ab5",
+  "who": "YO",
+  "text": "Uno grande, con limón, por favor."
+ },
+ {
+  "id": "a680a23d9857",
+  "who": "ELOTERA",
+  "text": "Aquí tiene. Cincuenta. ¡Provecho!"
+ },
+ {
+  "id": "e3b77ca26131",
+  "who": "LALO",
+  "text": "¿Ven esas islitas con árboles? Se llaman chinampas. Los antiguos mexicanos las hacían con lodo y plantas en el lago para sembrar maíz, frijol, flores. Por eso Xochimilco quiere decir «el lugar de las flores». Todavía hay familias que siembran en las chinampas, como hace siglos."
+ },
+ {
+  "id": "874e311c97d9",
+  "who": "VALERIA",
+  "text": "¿Y si pedimos una? Elige tú. Una clásica es «Cielito lindo». Pregúntale cuánto cuesta."
+ },
+ {
+  "id": "d59018b61bbe",
+  "who": "YO",
+  "text": "¿Cuánto cuesta la canción?"
+ },
+ {
+  "id": "6674c89808f8",
+  "who": "VALERIA",
+  "text": "¡Uy, ciento cincuenta! Bueno, entre seis sale a veinticinco cada uno. ¡Vale la pena! Ahora todos tenemos que cantar el «ay, ay, ay, ay», ¿eh? Es obligatorio."
+ },
+ {
+  "id": "4e377b174e7e",
+  "who": "ROCIO",
+  "text": "Este año ponemos la ofrenda para mi papá, el abuelo de Diego. Murió hace dos años. Le encantaban las flores, así que vamos a llevar muchas. Ven, aquí le compro siempre a don Toño."
+ },
+ {
+  "id": "0d6fbde50bb6",
+  "who": "YO",
+  "text": "Lo siento mucho. Seguro que la ofrenda le va a quedar muy bonita."
+ },
+ {
+  "id": "3a1efe8a81ab",
+  "who": "YO",
+  "text": "Ah, ok."
+ },
+ {
+  "id": "a439695ecf3d",
+  "who": "ROCIO",
+  "text": "Gracias. Qué lindo detalle. Sí, le va a encantar."
+ },
+ {
+  "id": "862c57846c9c",
+  "who": "FLORISTA",
+  "text": "¡Pásele, doña Rocío! ¿Qué va a llevar este año? El cempasúchil está fresquecito, ahorita en estas fechas es lo que más se vende."
+ },
+ {
+  "id": "b35291208916",
+  "who": "ROCIO",
+  "text": "Mira, te toca a ti pedir. Necesitamos tres manojos de cempasúchil y uno de terciopelo, la flor morada. Pregúntale a cuánto está el manojo."
+ },
+ {
+  "id": "f4f790a718f5",
+  "who": "YO",
+  "text": "¿A cómo está el manojo de cempasúchil?"
+ },
+ {
+  "id": "183ce897552a",
+  "who": "FLORISTA",
+  "text": "El cempasúchil, a sesenta el manojo. El terciopelo, a setenta. Si se lleva cuatro de cempasúchil, se los dejo en doscientos."
+ },
+ {
+  "id": "b235776fabae",
+  "who": "YO",
+  "text": "Entonces, cuatro de cempasúchil y uno de terciopelo, por favor."
+ },
+ {
+  "id": "e849147e96a5",
+  "who": "YO",
+  "text": "Cuatro, por favor."
+ },
+ {
+  "id": "8574c6fc890c",
+  "who": "FLORISTA",
+  "text": "¡Así me gusta! Son doscientos setenta. Y le regalo un poquito de nube, para que se vea más bonita la ofrenda."
+ },
+ {
+  "id": "35c87dc62c33",
+  "who": "YO",
+  "text": "Muchas gracias por el regalo."
+ },
+ {
+  "id": "8d68703cfc87",
+  "who": "ARTURO",
+  "text": "Ese es don Ramiro, el papá de Rocío. Era muy bromista. Le gustaban el mole, el tequila y las canciones de Pedro Infante. Por eso todo eso va en la ofrenda."
+ },
+ {
+  "id": "5fdc6ad76d6b",
+  "who": "DIEGO",
+  "text": "Ayúdame con esto. Hay que poner las velas, el agua, la sal, el pan de muerto y las calaveritas de azúcar. Cada cosa tiene un significado."
+ },
+ {
+  "id": "a520a23ca7bb",
+  "who": "YO",
+  "text": "¿Para qué es el agua?"
+ },
+ {
+  "id": "ba261aa7ee61",
+  "who": "YO",
+  "text": "¿Agua? ¿Por qué?"
+ },
+ {
+  "id": "40a5a1415461",
+  "who": "DIEGO",
+  "text": "El agua es porque los muertos llegan cansados y con sed después del viaje. La sal es para purificar. Las velas iluminan el camino. Y los pétalos de cempasúchil hacen un caminito desde la puerta hasta la ofrenda, para que encuentre la casa."
+ },
+ {
+  "id": "db58d0a565ae",
+  "who": "ROCIO",
+  "text": "Mi papá decía que no estaba muerto mientras alguien lo recordara. Por eso hacemos esto: no es una fiesta triste, es una forma de seguir con ellos. Y tú, ¿en tu país hacen algo para recordar a sus muertos?"
+ },
+ {
+  "id": "59e26a4b94fd",
+  "who": "YO",
+  "text": "No tenemos algo así, pero me parece muy bonito recordarlos de esta forma."
+ },
+ {
+  "id": "a209b83ce81d",
+  "who": "YO",
+  "text": "No."
+ },
+ {
+  "id": "099cf8d34992",
+  "who": "ROCIO",
+  "text": "Gracias. Pues este año, si quieres, pon la foto de alguien que tú quieras recordar. Aquí cabe toda la familia… y tú ya eres parte."
+ },
+ {
+  "id": "8b4cb7cae47f",
+  "who": "YO",
+  "text": "Me encantaría."
+ },
+ {
+  "id": "11b9c6ea8d91",
+  "who": "DIEGO",
+  "text": "Y el dos de noviembre, después de que «comió» el abuelo, nos comemos nosotros el pan de muerto. Esa es la mejor parte, ja, ja."
+ },
+ {
+  "id": "9453d907bb99",
+  "who": "ARTURO",
+  "text": "Aquí los mariachis esperan a que la gente los contrate. Se paga por canción. Hoy invitas tú, ¿eh? Es tradición: el que se va, invita la canción. Ja, ja, es broma… bueno, no tanto."
+ },
+ {
+  "id": "e2fbc7628213",
+  "who": "FIDEL",
+  "text": "Buenas noches, ¿una canción? Nosotros tocamos lo que usted guste: rancheras, boleros, sones. El precio es por canción."
+ },
+ {
+  "id": "181fe4bb1779",
+  "who": "YO",
+  "text": "¿Cuánto cobran por canción?"
+ },
+ {
+  "id": "da9b334ebac6",
+  "who": "FIDEL",
+  "text": "Para ustedes, doscientos cincuenta la canción. Si son tres, se las dejo en seiscientos. ¿Cuál quieren? ¿«El Rey», «Cielito lindo», «Volver, volver»?"
+ },
+ {
+  "id": "e93ead2f0b03",
+  "who": "YO",
+  "text": "Solo una, por favor. «Cielito lindo»."
+ },
+ {
+  "id": "bfe59535999e",
+  "who": "YO",
+  "text": "Una canción."
+ },
+ {
+  "id": "38509194ab64",
+  "who": "FIDEL",
+  "text": "¡Muy buena elección! ¿Se la dedicamos a alguien? Si quiere, la dedicamos con nombre, al principio de la canción."
+ },
+ {
+  "id": "e51910888fac",
+  "who": "YO",
+  "text": "Sí, para la familia Hernández, por recibirme como en casa."
+ },
+ {
+  "id": "ef1e2303c1d1",
+  "who": "YO",
+  "text": "Sí, para Rocío."
+ },
+ {
+  "id": "15076663bfd2",
+  "who": "FIDEL",
+  "text": "Con mucho gusto. Esta va con cariño para la familia Hernández, de parte de alguien que hoy se despide de México. ¡Uno, dos, tres!"
+ },
+ {
+  "id": "7ef4793f6d0a",
+  "who": "ROCIO",
+  "text": "«Ay, ay, ay, ay, canta y no llores…» ¡Ay, qué bonito! Ya me hiciste llorar."
+ },
+ {
+  "id": "065c19f49d6f",
+  "who": "ARTURO",
+  "text": "Bueno, antes de que se nos olvide. Hace cuatro meses llegó a nuestra casa alguien que no sabía que el agua de la llave no se toma. Hoy pide tacos «con todo» mejor que yo. ¡Salud!"
+ },
+ {
+  "id": "88af66941eaf",
+  "who": "YO",
+  "text": "Muchas gracias por todo. Me hicieron sentir en casa."
+ },
+ {
+  "id": "157f3d67f416",
+  "who": "YO",
+  "text": "Gracias, salud."
+ },
+ {
+  "id": "a3ad07b5c866",
+  "who": "ROCIO",
+  "text": "¡Ay, no! Ya me vas a hacer llorar otra vez. Tú también nos enseñaste muchas cosas, ¿eh? Diego ya hasta habla inglés en la cena."
+ },
+ {
+  "id": "c31adef9e519",
+  "who": "DIEGO",
+  "text": "Bueno, un poquito, ja, ja. Oye, ¿y cuándo vas a regresar? Tienes que venir otra vez, ¿eh? En verano, para ir a Oaxaca juntos."
+ },
+ {
+  "id": "5b09faf11766",
+  "who": "YO",
+  "text": "Los voy a extrañar mucho."
+ },
+ {
+  "id": "39db7ffaa6f1",
+  "who": "ARTURO",
+  "text": "Y nosotros a ti. Aquí tienes tu casa. Cuando quieras volver, tu cuarto te espera. Y si conoces a otro estudiante que venga a la UNAM, mándalo con nosotros."
+ },
+ {
+  "id": "8a0e9026e587",
+  "who": "YO",
+  "text": "Les prometo que voy a volver. ¡Y les escribo todas las semanas!"
+ },
+ {
+  "id": "afa1c128aab8",
+  "who": "YO",
+  "text": "Sí, voy a volver."
+ },
+ {
+  "id": "39d447ebab8f",
+  "who": "ROCIO",
+  "text": "Más te vale. ¡Y nada de «ahorita te escribo», eh! Que ya sabes lo que significa «ahorita»."
+ },
+ {
+  "id": "49ba8d60f25d",
+  "who": "ERNESTO",
+  "text": "Buenos días a todos. Ustedes estudian en una de las universidades más modernas de América… sobre la lava de un volcán. Y aquí, a dos kilómetros, está la razón. ¿Ven esa colina redonda entre los árboles?"
+ },
+ {
+  "id": "e4b6474c7535",
+  "who": "YO",
+  "text": "¿Es una pirámide? ¿De qué época es?"
+ },
+ {
+  "id": "a9a7a3b02892",
+  "who": "YO",
+  "text": "¿Es vieja?"
+ },
+ {
+  "id": "1c493db41207",
+  "who": "ERNESTO",
+  "text": "Es una pirámide, y es mucho más antigua que la de Teotihuacan. Antes de entrar, les doy un texto. Es más difícil que lo que hablamos en clase, pero léanlo con calma, toquen las palabras que no conozcan y después platicamos."
+ },
+ {
+  "id": "8ac2d7b96749",
+  "who": "ERNESTO",
+  "text": "Muy bien. Ahora, una pregunta para ustedes. ¿Alguien quiere preguntarme algo sobre el texto?"
+ },
+ {
+  "id": "849741e2c91f",
+  "who": "YO",
+  "text": "¿Cuántos habitantes tenía Cuicuilco?"
+ },
+ {
+  "id": "03c3e1be3a14",
+  "who": "ERNESTO",
+  "text": "Unos veinte mil, según los cálculos más aceptados, aunque hay quien dice más. Una ciudad enorme para su época. Vamos a subir."
+ },
+ {
+  "id": "7def8c4cb434",
+  "who": "ERNESTO",
+  "text": "¿Ven ese cerro al sur, el de la cima oscura? Es el Xitle. Parece inofensivo, ¿verdad? Pues todo lo que ustedes pisan desde aquí hasta la universidad salió de ahí. Lean y luego me dicen."
+ },
+ {
+  "id": "8389cb5b3810",
+  "who": "ERNESTO",
+  "text": "Entonces, ¿qué les pareció? ¿Quién me dice de dónde viene la roca de la universidad?"
+ },
+ {
+  "id": "5877738207c8",
+  "who": "YO",
+  "text": "Viene del volcán Xitle."
+ },
+ {
+  "id": "b1f2f0c07023",
+  "who": "ERNESTO",
+  "text": "Exacto. La próxima semana vamos a la ciudad que creció cuando Cuicuilco se apagó: Teotihuacan. Traigan sombrero y mucha agua."
+ },
+ {
+  "id": "7cb3f7df2d7d",
+  "who": "VALERIA",
+  "text": "¡Llegamos! Yo vine con la escuela cuando tenía diez años y subí la pirámide del Sol corriendo. Hoy no sé si llego, ja, ja. El profe dice que primero leamos y luego caminemos."
+ },
+ {
+  "id": "5d71c1db6b0f",
+  "who": "ERNESTO",
+  "text": "Exacto. Teotihuacan es enorme: si caminan sin saber qué ven, solo van a ver piedras. Aquí tienen el primer texto. Léanlo a la sombra."
+ },
+ {
+  "id": "6c27194d8f69",
+  "who": "YO",
+  "text": "¿Se puede subir a las pirámides?"
+ },
+ {
+  "id": "152f1767bd83",
+  "who": "YO",
+  "text": "¿Subimos?"
+ },
+ {
+  "id": "e9ed036290e0",
+  "who": "ERNESTO",
+  "text": "Antes se subía hasta arriba. En los últimos años el acceso ha estado restringido muchas veces, para protegerlas. Pregunten en la entrada ese día. Pero primero, el texto."
+ },
+ {
+  "id": "0ed54cfac8ec",
+  "who": "VALERIA",
+  "text": "Qué fuerte, ¿no? Que no sepamos ni cómo se llamaban. Bueno, ¿vamos a la calzada?"
+ },
+ {
+  "id": "b9c6ec1cbe6a",
+  "who": "YO",
+  "text": "Sí, vamos primero a la pirámide de la Luna."
+ },
+ {
+  "id": "6256244164c9",
+  "who": "ERNESTO",
+  "text": "Las pirámides impresionan, pero la verdadera maravilla de Teotihuacan es otra: aquí vivía muchísima gente. ¿Cuánta? Lean."
+ },
+ {
+  "id": "1b2889dbfea1",
+  "who": "ERNESTO",
+  "text": "Ahora imagínenlo: este palacio con los muros rojos, el olor del copal, cien mil personas en las calles… Bueno, ya. Aquí cerca hay un conjunto de departamentos con murales muy bien conservados, Tepantitla. ¿Quién quiere ir a verlo?"
+ },
+ {
+  "id": "57095dad5955",
+  "who": "YO",
+  "text": "Yo quiero ir."
+ },
+ {
+  "id": "567b87b0b97b",
+  "who": "ERNESTO",
+  "text": "¡Así me gusta! Vamos, despacio y con agua, que el sol aquí no perdona."
+ },
+ {
+  "id": "d3cfc3f6a5ec",
+  "who": "ERNESTO",
+  "text": "¿Ven el escudo de la bandera? Un águila sobre un nopal, comiéndose una serpiente. No es un adorno: es el acta de nacimiento de esta ciudad. Y ocurrió, según la leyenda, a unos metros de aquí."
+ },
+ {
+  "id": "ad20d1fd778d",
+  "who": "YO",
+  "text": "¿Qué significa el águila?"
+ },
+ {
+  "id": "4c1591eb3522",
+  "who": "YO",
+  "text": "¿Por qué un pájaro?"
+ },
+ {
+  "id": "0fe9fac784c3",
+  "who": "ERNESTO",
+  "text": "Es la señal que buscaban los mexicas para fundar su ciudad. Aquí tienen la historia. Léanla, y después entramos a ver lo que queda."
+ },
+ {
+  "id": "d3466a6cc7ef",
+  "who": "ERNESTO",
+  "text": "¿Y bien? Ahora, imagínense el Zócalo lleno de agua y de canoas. ¿Alguien quiere preguntar algo?"
+ },
+ {
+  "id": "3a0d3a0651ac",
+  "who": "YO",
+  "text": "¿En qué año se fundó Tenochtitlan?"
+ },
+ {
+  "id": "0a9fe4095b45",
+  "who": "ERNESTO",
+  "text": "Según la tradición, en 1325. Algunos historiadores proponen otras fechas, pero esa es la que todo México aprendió en la escuela."
+ },
+ {
+  "id": "04f98b388309",
+  "who": "ERNESTO",
+  "text": "Lo que ven no es un templo: son siete. Y durante cuatrocientos años, nadie sabía exactamente dónde estaban. Lean esto antes de entrar al museo."
+ },
+ {
+  "id": "4a9adb4c73eb",
+  "who": "ERNESTO",
+  "text": "Y aquí la tienen. La Coyolxauhqui. Fíjense: aún tiene restos de pintura. Imagínenla de colores, al pie de una escalera de treinta metros, con el humo del copal…"
+ },
+ {
+  "id": "1b7eb7a29ce5",
+  "who": "YO",
+  "text": "¿Cuánto pesa la piedra?"
+ },
+ {
+  "id": "bc8d9a69ff96",
+  "who": "ERNESTO",
+  "text": "Unas ocho toneladas. Y la sacaron de la zanja con mucho cuidado, a mano. La semana que viene vamos a ver dónde terminó todo esto: Tlatelolco."
+ },
+ {
+  "id": "acb394957b38",
+  "who": "ERNESTO",
+  "text": "Esta plaza se llama de las Tres Culturas: la prehispánica, la colonial y la moderna, aquí juntas. Pero antes de hablar de culturas, hay que hablar de una batalla. Lean la placa y luego el texto."
+ },
+ {
+  "id": "42076277e25a",
+  "who": "YO",
+  "text": "Perdón, ¿qué quiere decir «mestizo»?"
+ },
+ {
+  "id": "84785fc98de7",
+  "who": "YO",
+  "text": "¿Mestizo?"
+ },
+ {
+  "id": "2daf360d3981",
+  "who": "ERNESTO",
+  "text": "Es una persona de origen indígena y europeo a la vez. Pero aquí la palabra significa algo más: un pueblo nuevo. Ahora lean, y van a entender por qué la placa lo dice aquí."
+ },
+ {
+  "id": "86630b3af9af",
+  "who": "ERNESTO",
+  "text": "Duro, ¿no? Quinientos años y todavía se discute. Ahora díganme: ¿quién fue el último emperador mexica?"
+ },
+ {
+  "id": "04252441351d",
+  "who": "YO",
+  "text": "Fue Cuauhtémoc."
+ },
+ {
+  "id": "221e43ed5b52",
+  "who": "ERNESTO",
+  "text": "Exacto. Por eso en México hay calles, colonias y hasta una alcaldía con su nombre. Ahora vamos a la otra historia de esta plaza."
+ },
+ {
+  "id": "d7abb2bd329f",
+  "who": "VALERIA",
+  "text": "Aquí todos los años, el dos de octubre, hacemos una marcha desde la universidad. Mis papás venían, y sus papás también. Lean, por favor. Es importante."
+ },
+ {
+  "id": "8aae56468821",
+  "who": "VALERIA",
+  "text": "Gracias por leerlo con calma. Para mucha gente en México esto todavía duele."
+ },
+ {
+  "id": "27ea7aac43e7",
+  "who": "YO",
+  "text": "Gracias a ti por traernos aquí. Es una historia muy importante."
+ },
+ {
+  "id": "4f9e3f5728af",
+  "who": "YO",
+  "text": "Qué triste."
+ },
+ {
+  "id": "60309d96034c",
+  "who": "VALERIA",
+  "text": "¿Quieres venir a la marcha conmigo el próximo dos de octubre? Es tranquila, va mucha gente de la UNAM."
+ },
+ {
+  "id": "f9cdbc2685d6",
+  "who": "YO",
+  "text": "Sí, me gustaría ir contigo."
+ },
+ {
+  "id": "df8034e4c515",
+  "who": "VALERIA",
+  "text": "Va. Te aviso. Y te presto el libro de Poniatowska, «La noche de Tlatelolco». Es durísimo, pero tienes que leerlo."
+ },
+ {
+  "id": "1f5212ecc7c9",
+  "who": "ROCIO",
+  "text": "Yo vengo desde niña con mi mamá. No importa si eres creyente o no: para entender México tienes que entender a la Virgen de Guadalupe. Mira, te traje un folleto con la historia. Léelo mientras hacemos la fila."
+ },
+ {
+  "id": "69276da43a49",
+  "who": "YO",
+  "text": "¿Por qué es tan importante para ti la Virgen de Guadalupe?"
+ },
+ {
+  "id": "b0d6eec5c319",
+  "who": "YO",
+  "text": "¿Tú crees en eso?"
+ },
+ {
+  "id": "bf2e204387e6",
+  "who": "ROCIO",
+  "text": "Ay, porque es la mamá de todos. Cuando estás triste, le pides a ella. Cuando nació Diego, vine a darle las gracias. Pero lee, lee. Así me entiendes mejor."
+ },
+ {
+  "id": "3c7699da68b4",
+  "who": "ROCIO",
+  "text": "¿Ya lo leíste? ¿Qué te pareció?"
+ },
+ {
+  "id": "be37884870b7",
+  "who": "YO",
+  "text": "Me parece una historia muy bonita, y entiendo por qué es tan importante."
+ },
+ {
+  "id": "4412f95ccbf9",
+  "who": "YO",
+  "text": "Está bien."
+ },
+ {
+  "id": "217fa6633413",
+  "who": "ROCIO",
+  "text": "Gracias. Ándale, ya casi entramos."
+ },
+ {
+  "id": "2671a1ca1055",
+  "who": "ROCIO",
+  "text": "Mira, por aquí. La banda se mueve sola, nada más te paras y miras hacia arriba. Antes la gente se quedaba aquí horas y no se podía pasar. Toma, lee esto también."
+ },
+ {
+  "id": "4538a8fb195b",
+  "who": "ROCIO",
+  "text": "¿Viste la imagen? Es más chiquita de lo que uno se imagina, ¿verdad? Bueno, ahora vamos a subir al cerro a ver las capillas, y luego… ¡a comer gorditas de nata!"
+ },
+ {
+  "id": "b069ddde9073",
+  "who": "YO",
+  "text": "¿Qué son las gorditas de nata?"
+ },
+ {
+  "id": "13399e2191bb",
+  "who": "ROCIO",
+  "text": "Unos panecitos dulces, gorditos y calientitos. Son la tradición de la Villa. Te van a encantar."
+ },
+ {
+  "id": "959fa80643a4",
+  "who": "ERNESTO",
+  "text": "Fíjense en las dos fachadas: la catedral y, a su derecha, el Sagrario. Parecen de épocas distintas, ¿verdad? Es que lo son. Esta catedral se empezó cuando Felipe II era rey de España y se terminó cuando México estaba a punto de independizarse."
+ },
+ {
+  "id": "4d141a02e4da",
+  "who": "YO",
+  "text": "¿Cuánto tiempo tardaron en construirla?"
+ },
+ {
+  "id": "83e724ed4a6e",
+  "who": "YO",
+  "text": "¿Cuántos años?"
+ },
+ {
+  "id": "6c146d123864",
+  "who": "ERNESTO",
+  "text": "Casi doscientos cuarenta años. Por eso tiene un poco de todo. Lean, y luego entramos."
+ },
+ {
+  "id": "fd946b8c1ba0",
+  "who": "ERNESTO",
+  "text": "Bueno, entremos. Y bajen la voz, que hay misa."
+ },
+ {
+  "id": "30e9cc70be80",
+  "who": "YO",
+  "text": "¿Se pueden tomar fotos dentro?"
+ },
+ {
+  "id": "fc1fc0fe16b3",
+  "who": "ERNESTO",
+  "text": "Sí, pero sin flash y con respeto a la gente que viene a rezar."
+ },
+ {
+  "id": "1d7ffa913ae2",
+  "who": "ERNESTO",
+  "text": "Este péndulo es el electrocardiograma de la catedral. Si el edificio estuviera recto, la pesa estaría en el centro. Pero no lo está. Lean y entenderán por qué."
+ },
+ {
+  "id": "9f98b693feb2",
+  "who": "ERNESTO",
+  "text": "¿Ven? Esta ciudad es una pelea de quinientos años con el agua. Y la seguimos perdiendo."
+ },
+ {
+  "id": "00c3c831fac9",
+  "who": "YO",
+  "text": "¿Cuánto se hunde el centro cada año?"
+ },
+ {
+  "id": "8bab7f188144",
+  "who": "ERNESTO",
+  "text": "Aquí en el centro, menos que antes, pero todavía varios centímetros. En otras partes de la ciudad, mucho más. Por eso hay edificios que parecen bailar."
+ },
+ {
+  "id": "8ebd1fd47a94",
+  "who": "DIEGO",
+  "text": "Ese es el castillo. En la secundaria nos traían cada año, y yo siempre me aburría. Ahora me encanta, ja, ja. Mira, agarré estos folletos del museo. Léelos mientras subimos, que la subida es larga."
+ },
+ {
+  "id": "26f830df4173",
+  "who": "YO",
+  "text": "¿Qué quiere decir «Chapultepec»? ¿Es náhuatl?"
+ },
+ {
+  "id": "4f326aedacf4",
+  "who": "YO",
+  "text": "¿Chapultepec es náhuatl?"
+ },
+ {
+  "id": "e19daf47a6d9",
+  "who": "DIEGO",
+  "text": "Sí, quiere decir «el cerro del chapulín», o sea, del saltamontes. Por eso el icono del metro es un chapulín. Pero lee, lee, que el folleto lo explica mejor que yo."
+ },
+ {
+  "id": "b7f762458d27",
+  "who": "DIEGO",
+  "text": "Yo crecí con la historia de Juan Escutia, ¿eh? Me costó aceptar que a lo mejor no fue así. Oye, y en tu país, ¿cómo cuentan esa guerra?"
+ },
+ {
+  "id": "9761e660255c",
+  "who": "YO",
+  "text": "La verdad, casi no la estudiamos. Me parece importante conocer las dos versiones."
+ },
+ {
+  "id": "95a465e38266",
+  "who": "YO",
+  "text": "No sé."
+ },
+ {
+  "id": "07199e15d7b2",
+  "who": "DIEGO",
+  "text": "Eso está chido. Bueno, ya llegamos arriba. ¡Mira la vista!"
+ },
+ {
+  "id": "63d1dec0714d",
+  "who": "DIEGO",
+  "text": "Esto ya parece Europa, ¿no? Es que aquí vivió un emperador austriaco. Sí, en serio, un emperador. Lee el segundo folleto, es una historia de telenovela."
+ },
+ {
+  "id": "164a28d34563",
+  "who": "DIEGO",
+  "text": "¿Ves? Telenovela. Austria, Francia, una emperatriz que se vuelve loca… Y todo aquí, en el cerro del chapulín. Oye, ¿ya tienes hambre? Abajo venden unos elotes buenísimos."
+ },
+ {
+  "id": "3fc3498ab251",
+  "who": "YO",
+  "text": "Sí, tengo hambre. Vamos a comer."
+ },
+ {
+  "id": "711d39d7cf79",
+  "who": "DIEGO",
+  "text": "¡Eso! Y luego, si quieres, rentamos una lancha en el lago. Hoy invito yo."
+ },
+ {
+  "id": "5cbf0ff21913",
+  "who": "ERNESTO",
+  "text": "Este palacio cuenta dos historias de México. La de afuera es la del país que soñaba con ser París. La de adentro, la del país que salió de una revolución. Empezamos por afuera."
+ },
+ {
+  "id": "4d0b27acc187",
+  "who": "YO",
+  "text": "¿De qué está hecho el edificio?"
+ },
+ {
+  "id": "e488fe6f8d70",
+  "who": "YO",
+  "text": "¿Es de piedra?"
+ },
+ {
+  "id": "23087a182f80",
+  "who": "ERNESTO",
+  "text": "De mármol italiano, de Carrara, sobre una estructura de acero. Precioso… y pesadísimo. Ya verán por qué eso fue un problema. Lean."
+ },
+ {
+  "id": "e231175947f2",
+  "who": "ERNESTO",
+  "text": "¿Alguna pregunta antes de entrar?"
+ },
+ {
+  "id": "309a46842e64",
+  "who": "YO",
+  "text": "¿Cuánto se ha hundido el palacio?"
+ },
+ {
+  "id": "e431950347aa",
+  "who": "ERNESTO",
+  "text": "Varios metros desde que se construyó. Antes se subía por una escalinata a la entrada; ahora, fíjense, se baja. Bueno, ¡adentro!"
+ },
+ {
+  "id": "b2d0089cd775",
+  "who": "ERNESTO",
+  "text": "Esto ya no es el sueño de Díaz. Esto es lo que la Revolución quiso decir de sí misma. Y en esa pared está uno de los murales más famosos del mundo, con una historia increíble. Lean primero."
+ },
+ {
+  "id": "b3b3d333f542",
+  "who": "ERNESTO",
+  "text": "Ahí lo tienen. Ese es Lenin, ahí, a la derecha. Rivera se salió con la suya. Bueno, tienen media hora libre para ver los otros murales."
+ },
+ {
+  "id": "a30c43ba2b2d",
+  "who": "YO",
+  "text": "¿Dónde está el mural de Orozco?"
+ },
+ {
+  "id": "6076f229ca0a",
+  "who": "ERNESTO",
+  "text": "Enfrente, en el mismo piso. Se llama «La katharsis». Después me cuentan cuál les gustó más."
+ },
+ {
+  "id": "42c00b2f3618",
+  "who": "VALERIA",
+  "text": "Hice la reservación hace dos semanas, ¿eh? Si no, no entras. Mientras avanzamos, lee esto. Lo escribí yo para mi clase de Letras, ja, ja. Ahí me dices si se entiende."
+ },
+ {
+  "id": "7c9046c4e6c0",
+  "who": "YO",
+  "text": "¡Qué padre! Con gusto lo leo."
+ },
+ {
+  "id": "2b65ce9a459b",
+  "who": "VALERIA",
+  "text": "Gracias. Si encuentras errores, no me digas, ja, ja. Bueno, sí, dime."
+ },
+ {
+  "id": "b4febb2f7a83",
+  "who": "VALERIA",
+  "text": "¿Y? ¿Se entiende? Dime la verdad, ¿eh? Sin pena."
+ },
+ {
+  "id": "e36b535fa75d",
+  "who": "YO",
+  "text": "Se entiende muy bien. Me gustó mucho, sobre todo lo del espejo."
+ },
+ {
+  "id": "3032e9b38f05",
+  "who": "VALERIA",
+  "text": "¡Gracias! Ya nos toca. Adentro no se pueden tomar fotos sin un permiso especial, ¿eh?"
+ },
+ {
+  "id": "f0f6721d5ec2",
+  "who": "VALERIA",
+  "text": "Y ahora, la historia más rara de Coyoacán. ¿Sabías que Trotsky vivió en la casa de Frida? Sí, el revolucionario ruso. Lee esto, es el otro capítulo de mi trabajo."
+ },
+ {
+  "id": "b9b124256473",
+  "who": "VALERIA",
+  "text": "Qué fuerte, ¿no? Un revolucionario ruso, un muralista con metralleta y un asesino español, todo aquí, en el barrio de los coyotes. Bueno, ¿vamos por un café al Jardín Centenario? Yo invito."
+ },
+ {
+  "id": "fbe114ef5978",
+  "who": "YO",
+  "text": "Sí, vamos. Muchas gracias."
+ },
+ {
+  "id": "245bc2249894",
+  "who": "VALERIA",
+  "text": "Va. Y me cuentas cuál de las dos casas te gustó más."
+ },
+ {
+  "id": "74e2ade655fd",
+  "who": "ERNESTO",
+  "text": "Empezamos el curso en Cuicuilco, a dos kilómetros de aquí, y lo terminamos en el mismo suelo de lava. Hoy les toca leer sobre el lugar donde estudian. ¿Saben cuántos años tiene la universidad?"
+ },
+ {
+  "id": "9428a9828102",
+  "who": "YO",
+  "text": "Creo que es muy antigua. ¿Es del siglo dieciséis?"
+ },
+ {
+  "id": "c7e4a285eba0",
+  "who": "ERNESTO",
+  "text": "¡Casi! Es una historia con varios nacimientos. Lean, y después me dicen cuál es la fecha correcta… si es que hay una."
+ },
+ {
+  "id": "111a3e7861b1",
+  "who": "ERNESTO",
+  "text": "Entonces, ¿cuál es la fecha correcta?"
+ },
+ {
+  "id": "d9ec40f1072c",
+  "who": "YO",
+  "text": "Hay varias fechas: 1551, 1910 y 1952."
+ },
+ {
+  "id": "121b2fc8f1f7",
+  "who": "ERNESTO",
+  "text": "Muy bien. Y todas son correctas. Eso es la historia: depende de qué pregunta hagas."
+ },
+ {
+  "id": "e1181d2f14aa",
+  "who": "ERNESTO",
+  "text": "Último texto del curso. Después, quien quiera, me invita un café. Ja, ja. No, en serio, léanlo con calma."
+ },
+ {
+  "id": "214fdc025e54",
+  "who": "ERNESTO",
+  "text": "Bueno, se acabó el curso. Ha sido un placer. Espero que ahora vean esta ciudad de otra forma: con todas sus capas."
+ },
+ {
+  "id": "4702628b40f5",
+  "who": "YO",
+  "text": "Muchas gracias, profesor. Aprendí muchísimo."
+ },
+ {
+  "id": "5f7a65a93fef",
+  "who": "YO",
+  "text": "Gracias."
+ },
+ {
+  "id": "af71fbde3057",
+  "who": "YO",
+  "text": "Muchas gracias, profesor. He aprendido muchísimo."
+ },
+ {
+  "id": "90930266421d",
+  "who": "ERNESTO",
+  "text": "Gracias a ustedes. Y ya saben: cuando regresen a México, vengan a verme. Esta ciudad nunca se termina de leer."
+ },
+ {
+  "id": "5d15e945328b",
+  "who": "YO",
+  "text": "Voy a volver."
+ },
+ {
+  "id": "f167479dc4a4",
+  "who": "ERNESTO",
+  "text": "Más les vale. ¡Goya!"
+ }
+]

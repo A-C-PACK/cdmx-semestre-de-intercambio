@@ -1,0 +1,87 @@
+{
+  "high_level_description": "Brightly painted flat-bottomed trajinera boats on a green canal in Xochimilco, Mexico City, with a boatman pushing a long pole and a small canoe selling corn alongside.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A calm green canal lined with tall trees and willows under a bright sky, with more colourful boats in the distance.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          0,
+          760,
+          1000
+        ],
+        "desc": "A long flat boat with a wooden roof and a front arch painted in bright red, yellow, blue and pink flowers, with no letters.",
+        "color_palette": [
+          "#B8402A",
+          "#E8A33D",
+          "#C2477A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          700,
+          780,
+          940
+        ],
+        "desc": "A friendly boatman of about forty-five in a straw hat standing at the back of the boat, pushing a long wooden pole into the water.",
+        "color_palette": [
+          "#F2C9A0",
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          680,
+          0,
+          960,
+          420
+        ],
+        "desc": "A small wooden canoe with an older woman in a shawl selling corn on the cob from a steaming pot.",
+        "color_palette": [
+          "#5B3A29",
+          "#E8A33D",
+          "#C2477A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          760,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Calm green water with reflections.",
+        "color_palette": [
+          "#3F7D4E",
+          "#7FC4D6"
+        ]
+      }
+    ]
+  }
+}

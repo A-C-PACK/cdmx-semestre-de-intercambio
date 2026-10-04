@@ -1,0 +1,88 @@
+{
+  "high_level_description": "The vast Zócalo square of Mexico City on a bright day with a giant Mexican flag on a tall pole, the grey stone Metropolitan Cathedral with its bell towers, and a friendly police officer in a vest.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A huge open paved square under a deep blue sky, with low colonial buildings around it.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          80,
+          300,
+          700,
+          1000
+        ],
+        "desc": "The Metropolitan Cathedral, a huge grey stone Baroque church with two tall bell-shaped towers and a central dome.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          40,
+          40,
+          640,
+          300
+        ],
+        "desc": "A very tall flagpole with an enormous green, white and red flag flying in the wind, with no emblem visible.",
+        "color_palette": [
+          "#3F7D4E",
+          "#FFFFFF",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          620,
+          160,
+          800,
+          260
+        ],
+        "desc": "In the middle distance, a small figure of a woman police officer in a dark uniform, a bright yellow-green vest and a cap, pointing the way, the same size as the other people in the square and far smaller than the cathedral.",
+        "color_palette": [
+          "#1F3A4D",
+          "#E8A33D",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          780,
+          380,
+          1000,
+          1000
+        ],
+        "desc": "People strolling across the square, small in the distance.",
+        "color_palette": [
+          "#C2477A",
+          "#2E6F8E",
+          "#D9622B"
+        ]
+      }
+    ]
+  }
+}

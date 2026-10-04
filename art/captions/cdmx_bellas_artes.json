@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The Palacio de Bellas Artes in Mexico City seen from the Alameda park, a white marble palace with domes tiled in orange and gold.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A bright sky above, with tall modern buildings in the distance.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          150,
+          100,
+          780,
+          900
+        ],
+        "desc": "A grand white marble palace with a large central dome tiled in orange and gold, smaller domes and sculpted figures on the facade.",
+        "color_palette": [
+          "#FFFFFF",
+          "#E8A33D",
+          "#D9622B"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          740,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A park with fountains and trees and people sitting on benches.",
+        "color_palette": [
+          "#3F7D4E",
+          "#7FC4D6",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          0,
+          760,
+          160
+        ],
+        "desc": "Purple jacaranda trees in bloom.",
+        "color_palette": [
+          "#C2477A",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          840,
+          760,
+          1000
+        ],
+        "desc": "Purple jacaranda trees in bloom.",
+        "color_palette": [
+          "#C2477A",
+          "#3F7D4E"
+        ]
+      }
+    ]
+  }
+}

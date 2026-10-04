@@ -1,0 +1,85 @@
+{
+  "high_level_description": "The courtyard of the Blue House in Coyoacán, Mexico City, where Frida Kahlo lived: cobalt-blue walls with red trim, tropical plants, and a small stepped pyramid with clay figures.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A bright sky above intensely cobalt-blue walls.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          100,
+          0,
+          700,
+          1000
+        ],
+        "desc": "Intense cobalt-blue walls with red-brown window frames and green shutters.",
+        "color_palette": [
+          "#2E6F8E",
+          "#B8402A",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          500,
+          300,
+          900,
+          700
+        ],
+        "desc": "A small stepped pyramid in the garden with pre-Hispanic clay figures on its steps.",
+        "color_palette": [
+          "#D9622B",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          400,
+          0,
+          1000,
+          300
+        ],
+        "desc": "Big tropical plants, cacti and a palm.",
+        "color_palette": [
+          "#3F7D4E",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          780,
+          600,
+          1000,
+          1000
+        ],
+        "desc": "Pots of red geraniums along a path.",
+        "color_palette": [
+          "#B8402A",
+          "#3F7D4E"
+        ]
+      }
+    ]
+  }
+}

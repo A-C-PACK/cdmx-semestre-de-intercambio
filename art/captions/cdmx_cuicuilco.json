@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The round stepped pyramid of Cuicuilco in Mexico City, a wide circular platform of grey stone and earth among dry grass, black volcanic rock and pepper trees.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A clear blue sky and, far away, a low dark volcanic hill.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          50,
+          760,
+          950
+        ],
+        "desc": "A very wide low circular pyramid of grey stone in several round tiers, like a truncated cone, with a ramp up one side.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          120,
+          500,
+          320,
+          900
+        ],
+        "desc": "A low dark volcanic hill on the horizon.",
+        "color_palette": [
+          "#5B3A29",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          760,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Black jagged volcanic rock with dry yellow grass and small succulent plants.",
+        "color_palette": [
+          "#1F3A4D",
+          "#E8A33D",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          450,
+          820,
+          800,
+          1000
+        ],
+        "desc": "A feathery pepper tree.",
+        "color_palette": [
+          "#3F7D4E",
+          "#5B3A29"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+@id mercado
+@name Mercado de Coyoacán
+@short Mercado
+@zone Coyoacán · centro del barrio
+@geo 19.3528 -99.1615 coyoacan r
+@focus 0.40
+@route Calle Ignacio Allende, a tres cuadras del Jardín Hidalgo, en el centro de Coyoacán.
+@blurb Un mercado de barrio de toda la vida: fruta, verdura, flores, piñatas… y unas tostadas famosas en toda la ciudad.
+@goal Comprar fruta por kilos, preguntar precios, aceptar una probadita y pedir comida en un puesto lleno de gente.
+
+== fruta | El puesto de doña Chela ==
+N: Es domingo por la mañana. Rocío te lleva al mercado y te pide que hoy compres tú la fruta de la semana, en el puesto de doña Chela, su marchanta de siempre: «Es práctica», dice. La lista: mangos, papaya y limones.
+CHELA: ¡Pásele, pásele! ¿Qué le damos, joven? Todo fresquecito, ¿eh?
+C: Quieres empezar por los mangos. ¿Qué preguntas?
+  * Buenos días. ¿{{A cómo está|how much is it (per kilo) — Mexico}} el mango? || «¿A cómo está…?» o «¿a cómo es…?» es la forma típica de preguntar el precio en un mercado mexicano.
+  ~ ¿Cuánto cuesta el mango? || Correcto y se entiende perfectamente. «¿A cómo está?» suena más de mercado.
+  - ¿Cuánto es un kilogramo del mango? || Se entiende, pero suena muy formal y raro. Di «¿a cómo está el mango?» o «¿a cómo el kilo?».
+CHELA*: El manila está a cuarenta el kilo, y el ataúlfo, a cuarenta y cinco. Este ataúlfo está bien dulce, ¿eh? Mire, ¿le doy una {{probadita|a little taste}}? Sin compromiso.
+Q: ¿Cuál es el mango más caro?
+  * El ataúlfo, a cuarenta y cinco pesos el kilo. || El manila está a cuarenta.
+  - El manila, a cuarenta y cinco. || Al revés: el manila está a cuarenta.
+  - Los dos cuestan igual. || No: hay cinco pesos de diferencia.
+C: Doña Chela te ofrece una probadita. ¿Qué dices?
+  * ¡Sí, gracias! Mmm, {{está riquísimo|it's delicious}}. || Aceptar una probadita es normal y la vendedora se alegra.
+  ~ No, gracias. || Educado, pero te pierdes la mejor parte del mercado.
+  - Sí, gracias. Es muy rico. || Para el sabor de algo que pruebas ahora, «está rico», con «estar».
+T: Pide un kilo de mango ataúlfo.
+  = Un kilo de mango ataúlfo, por favor.
+  = Me da un kilo de ataúlfo, por favor.
+  = Un kilo de ataúlfo, por favor.
+  = Deme un kilo de mango ataúlfo, por favor.
+  = ¿Me da un kilo de mango ataúlfo, por favor?
+  = Un kilo del ataúlfo, por favor.
+  ! «Un kilo de mango ataúlfo, por favor.»
+CHELA: Ándele. ¿Qué más le damos?
+T: Ahora pide una papaya y medio kilo de limones.
+  = Una papaya y medio kilo de limones, por favor.
+  = Una papaya y medio de limones, por favor.
+  = Me da una papaya y medio kilo de limones, por favor.
+  = También una papaya y medio kilo de limones, por favor.
+  = Una papaya y medio kilo de limón, por favor.
+  ! «Medio kilo de…» No hace falta decir «un medio».
+CHELA*: ¿La papaya para hoy o para el miércoles? Esta ya está {{madurita|nicely ripe (diminutive of maduro)}}, para comer hoy mismo. Si es para después, le doy una más verde.
+Q: ¿Por qué te pregunta «para hoy o para el miércoles»?
+  * Para darte una papaya más o menos madura. || Una buena marchanta elige la fruta según cuándo la vas a comer.
+  - Porque el miércoles no abre el mercado. || No dice nada del horario.
+  - Porque el miércoles la fruta es más barata. || No habla de precios.
+C: Rocío quiere la papaya para mañana. ¿Qué dices?
+  * Para mañana, por favor. Una no tan madura. || Claro y preciso.
+  ~ Para mañana. || Correcto; ella ya sabe qué hacer.
+  - Para mañana, por favor. Una muy madurita. || Si la quieres para mañana, una muy madura ya estaría pasada.
+CHELA: Esta está perfecta para mañana. Son cuarenta y cinco del mango, cincuenta y cinco de la papaya y quince de limones: ciento quince. ¿Algo más?
+T: Dile que eso es todo.
+  = Es todo, gracias.
+  = Es todo.
+  = Nada más, gracias.
+  = Eso es todo, gracias.
+  = Es todo, muchas gracias.
+  = No, es todo, gracias.
+  ! «Es todo, gracias.»
+CHELA: Ciento quince, entonces. Me saluda mucho a Rocío, ¿eh? Y aquí le pongo un {{pilón|a little something extra, for free}}: unas guayabas para usted.
+K: El pilón || En los mercados mexicanos, la marchanta muchas veces regala algo extra a sus clientes de siempre: un limón, un puño de cilantro, una fruta. Se llama «pilón». No se pide, pero se agradece mucho.
+K: «Marchante» y «marchanta» || Así se llaman entre sí el vendedor de un mercado y su cliente habitual. Si siempre compras en el mismo puesto, pronto vas a ser «su marchante».
+
+== tostadas | Las tostadas de Coyoacán ==
+N: Con las bolsas llenas, Rocío te lleva al fondo del mercado, a un puesto lleno de gente. Hay una barra larga y decenas de platos de colores: pollo, tinga, pata, ceviche, camarones, pulpo…
+ROCIO: Aquí vienen todos los domingos medio Coyoacán. Las tostadas son la especialidad. La tostada es una tortilla frita, crujiente, y encima le ponen frijoles, el guisado, crema, lechuga, queso… ¡Ay, se me antoja todo!
+Q: ¿Qué es una tostada?
+  * Una tortilla frita y crujiente con cosas encima. || Frijoles, un guisado, crema, lechuga y queso.
+  - Pan tostado con mantequilla. || En España, sí; en México, no.
+  - Un taco muy grande. || El taco es suave y se dobla; la tostada es plana y crujiente.
+LUPE: ¡Pásenle, pásenle! ¿Qué van a querer? Tenemos de pata, tinga, pollo, ceviche, camarón y pulpo. ¿Algo de tomar?
+C: No sabes qué es la «pata». ¿Qué preguntas?
+  * Perdón, ¿qué es la pata? || Preguntar es siempre la mejor opción.
+  ~ ¿Pata? ¿Qué? || Se entiende, pero suena un poco brusco.
+  - ¿Qué significa pata en inglés? || Lupe probablemente no sabe inglés. Pregunta en español: «¿qué es la pata?».
+LUPE*: Es pata de res, cocida y en {{vinagre|vinegar}}, ¿eh? Fría, en cuadritos. A mucha gente le encanta… y a otros no tanto, ja, ja. Si es su primera vez, le recomiendo la de tinga o la de pollo.
+Q: ¿Qué te recomienda Lupe para la primera vez?
+  * La de tinga o la de pollo. || Son las más fáciles. La pata es para valientes.
+  - La de pata, porque es la más famosa. || No: dice que a algunos no les gusta tanto.
+  - La de pulpo. || No la recomienda.
+T: Pide una tostada de tinga y una de pollo.
+  = Una de tinga y una de pollo, por favor.
+  = Una tostada de tinga y una de pollo, por favor.
+  = Me da una de tinga y una de pollo, por favor.
+  = Una de tinga y otra de pollo, por favor.
+  = Quiero una de tinga y una de pollo, por favor.
+  ! «Una de tinga y una de pollo, por favor.» No hace falta repetir «tostada».
+LUPE: ¿Y de tomar? Hay agua de horchata, de jamaica y de tamarindo.
+C: Quieres algo de tomar. ¿Qué pides?
+  * Un agua de horchata, por favor. || «Un agua» (aunque es femenino), porque empieza con «a» tónica.
+  ~ Horchata. || Funciona en un puesto con prisa.
+  - Una agua de horchata, por favor. || Con «agua» se dice «un agua», pero «el agua fresca», «las aguas»: es femenina.
+ROCIO*: ¿Ya viste cómo se come? Con las dos manos, y te inclinas un poco hacia el plato. Porque la tostada se rompe y se te cae todo. Es imposible comerla con elegancia, ¿eh? Nadie lo logra.
+Q: Según Rocío, ¿por qué te inclinas hacia el plato?
+  * Porque la tostada se rompe y se cae todo. || No hay forma elegante de comer una tostada.
+  - Por educación, como en un restaurante formal. || Es por razones prácticas.
+  - Porque la tostada pica mucho. || No tiene que ver con el picante.
+N: Diez minutos después, tienes crema en la camisa y una sonrisa enorme. Rocío se ríe.
+ROCIO: ¿Viste? ¡Nadie lo logra! ¿Qué te pareció?
+T: Dile que estaban buenísimas.
+  = Estaban buenísimas.
+  = ¡Estaban buenísimas!
+  = Estuvieron buenísimas.
+  = Estaban muy buenas.
+  = ¡Buenísimas!
+  = Estaban riquísimas.
+  ! «¡Estaban buenísimas!» «Las tostadas» es femenino plural.
+ROCIO: ¡Pues ya eres de aquí! El próximo domingo te toca invitar a ti, ja, ja.
+K: «Se me antoja» || «Antojarse» es tener ganas de comer o hacer algo: «se me antojan unos tacos», «¿se te antoja un café?». Los «antojitos» son la comida típica de la calle: tacos, quesadillas, tostadas, sopes, tlacoyos…

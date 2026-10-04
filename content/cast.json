@@ -1,0 +1,171 @@
+{
+  "YO": {
+    "name": "Tú",
+    "role": "",
+    "color": "#2E6F8E",
+    "gender": "a",
+    "voice": "a young Mexican woman in her early 20s from Mexico City, a university student, clear friendly and calm voice, native Mexican Spanish speaker with standard central Mexican pronunciation and seseo, moderate unhurried pace, absolutely no foreign accent",
+    "ref": "Hola, buenas tardes. Vengo a estudiar un semestre a la UNAM. ¿Me puede ayudar, por favor?"
+  },
+  "KARLA": {
+    "name": "Karla",
+    "role": "taquilla de taxis",
+    "color": "#B8402A",
+    "voice": "a Mexican woman in her late 20s from Mexico City, a brisk efficient airport ticket clerk, bright practical voice, native central Mexican Spanish with seseo, fairly quick natural pace, absolutely no foreign accent",
+    "ref": "Buenas tardes. ¿A qué colonia va? El precio depende de la zona. Se paga aquí en la taquilla, con tarjeta o en efectivo."
+  },
+  "CHUY": {
+    "name": "Don Chuy",
+    "role": "taxista",
+    "color": "#8A5A2B",
+    "voice": "an older Mexican man from Mexico City, around 65, a chatty taxi driver with a deep warm slightly gravelly voice, good-humoured, strong native chilango accent with seseo, relaxed sing-song intonation",
+    "ref": "Ándele, súbase. Yo me llamo Jesús, pero todos me dicen don Chuy. Treinta años manejando en esta ciudad, imagínese."
+  },
+  "ROCIO": {
+    "name": "Rocío",
+    "role": "mamá de la familia anfitriona",
+    "color": "#C2477A",
+    "voice": "a warm motherly Mexican woman in her early 50s from Mexico City, affectionate and talkative, native central Mexican Spanish with seseo, natural conversational pace, absolutely no foreign accent",
+    "ref": "¡Qué gusto que ya llegaste! Pásale, pásale, estás en tu casa. ¿Cómo estuvo el vuelo? ¿Ya comiste algo?"
+  },
+  "ARTURO": {
+    "name": "Arturo",
+    "role": "papá de la familia anfitriona",
+    "color": "#37506B",
+    "voice": "a calm Mexican man in his late 50s from Mexico City, an engineer, kind dry sense of humour, gentle baritone voice, native central Mexican Spanish with seseo, unhurried measured pace, absolutely no foreign accent",
+    "ref": "Mucho gusto. Yo soy Arturo. Aquí en la casa somos tranquilos, pero los domingos hay comida familiar y se pone buena."
+  },
+  "DIEGO": {
+    "name": "Diego",
+    "role": "hijo de la familia, estudiante",
+    "color": "#3F7D4E",
+    "voice": "a relaxed easy-going young Mexican man of about 21 from Mexico City, a university student, friendly casual voice with youthful slang, native chilango accent with seseo, quick laid-back conversational pace, absolutely no foreign accent",
+    "ref": "¿Qué onda? Soy Diego. Estudio ingeniería en la UNAM, así que te puedo enseñar el campus. Está bien padre, vas a ver."
+  },
+  "PEPE": {
+    "name": "Don Pepe",
+    "role": "dueño de la tiendita",
+    "color": "#D9622B",
+    "voice": "a cheerful Mexican shopkeeper man in his 60s from Mexico City, friendly neighbourly voice, native central Mexican Spanish with seseo, natural relaxed pace, absolutely no foreign accent",
+    "ref": "Buenas, joven. ¿Qué le damos? Tengo refrescos, papitas, y también recargas para el celular."
+  },
+  "MARISOL": {
+    "name": "Marisol",
+    "role": "secretaria del CEPE",
+    "color": "#7A5AA8",
+    "voice": "a Mexican woman in her mid 40s born and raised in Mexico City, a university office administrator, warm polite female voice, native chilango Spanish accent with seseo and the sing-song intonation of central Mexico, clear moderate pace, absolutely no English or American accent",
+    "ref": "Buenos días. Le damos la bienvenida al Centro de Enseñanza para Extranjeros. ¿Me permite su pasaporte y su carta de aceptación, por favor?"
+  },
+  "VALERIA": {
+    "name": "Valeria",
+    "role": "estudiante de la UNAM",
+    "color": "#C9A227",
+    "voice": "a Mexican woman in her late 20s from Mexico City with a slightly low, warm, husky voice, speaking her native Mexican Spanish naturally with a clear chilango accent, seseo and melodic central Mexican intonation, calm and friendly, like a Mexican radio host, absolutely no English accent",
+    "ref": "¡Hola! Soy Valeria, estudio Letras Hispánicas. Me tocó ser tu compañera del programa de intercambio. ¡Qué gusto conocerte!"
+  },
+  "TAQUILLERA": {
+    "name": "La taquillera",
+    "role": "taquilla del metro",
+    "color": "#4F6D7A",
+    "voice": "a Mexican woman around 50 from a working-class neighbourhood of Mexico City, brisk and practical ticket booth clerk, strong natural chilango accent, seseo, quick conversational pace, absolutely no foreign accent",
+    "ref": "Sí, la tarjeta cuesta quince pesos, y luego le recarga lo que quiera. El viaje en metro son cinco pesos."
+  },
+  "MEGAFONIA": {
+    "name": "Megafonía",
+    "role": "aviso del metro",
+    "color": "#6B6B6B",
+    "voice": "a calm, clear Mexican woman reading public transport announcements over a station loudspeaker, neutral and measured, native central Mexican Spanish with seseo, slow even pace, absolutely no foreign accent",
+    "ref": "Estimado usuario: permita el libre cierre de puertas. Próxima estación: Hidalgo. Correspondencia con línea dos."
+  },
+  "SENORA": {
+    "name": "Una señora",
+    "role": "pasajera",
+    "color": "#8E6C8A",
+    "voice": "an elderly Mexican woman around 75 from Mexico City, gentle kindly polite voice, native central Mexican Spanish with seseo, slow sweet pace, absolutely no foreign accent",
+    "ref": "Ay, joven, ¿me permite pasar? Es que yo me bajo en la que sigue. Muchas gracias, que Dios se lo pague."
+  },
+  "CHELA": {
+    "name": "Doña Chela",
+    "role": "marchanta del mercado",
+    "color": "#E8A33D",
+    "voice": "a lively Mexican market vendor woman in her late 50s from Mexico City, loud warm sing-song voice, native chilango accent with seseo, quick natural pace, absolutely no foreign accent",
+    "ref": "¿Qué le damos, joven? Pásele, pásele. El mango está bien dulce, ¿eh? Pruébelo, sin compromiso."
+  },
+  "MARI": {
+    "name": "Doña Mari",
+    "role": "dueña de la fonda",
+    "color": "#A23B5A",
+    "voice": "a motherly Mexican woman in her 60s from Mexico City who runs a small family restaurant, warm patient voice, native central Mexican Spanish with seseo, relaxed pace, absolutely no foreign accent",
+    "ref": "Buenas tardes. Hoy de comida corrida tenemos sopa de fideo, arroz y de guisado tinga o pollo en mole. ¿Qué le sirvo?"
+  },
+  "GUERO": {
+    "name": "El Güero",
+    "role": "taquero",
+    "color": "#B8402A",
+    "voice": "a fast-talking cheerful Mexican taco cook man around 35 from Mexico City, energetic friendly voice, strong native chilango accent with seseo, quick pace, absolutely no foreign accent",
+    "ref": "¿Qué van a querer, jóvenes? ¿De pastor, de suadero, de bistec? ¿Con todo? Las salsas están ahí, la verde sí pica."
+  },
+  "PATRICIA": {
+    "name": "Patricia",
+    "role": "farmacéutica",
+    "color": "#3F8F7A",
+    "voice": "a calm reassuring Mexican pharmacist woman in her 40s, soft professional voice, native central Mexican Spanish with seseo, careful measured pace, absolutely no foreign accent",
+    "ref": "Buenas tardes. Dígame, ¿qué siente? ¿Desde cuándo tiene esas molestias? No se preocupe, ahorita vemos."
+  },
+  "DOCTOR": {
+    "name": "El doctor Ramírez",
+    "role": "médico del consultorio",
+    "color": "#2E86AB",
+    "voice": "a kind Mexican general doctor in his 40s, warm calm professional voice, native central Mexican Spanish with seseo, clear unhurried pace, absolutely no foreign accent",
+    "ref": "A ver, siéntese, por favor. Cuénteme qué le pasa. ¿Ha tenido fiebre? ¿Ha comido algo en la calle?"
+  },
+  "LALO": {
+    "name": "Lalo",
+    "role": "remero de trajinera",
+    "color": "#6A8D3A",
+    "voice": "a friendly Mexican boatman in his 40s from Xochimilco, relaxed weathered cheerful voice, native central Mexican Spanish with seseo, easy unhurried pace, absolutely no foreign accent",
+    "ref": "Buenas tardes, ¿una trajinera? La tarifa oficial está ahí en el letrero, es por hora y por lancha, no por persona."
+  },
+  "FLORISTA": {
+    "name": "Don Toño",
+    "role": "florista del mercado de Jamaica",
+    "color": "#E8A33D",
+    "voice": "a good-natured Mexican flower seller man in his 50s from Mexico City, warm hearty voice, native chilango accent with seseo, natural pace, absolutely no foreign accent",
+    "ref": "Pásele, joven, ¿qué va a llevar? El cempasúchil está fresquecito, ahorita en estas fechas es lo que más se vende."
+  },
+  "FIDEL": {
+    "name": "Don Fidel",
+    "role": "mariachi",
+    "color": "#1F3A4D",
+    "voice": "a proud Mexican mariachi singer in his 50s, rich resonant warm baritone speaking voice, native central Mexican Spanish with seseo, expressive unhurried pace, absolutely no foreign accent",
+    "ref": "Buenas noches, ¿una canción? Nosotros tocamos lo que usted guste: rancheras, boleros, sones. El precio es por canción."
+  },
+  "ERNESTO": {
+    "name": "El profesor Salgado",
+    "role": "profesor de historia",
+    "color": "#5B3A29",
+    "voice": "a male Mexican university history professor, a man in his early 60s born and raised in Mexico City, deep warm baritone male voice, educated and cordial, native chilango Spanish accent with seseo and the sing-song intonation of central Mexico, calm articulate pace, absolutely no English or American accent",
+    "ref": "Buenos días a todos. Yo soy Ernesto Salgado y voy a ser su profesor de historia de México. Esta ciudad es un libro abierto."
+  },
+  "POLICIA": {
+    "name": "Policía turística",
+    "role": "policía del Centro Histórico",
+    "color": "#1F3A4D",
+    "voice": "a Mexican policewoman in her early 30s born and raised in Mexico City, friendly and helpful, clear female voice, native chilango Spanish accent with seseo and the sing-song intonation of central Mexico, moderate pace, absolutely no English or American accent",
+    "ref": "Buenas tardes. Para ir a Bellas Artes, váyase derecho por la calle de Madero, cinco cuadras. Es peatonal, no hay coches."
+  },
+  "LUPE": {
+    "name": "Lupe",
+    "role": "mesera de las tostadas",
+    "color": "#D9622B",
+    "voice": "a quick cheerful young Mexican waitress around 25 from Mexico City, working at a busy market food counter, bright fast friendly voice, native chilango accent with seseo, quick natural pace, absolutely no foreign accent",
+    "ref": "¡Pásenle, pásenle! ¿Qué van a querer? Hay de pata, de tinga, de pollo, de ceviche, de camarón. ¿Algo de tomar?"
+  },
+  "ELOTERA": {
+    "name": "Doña Rosa",
+    "role": "vende elotes en una canoa",
+    "color": "#E8A33D",
+    "voice": "a warm Mexican woman in her 60s from Xochimilco who sells corn from a canoe, friendly singsong voice, native central Mexican Spanish with seseo, relaxed natural pace, absolutely no foreign accent",
+    "ref": "¡Elotes, esquites! ¿Les doy un elotito, jóvenes? Con mayonesa, queso y chile, como debe ser."
+  }
+}

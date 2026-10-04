@@ -1,0 +1,87 @@
+{
+  "high_level_description": "The Olympic Stadium of the UNAM university in Mexico City, a low curved stadium of volcanic stone with a colourful stone relief on its facade, under a vast blue sky.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A vast blue sky with a few white clouds over dark volcanic rock and green trees.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          280,
+          0,
+          760,
+          1000
+        ],
+        "desc": "A wide low curved stadium built of dark volcanic stone, like a crater, with a colourful stone mosaic relief of figures and an eagle on its outer wall, with no letters.",
+        "color_palette": [
+          "#5B3A29",
+          "#E8A33D",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          740,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Dark volcanic rock with succulents and dry grass in the foreground.",
+        "color_palette": [
+          "#1F3A4D",
+          "#3F7D4E",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          600,
+          600,
+          900,
+          900
+        ],
+        "desc": "A few students walking with backpacks.",
+        "color_palette": [
+          "#2E6F8E",
+          "#C2477A",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          600,
+          280,
+          1000
+        ],
+        "desc": "Distant mountains.",
+        "color_palette": [
+          "#7FC4D6",
+          "#2E6F8E"
+        ]
+      }
+    ]
+  }
+}

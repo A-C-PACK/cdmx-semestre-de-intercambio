@@ -1,0 +1,89 @@
+@part 2
+@id guadalupe
+@name La Villa de Guadalupe
+@short La Villa
+@era Siglo XVI · 1531
+@geo 19.48484 -99.11786 city r
+@focus 0.45
+@route Al pie del cerro del Tepeyac, en el norte de la ciudad. Metro La Villa-Basílica, línea 6, o Metrobús línea 7.
+@blurb El santuario mariano más visitado del mundo. Según la tradición, aquí se apareció la Virgen de Guadalupe a un indígena llamado Juan Diego en 1531.
+@visit La basílica nueva (1976), la antigua basílica (1709), inclinada por el hundimiento del suelo, las capillas del cerro del Tepeyac y el museo.
+
+== tepeyac | Las rosas del Tepeyac ==
+N: Un domingo, Rocío te invita a «la Villa», como dicen en la ciudad. La avenida que lleva a la basílica está llena de puestos de estampas, veladoras, rosarios y comida. Familias enteras caminan en la misma dirección.
+ROCIO: Yo vengo desde niña con mi mamá. No importa si eres creyente o no: para entender México tienes que entender a la Virgen de Guadalupe. Mira, te traje un folleto con la historia. Léelo mientras hacemos la fila.
+C: Quieres preguntarle a Rocío por qué es tan importante para ella. ¿Qué dices?
+  * ¿Por qué es tan importante para ti la Virgen de Guadalupe? || Una pregunta respetuosa y personal. A Rocío le va a gustar contestarla.
+  ~ ¿Tú crees en eso? || Puede sonar un poco escéptico. Mejor preguntar qué significa para ella.
+  - ¿Por qué es tan importante por ti? || Para la persona que siente algo: «para ti».
+ROCIO*: Ay, porque es la mamá de todos. Cuando estás triste, le pides a ella. Cuando nació Diego, vine a darle las gracias. Pero lee, lee. Así me entiendes mejor.
+H: Las rosas del Tepeyac
+R: Según la tradición, en diciembre de 1531, diez años después de la caída de Tenochtitlan, un indígena llamado Juan Diego caminaba por el cerro del Tepeyac, al norte de la ciudad. De pronto oyó música de pájaros y vio a una joven de piel morena, rodeada de luz, que le habló en náhuatl, su lengua. Le dijo que era la Virgen María y que quería que le construyeran un templo en ese lugar.
+R: Juan Diego fue a ver al obispo, fray Juan de Zumárraga, pero el obispo no le creyó y le pidió una prueba. Días después, la Virgen le pidió a Juan Diego que subiera al cerro y cortara flores. Era invierno, y en el Tepeyac solo crecían plantas secas, pero allí encontró rosas. Las guardó en su tilma, una especie de capa de fibra de maguey, y se las llevó al obispo. Cuando abrió la tilma delante de él, las rosas cayeron al suelo y en la tela apareció la imagen de la Virgen. Esa tilma, según los creyentes, es la misma que hoy se puede ver en la basílica.
+R: Para los historiadores, la historia es más complicada. El relato más famoso, el Nican Mopohua, escrito en náhuatl, se publicó en 1649, más de un siglo después, y no se conocen documentos de 1531 que hablen de la aparición. Por eso algunos especialistas dudan de que los hechos ocurrieran así. Lo que sí está documentado es que, desde mediados del siglo dieciséis, había en el Tepeyac una ermita dedicada a la Virgen de Guadalupe que atraía a muchos fieles, tanto indígenas como españoles.
+R: Hay otro detalle interesante: antes de la conquista, en ese mismo cerro se veneraba a Tonantzin, cuyo nombre significa «nuestra madre» en náhuatl. Algunos frailes de la época se preocuparon porque los indígenas seguían llamando «Tonantzin» a la Virgen. Para muchos estudiosos, la Guadalupana fue un puente entre dos mundos: una figura cristiana con rostro moreno, que hablaba la lengua de los vencidos.
+R: Creyentes e historiadores no siempre están de acuerdo. Pero en algo coinciden: pocas imágenes han sido tan importantes en la historia de México.
+Q: Según la tradición, ¿en qué lengua le habló la Virgen a Juan Diego?
+  * En náhuatl. || La lengua de Juan Diego y de los mexicas.
+  - En español. || Según el relato, le habló en su propia lengua.
+  - En latín. || No: en náhuatl.
+Q: ¿Qué prueba le llevó Juan Diego al obispo?
+  * Rosas en su tilma, que al caer dejaron ver la imagen. || Rosas en pleno invierno, en un cerro seco.
+  - Una carta escrita por la Virgen. || No hay ninguna carta en el relato.
+  - Una piedra del cerro. || No: rosas.
+Q: ¿Por qué algunos historiadores dudan de la historia?
+  * Porque el relato más famoso se publicó más de un siglo después. || Y no hay documentos de 1531.
+  - Porque Juan Diego no existió. || El texto no dice eso.
+  - Porque no hay rosas en México. || El problema son los documentos, no las rosas.
+Q: ¿Qué quiere decir que la Guadalupana fue «un puente entre dos mundos»?
+  * Que unió elementos indígenas y cristianos. || Rostro moreno, lengua náhuatl, el lugar de Tonantzin.
+  - Que había un puente en el Tepeyac. || Es una metáfora.
+  - Que los españoles la trajeron de Europa sin cambios. || El texto destaca lo que tenía de indígena.
+O: Ordena los hechos del relato tradicional.
+  = Juan Diego ve a una joven en el cerro del Tepeyac.
+  = La Virgen le pide un templo.
+  = El obispo no le cree y pide una prueba.
+  = Juan Diego corta rosas en el cerro.
+  = Al abrir la tilma, aparece la imagen.
+  ! El relato tiene la estructura de un cuento: petición, duda, prueba y milagro.
+K: «Que» + subjuntivo después de «pedir» y «querer» || «Quería que le construyeran un templo», «le pidió que subiera al cerro». Cuando una persona pide o quiere que otra haga algo, el segundo verbo va en subjuntivo.
+ROCIO: ¿Ya lo leíste? ¿Qué te pareció?
+C: Quieres responder con respeto, aunque tienes dudas. ¿Qué dices?
+  * Me parece una historia muy bonita, y {{entiendo por qué|I understand why}} es tan importante. || Respetuoso y sincero: no hace falta creer para entender.
+  ~ Está bien. || Educado, pero no dices mucho.
+  - Es una leyenda, no es verdad. || Para Rocío es algo muy personal: así la puedes ofender.
+ROCIO: Gracias. Ándale, ya casi entramos.
+
+== basilica | Dos basílicas y millones de peregrinos ==
+N: Dentro de la basílica nueva, un edificio redondo y enorme, hay miles de personas. Debajo del altar, una banda eléctrica lleva a la gente despacio frente a la imagen de la Virgen, para que nadie se quede parado.
+ROCIO: Mira, por aquí. La banda se mueve sola, nada más te paras y miras hacia arriba. Antes la gente se quedaba aquí horas y no se podía pasar. Toma, lee esto también.
+H: Dos basílicas y millones de peregrinos
+R: Desde el siglo diecisiete, la Virgen de Guadalupe se convirtió en un símbolo de los nacidos en la Nueva España, que empezaban a sentirse distintos de los españoles de Europa. En 1810, cuando el cura Miguel Hidalgo llamó a la población a levantarse contra el gobierno español, sus seguidores marcharon con un estandarte de la Guadalupana. Desde entonces, la imagen ha sido a la vez un símbolo religioso y un símbolo de la nación.
+R: El primer gran templo, la llamada Antigua Basílica, se terminó en 1709. Pero el Tepeyac está en lo que fue la orilla del lago, y el suelo blando se fue hundiendo poco a poco. Con los años, el edificio se inclinó y empezó a tener grietas peligrosas. Además, se había quedado pequeño: cada año llegaban más peregrinos. Por eso, en los años setenta, el arquitecto Pedro Ramírez Vázquez, el mismo del Museo Nacional de Antropología, diseñó una basílica nueva. Se inauguró en 1976. Es un edificio redondo, de techo inclinado, pensado para que miles de personas puedan ver la imagen al mismo tiempo desde cualquier lugar.
+R: La fecha más importante del año es el 12 de diciembre, día de la Virgen de Guadalupe. En los días anteriores llegan peregrinos de todo el país: algunos caminan cientos de kilómetros, otros llegan en bicicleta y otros recorren los últimos metros de rodillas. En la noche del 11, miles de personas cantan «Las mañanitas» a la Virgen. Según las autoridades de la ciudad, en esos días visitan la basílica varios millones de personas, lo que la convierte en el santuario católico más visitado del mundo.
+R: En 2002, el papa Juan Pablo II declaró santo a Juan Diego, el primer santo indígena de América. La decisión también tuvo sus críticos, que seguían dudando de los documentos. Pero para millones de mexicanos, creyentes o no, el Tepeyac sigue siendo un lugar al que se va a pedir, a agradecer o, simplemente, a ver a la gente que pide y agradece.
+Q: ¿Por qué marcharon los seguidores de Hidalgo con un estandarte de la Virgen?
+  * Porque era un símbolo de los nacidos en la Nueva España. || Unía la fe y el sentimiento de una identidad propia.
+  - Porque la Virgen era española. || Al contrario: era un símbolo de lo americano.
+  - Porque el papa se lo pidió. || El texto no dice eso.
+Q: ¿Por qué se construyó una basílica nueva?
+  * Porque la antigua se hundía y se había quedado pequeña. || El suelo del antiguo lago es blando.
+  - Porque la antigua se quemó. || No hubo incendio.
+  - Porque la antigua estaba muy lejos. || Están una al lado de la otra.
+Q: ¿Qué pasa la noche del 11 de diciembre?
+  * Miles de personas le cantan «Las mañanitas» a la Virgen. || Es la canción mexicana de los cumpleaños.
+  - Se cierra la basílica. || Al contrario: está llena.
+  - Se inaugura la basílica nueva. || Se inauguró en 1976.
+Q: ¿Verdadero o falso? «Pedro Ramírez Vázquez también diseñó el Museo Nacional de Antropología.»
+  * Verdadero. || «El mismo del Museo Nacional de Antropología.»
+  - Falso. || Vuelve a leer el segundo párrafo.
+K: «Las mañanitas» || Es la canción tradicional de cumpleaños en México: «Estas son las mañanitas que cantaba el rey David…». Se canta temprano a la persona que cumple años y también a la Virgen la noche del 11 de diciembre.
+ROCIO*: ¿Viste la imagen? Es más chiquita de lo que uno se imagina, ¿verdad? Bueno, ahora vamos a subir al cerro a ver las capillas, y luego… ¡a comer gorditas de nata!
+T: Pregúntale a Rocío qué son las gorditas de nata.
+  = ¿Qué son las gorditas de nata?
+  = ¿Qué son gorditas de nata?
+  = Rocío, ¿qué son las gorditas de nata?
+  = Perdón, ¿qué son las gorditas de nata?
+  = ¿Qué es una gordita de nata?
+  ! «¿Qué son…?» con plural.
+ROCIO: Unos panecitos dulces, gorditos y calientitos. Son la tradición de la Villa. Te van a encantar.

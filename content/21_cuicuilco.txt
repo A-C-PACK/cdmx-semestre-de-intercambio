@@ -1,0 +1,100 @@
+@part 2
+@id cuicuilco
+@name Cuicuilco
+@era Preclásico · hacia 800 a. C. – 250 d. C.
+@geo 19.30164 -99.18167 coyoacan r
+@focus 0.45
+@route Avenida Insurgentes Sur y Periférico, a quince minutos al sur de Ciudad Universitaria.
+@blurb Una pirámide redonda entre centros comerciales y avenidas: los restos de una de las primeras ciudades del valle de México, enterrada por un volcán.
+@visit La gran pirámide circular, el museo de sitio y un parque de roca volcánica con plantas del Pedregal.
+
+== primera | La primera ciudad del valle ==
+N: Tu clase de Historia de México en el CEPE tiene una salida cada semana. El profesor Salgado ha decidido empezar por el principio, y el principio está muy cerca de la universidad: al otro lado del Periférico.
+ERNESTO: Buenos días a todos. Ustedes estudian en una de las universidades más modernas de América… sobre la lava de un volcán. Y aquí, a dos kilómetros, está la razón. ¿Ven esa colina redonda entre los árboles?
+C: Parece una colina, pero el profesor dice que es otra cosa. ¿Qué preguntas?
+  * ¿Es una pirámide? ¿{{De qué época|from what period}} es? || «¿De qué época es…?» es la pregunta perfecta para empezar cualquier visita.
+  ~ ¿Es vieja? || Se entiende. Para ruinas es mejor «antigua»; «viejo» suena a algo gastado.
+  - ¿De cuál tiempo es? || «Tiempo» no se usa así. Para hablar de historia: «¿de qué época es?».
+ERNESTO*: Es una pirámide, y es mucho más antigua que la de Teotihuacan. Antes de entrar, les doy un texto. Es más difícil que lo que hablamos en clase, pero léanlo con calma, toquen las palabras que no conozcan y después platicamos.
+H: La primera ciudad del valle
+R: Hace unos tres mil años, el valle de México era muy distinto. En el centro había un gran sistema de lagos, rodeado de montañas y volcanes, y en las orillas vivían comunidades de agricultores que {{cultivaban|grew, farmed (cultivar)}} maíz, frijol y calabaza, pescaban y cazaban aves. Eran pueblos pequeños. Pero en el suroeste del valle, al pie de las montañas, uno de esos pueblos empezó a crecer de una manera nueva. Hoy lo llamamos Cuicuilco.
+R: No sabemos qué nombre le daban sus habitantes, porque no dejaron textos escritos. «Cuicuilco» es una palabra náhuatl que se suele traducir como «lugar de cantos y danzas», pero es un nombre muy posterior. Lo que sí sabemos lo cuentan las piedras. {{Hacia|around (with dates)}} el año 800 antes de Cristo, Cuicuilco ya era un pueblo importante, y en los siglos siguientes se convirtió en un verdadero centro urbano. Según las estimaciones de los arqueólogos, llegó a tener veinte mil habitantes, quizás más. Era, probablemente, la ciudad más grande del valle.
+R: Sus habitantes construyeron plazas, terrazas para cultivar, canales para llevar el agua y varios edificios {{ceremoniales|ceremonial}}. El más importante es el que todavía se ve: una gran pirámide circular de unos ciento diez metros de diámetro. No tiene la forma de las pirámides que conocemos de otros lugares de México, con cuatro lados y escalones. Es redonda, como un cono cortado, con varios niveles y una rampa para subir. {{Se construyó por etapas|it was built in stages}}, durante siglos, con piedra y tierra.
+R: En lo alto de la pirámide había un altar. Algunos arqueólogos piensan que ahí se rendía culto a un dios del fuego, representado como un anciano que carga un {brasero|brazier, fire bowl} sobre la espalda. Es una idea {{lógica|logical}}: Cuicuilco vivía a la sombra de los volcanes, que daban tierra fértil, pero también miedo.
+R: Cuicuilco fue, en muchos sentidos, un ensayo de todo lo que vino después en el valle: la vida en ciudades, las plazas para las ceremonias, las grandes construcciones para los dioses. Durante siglos fue el centro del sur del valle. Y entonces, el fuego que adoraban sus habitantes cambió su historia para siempre.
+Q: ¿Por qué no sabemos cómo llamaban a la ciudad sus habitantes?
+  * Porque no dejaron textos escritos. || Lo que sabemos viene de la arqueología: «lo cuentan las piedras».
+  - Porque el nombre se perdió en un incendio. || El texto no habla de incendios en este punto.
+  - Porque la ciudad no tenía nombre. || Seguramente tenía uno, pero no lo conocemos.
+Q: ¿Qué tiene de especial la pirámide de Cuicuilco?
+  * Es redonda, como un cono cortado. || La mayoría de las pirámides mesoamericanas tienen cuatro lados.
+  - Es la más alta de México. || El texto no dice eso.
+  - Es de oro y piedra. || Es de piedra y tierra.
+Q: En el texto, «hacia el año 800 antes de Cristo» quiere decir…
+  * más o menos en esa fecha. || «Hacia», con fechas, significa «aproximadamente».
+  - exactamente en esa fecha. || Con «hacia» la fecha es aproximada.
+  - después de esa fecha. || No: es una fecha aproximada.
+Q: ¿Por qué el texto dice que los volcanes daban «tierra fértil, pero también miedo»?
+  * Porque hacían buena la tierra, pero eran peligrosos. || La ceniza volcánica enriquece la tierra, pero una erupción lo puede destruir todo.
+  - Porque los habitantes no sabían cultivar. || Sí sabían: tenían terrazas y canales.
+  - Porque había fuego en el altar todo el tiempo. || El texto no dice eso.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Pequeños pueblos de agricultores viven a la orilla de los lagos.
+  = Cuicuilco ya es un pueblo importante del suroeste del valle.
+  = Cuicuilco se convierte en un centro urbano de miles de habitantes.
+  = Mucho después, se le da el nombre náhuatl de «Cuicuilco».
+  ! El nombre que usamos hoy es siglos posterior a la ciudad: es como ponerle nombre a una casa después de que se vacía.
+K: «Se suele traducir» || «Soler» + infinitivo expresa lo habitual: «se suele traducir como…» = normalmente se traduce así. Es muy útil para hablar de costumbres: «los domingos suelo comer con la familia».
+ERNESTO: Muy bien. Ahora, una pregunta para ustedes. ¿Alguien quiere preguntarme algo sobre el texto?
+T: Pregúntale al profesor cuántos habitantes tenía Cuicuilco.
+  = ¿Cuántos habitantes tenía Cuicuilco?
+  = ¿Cuántos habitantes tenía la ciudad?
+  = ¿Cuánta gente vivía en Cuicuilco?
+  = ¿Cuántas personas vivían en Cuicuilco?
+  = Profesor, ¿cuántos habitantes tenía Cuicuilco?
+  = ¿Cuántos habitantes tenía?
+  ! Para una situación en el pasado: imperfecto. «¿Cuántos habitantes {{tenía|did it have (imperfect)}}…?»
+ERNESTO: Unos veinte mil, según los cálculos más aceptados, aunque hay quien dice más. Una ciudad enorme para su época. Vamos a subir.
+
+== lava | Una ciudad bajo la lava ==
+N: Suben por la rampa de la pirámide. Desde arriba se ven los edificios de oficinas, el Periférico lleno de coches y, al sur, una montaña oscura y baja.
+ERNESTO: ¿Ven ese cerro al sur, el de la cima oscura? Es el Xitle. Parece inofensivo, ¿verdad? Pues todo lo que ustedes pisan desde aquí hasta la universidad salió de ahí. Lean y luego me dicen.
+H: Una ciudad bajo la lava
+R: El Xitle es un volcán pequeño, en las faldas de la sierra del Ajusco. Su nombre, en náhuatl, quiere decir «ombligo». Durante mucho tiempo nadie pensó que pudiera ser peligroso. Pero un día, hace unos mil setecientos años, {{hizo erupción|it erupted}}. La lava bajó por las laderas, cubrió los campos y llegó hasta Cuicuilco. Cuando todo terminó, una capa de roca negra cubrió unos ochenta kilómetros cuadrados del sur del valle. En algunos lugares tiene varios metros de espesor.
+R: ¿Cuándo pasó exactamente? Durante el siglo veinte se propusieron fechas muy distintas. Estudios recientes, basados en el carbón de los árboles quemados por la lava, la sitúan entre los años 245 y 315 después de Cristo. Tampoco está claro si la erupción {{destruyó|destroyed (destruir)}} una ciudad llena de gente. Es posible que Cuicuilco ya estuviera en decadencia: otras erupciones anteriores, y el crecimiento de una nueva ciudad en el norte del valle, Teotihuacan, pudieron llevarse a muchos de sus habitantes antes de la catástrofe. Lo que sí es seguro es que, después del Xitle, Cuicuilco quedó abandonado para siempre.
+R: La gran pirámide se salvó en parte. La lava la rodeó y cubrió su base, pero la parte de arriba quedó fuera. Durante siglos fue solo una colina rara en medio del {{pedregal|rocky lava field}}, la enorme extensión de roca volcánica que los españoles llamaron el Pedregal de San Ángel. Entre 1922 y 1925, el arqueólogo estadounidense Byron Cummings rompió la roca con explosivos y descubrió que la colina era, en realidad, una pirámide.
+R: El Pedregal tuvo otra vida en el siglo veinte. Durante mucho tiempo nadie quiso construir sobre esa roca dura y sin agua. Pero a mediados de siglo la ciudad crecía muy rápido, y la universidad nacional necesitaba un campus nuevo. Así nació Ciudad Universitaria, levantada directamente sobre la lava del Xitle. Después llegaron colonias, avenidas, la Villa Olímpica de 1968 y, en los años noventa, edificios de oficinas tan cerca de la zona arqueológica que hubo protestas para proteger lo que quedaba.
+R: Hoy, una parte del Pedregal es una reserva ecológica dentro de la universidad, con plantas y animales que solo viven sobre esa roca. Y la pirámide sigue ahí, redonda y silenciosa, entre el tráfico.
+Q: ¿Qué quiere decir «Xitle» en náhuatl?
+  * Ombligo. || Un nombre curioso para un volcán.
+  - Fuego. || No: «ombligo».
+  - Montaña negra. || No: «ombligo».
+Q: ¿Qué sabemos con seguridad sobre la erupción y Cuicuilco?
+  * Que después de ella la ciudad quedó abandonada para siempre. || Lo demás (la fecha exacta, cuánta gente vivía allí) se sigue estudiando.
+  - Que mató a todos los habitantes en un día. || El texto dice que no está claro; quizás muchos se habían ido antes.
+  - Que pasó exactamente en el año 300. || Los estudios dan un rango: entre 245 y 315.
+Q: Según el texto, ¿por qué es posible que Cuicuilco ya estuviera en decadencia antes de la erupción?
+  * Por erupciones anteriores y por el crecimiento de Teotihuacan. || Dos razones que pudieron llevarse a muchos habitantes.
+  - Porque los españoles ya habían llegado. || Los españoles llegaron más de mil años después.
+  - Por una guerra con la universidad. || ¡No! La universidad es del siglo veinte.
+Q: ¿Verdadero o falso? «Ciudad Universitaria está construida sobre la lava del Xitle.»
+  * Verdadero. || El campus se levantó «directamente sobre la lava».
+  - Falso. || Vuelve a leer el cuarto párrafo.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = El Xitle hace erupción y la lava llega a Cuicuilco.
+  = La pirámide es solo una colina rara en el Pedregal.
+  = Byron Cummings descubre que la colina es una pirámide.
+  = Se construye Ciudad Universitaria sobre la lava.
+  = Se levantan edificios de oficinas junto a la zona arqueológica.
+  ! Diecisiete siglos entre la lava y las oficinas: la pirámide los ha visto todos.
+K: «Es posible que» + subjuntivo || «Es posible que Cuicuilco ya estuviera en decadencia». Cuando algo no es seguro, después de «es posible que», «puede que» o «quizás» se usa el subjuntivo. Es la gramática de los historiadores prudentes.
+ERNESTO: Entonces, ¿qué les pareció? ¿Quién me dice de dónde viene la roca de la universidad?
+T: Contesta: la roca de la universidad viene del volcán Xitle.
+  = Viene del volcán Xitle.
+  = Viene del Xitle.
+  = Del volcán Xitle.
+  = Del Xitle.
+  = La roca viene del volcán Xitle.
+  = Es lava del Xitle.
+  ! «Viene del volcán Xitle.» «De» + «el» = «del».
+ERNESTO: Exacto. La próxima semana vamos a la ciudad que creció cuando Cuicuilco se apagó: Teotihuacan. Traigan sombrero y mucha agua.

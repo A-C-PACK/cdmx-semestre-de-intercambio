@@ -1,0 +1,98 @@
+@part 2
+@id catedral
+@name Catedral Metropolitana
+@short Catedral
+@era Virreinato · 1573–1813
+@geo 19.43439 -99.13309 centre l
+@focus 0.45
+@route En el lado norte del Zócalo. Metro Zócalo/Tenochtitlan, línea 2.
+@blurb La catedral más grande de América tardó casi dos siglos y medio en construirse, sobre el suelo blando de un lago que ya no existe.
+@visit La catedral y el Sagrario, el Altar de los Reyes, las campanas (con visita guiada) y el péndulo que muestra cómo se inclina el edificio.
+
+== obra | Doscientos cuarenta años de obra ==
+N: Otra vez en el Zócalo. Hoy el profesor no va hacia el Templo Mayor, sino hacia la enorme fachada de piedra gris de la catedral, con sus dos torres en forma de campana.
+ERNESTO: Fíjense en las dos fachadas: la catedral y, a su derecha, el Sagrario. Parecen de épocas distintas, ¿verdad? Es que lo son. Esta catedral se empezó cuando Felipe II era rey de España y se terminó cuando México estaba a punto de independizarse.
+C: Quieres preguntarle al profesor cuánto tardaron en construirla. ¿Qué dices?
+  * ¿Cuánto tiempo {{tardaron en|did they take to}} construirla? || «Tardar en» + infinitivo: la forma natural de preguntar por la duración de un trabajo.
+  ~ ¿Cuántos años? || Se entiende por el contexto, pero es poco.
+  - ¿Cuánto tiempo tardaron de construirla? || Con «tardar», la preposición es «en».
+ERNESTO*: Casi doscientos cuarenta años. Por eso tiene un poco de todo. Lean, y luego entramos.
+H: Doscientos cuarenta años de obra
+R: Después de la conquista, los españoles quisieron dejar claro quién mandaba en la nueva ciudad. Construyeron sus edificios más importantes justo encima del centro de Tenochtitlan: el palacio del virrey, donde había estado el palacio de Moctezuma, y la iglesia principal, junto al antiguo recinto sagrado de los mexicas. La primera iglesia fue pequeña y sencilla. Pero la capital de la Nueva España, el virreinato más rico de América, necesitaba algo más grande.
+R: Las obras de la catedral actual empezaron hacia 1573. Desde el principio hubo un problema: el suelo. La ciudad estaba construida sobre el fondo de un lago, una tierra blanda llena de agua. Para que el edificio no se hundiera, los constructores clavaron miles de estacas de madera y pusieron una gran plataforma de piedra debajo. Aun así, el trabajo avanzaba muy despacio. La catedral se consagró en 1656, cuando todavía faltaban las torres y gran parte de la fachada.
+R: Como la obra duró tanto, la catedral es un libro de historia del arte. Las bóvedas y la planta siguen el estilo del Renacimiento; los retablos del interior son barrocos, llenos de oro; y el final, con la cúpula y el reloj, es neoclásico, más sobrio. Lo terminó el arquitecto y escultor Manuel Tolsá en 1813, en plena guerra de Independencia. Dentro, el Altar de los Reyes, cubierto de oro y lleno de columnas con formas complicadas, es uno de los mejores ejemplos del barroco mexicano. Junto a la catedral, el Sagrario, del siglo dieciocho, tiene una fachada de piedra roja y blanca tan decorada que parece de encaje.
+R: ¿Y la plaza? Su nombre oficial es Plaza de la Constitución, pero todo el mundo la llama el Zócalo. A mediados del siglo diecinueve se quiso levantar en el centro un gran monumento a la Independencia. Solo se llegó a construir la base, es decir, el zócalo. El monumento nunca se hizo, pero el nombre se quedó, y hoy en muchas ciudades de México la plaza principal se llama «zócalo».
+Q: ¿Por qué los españoles construyeron sus edificios principales sobre el centro de Tenochtitlan?
+  * Para dejar claro quién mandaba en la ciudad. || El poder nuevo se ponía, literalmente, encima del antiguo.
+  - Porque era el único lugar seco de la isla. || El texto no dice eso.
+  - Porque los mexicas se lo pidieron. || No: fue una decisión de los conquistadores.
+Q: ¿Qué hicieron los constructores para que la catedral no se hundiera?
+  * Clavaron estacas de madera y pusieron una plataforma de piedra. || Una cimentación pensada para el suelo blando del lago.
+  - La construyeron sobre una montaña. || Estaba sobre el fondo del lago.
+  - Secaron todo el lago antes de empezar. || Eso no pasó en el siglo dieciséis.
+Q: ¿Por qué el texto dice que la catedral es «un libro de historia del arte»?
+  * Porque tiene estilos de distintas épocas. || Renacimiento, barroco y neoclásico.
+  - Porque dentro hay una biblioteca. || Es una metáfora.
+  - Porque está llena de pinturas famosas. || La razón son los estilos de las distintas épocas.
+Q: ¿De dónde viene el nombre «Zócalo»?
+  * De la base de un monumento que nunca se terminó. || «Zócalo» es la base de un monumento o de una pared.
+  - De una palabra náhuatl. || No: es una palabra española.
+  - Del nombre de un virrey. || No.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Los españoles construyen una primera iglesia pequeña.
+  = Empiezan las obras de la catedral actual.
+  = La catedral se consagra, todavía sin torres.
+  = Manuel Tolsá termina la catedral.
+  = Se construye solo la base de un monumento en la plaza.
+  ! Del siglo dieciséis al diecinueve: tres siglos en un solo edificio y en una sola plaza.
+K: «Tardar en» || «La catedral tardó casi dos siglos y medio en terminarse», «tardo una hora en llegar a la UNAM». Para hablar del tiempo que lleva hacer algo, se usa «tardar» + «en» + infinitivo.
+ERNESTO: Bueno, entremos. Y bajen la voz, que hay misa.
+T: Pregúntale al profesor si se pueden tomar fotos dentro.
+  = ¿Se pueden tomar fotos dentro?
+  = ¿Se pueden tomar fotos?
+  = ¿Se puede tomar fotos dentro?
+  = ¿Podemos tomar fotos dentro?
+  = ¿Se pueden tomar fotos adentro?
+  = Profesor, ¿se pueden tomar fotos dentro?
+  ! «¿Se pueden tomar fotos…?» En México se dice «tomar fotos».
+ERNESTO: Sí, pero sin flash y con respeto a la gente que viene a rezar.
+
+== hundimiento | Una ciudad que se hunde ==
+N: En el centro de la nave, colgado de la cúpula, hay un péndulo: una pesa de metal sobre un dibujo en el suelo con líneas y fechas. La pesa no está en el centro del dibujo, sino a un lado.
+ERNESTO: Este péndulo es el electrocardiograma de la catedral. Si el edificio estuviera recto, la pesa estaría en el centro. Pero no lo está. Lean y entenderán por qué.
+H: Una ciudad que se hunde
+R: Cuando los españoles conquistaron Tenochtitlan, no entendieron el lago. Los mexicas habían aprendido a vivir con él: con diques separaban el agua dulce de la salada y controlaban el nivel del agua. Los españoles, en cambio, rellenaron canales, cortaron árboles y vieron el lago como un enemigo. Y el lago se vengó. La ciudad se inundaba casi cada temporada de lluvias.
+R: En 1607, el ingeniero Enrico Martínez empezó una obra enorme para sacar el agua del valle: el desagüe de Huehuetoca, un túnel y un canal hacia el norte. Pero no fue suficiente. En 1629 llegó la peor inundación de la historia de la ciudad: el agua cubrió las calles durante unos cinco años, y la gente se movía en canoa. Se llegó a pensar en trasladar la capital a otro lugar. Desde entonces, durante siglos, el objetivo fue siempre el mismo: secar el lago. A finales del siglo diecinueve se inauguró el Gran Canal del Desagüe y, en el siglo veinte, enormes túneles de drenaje profundo. El lago de Texcoco casi desapareció.
+R: Pero secar un lago tiene consecuencias. Debajo de la ciudad hay capas de arcilla llenas de agua. Cuando se saca agua del subsuelo para que beban millones de personas, la arcilla se comprime, como una esponja que se aprieta, y el suelo baja. La Ciudad de México se hunde: en algunas zonas, unos pocos centímetros al año; en otras, más de veinte. Y como no se hunde igual en todas partes, los edificios se inclinan.
+R: La catedral es el ejemplo más famoso. Pesa muchísimo y está construida en parte sobre restos de edificios mexicas, más duros, y en parte sobre arcilla blanda. Por eso se hundió de forma desigual y empezó a romperse. En los años noventa, unos ingenieros mexicanos hicieron un trabajo muy delicado: sacaron tierra con cuidado debajo de las partes que estaban más altas, para que bajaran y se nivelaran con las otras. Lo llamaron «subexcavación». Funcionó: el edificio se enderezó un poco y dejó de romperse.
+R: El péndulo sigue ahí para vigilarlo. Y cuando sales a la plaza, fíjate en los edificios del centro: muchos están un poco torcidos, como si estuvieran cansados de esperar el agua que ya no llega.
+Q: Según el texto, ¿cuál fue la diferencia entre los mexicas y los españoles frente al lago?
+  * Los mexicas vivían con el lago; los españoles lo vieron como un enemigo. || Y el lago «se vengó» con inundaciones.
+  - Los mexicas querían secar el lago y los españoles, no. || Fue al revés.
+  - Los dos lo trataron igual. || El texto explica que fue muy distinto.
+Q: ¿Qué pasó en 1629?
+  * Una inundación que duró unos cinco años. || La gente se movía en canoa por las calles.
+  - Se terminó el Gran Canal del Desagüe. || Eso fue a finales del siglo diecinueve.
+  - Un terremoto destruyó la catedral. || No.
+Q: ¿Por qué se hunde la ciudad hoy?
+  * Porque al sacar agua del subsuelo la arcilla se comprime. || Como una esponja que se aprieta.
+  - Porque los edificios son muy altos. || El peso influye, pero la causa principal es el agua del subsuelo.
+  - Porque todavía llueve demasiado. || No es la explicación del texto.
+Q: ¿Qué fue la «subexcavación»?
+  * Sacar tierra debajo de las partes más altas para nivelar el edificio. || Una solución delicada y, al parecer, eficaz.
+  - Construir un túnel debajo de la catedral para el metro. || No: era para enderezar el edificio.
+  - Buscar ruinas mexicas debajo de la catedral. || El objetivo era estructural.
+Q: «La ciudad se inundaba casi cada temporada de lluvias». El verbo está en imperfecto porque…
+  * es algo que pasaba muchas veces, de forma habitual. || El imperfecto describe hábitos y repeticiones en el pasado.
+  - pasó una sola vez. || Para una vez concreta se usaría el pretérito.
+  - todavía pasa hoy. || Para hoy se usaría el presente.
+K: Si + imperfecto de subjuntivo || «Si el edificio estuviera recto, la pesa estaría en el centro». Para situaciones imaginarias o contrarias a la realidad: «si» + imperfecto de subjuntivo, y condicional en la otra parte.
+ERNESTO: ¿Ven? Esta ciudad es una pelea de quinientos años con el agua. Y la seguimos perdiendo.
+T: Pregúntale al profesor cuánto se hunde el centro cada año.
+  = ¿Cuánto se hunde el centro cada año?
+  = ¿Cuánto se hunde el centro al año?
+  = ¿Cuántos centímetros se hunde el centro cada año?
+  = ¿Cuánto se hunde cada año?
+  = Profesor, ¿cuánto se hunde el centro cada año?
+  ! «¿Cuánto se hunde…?» «Hundirse» es pronominal: la ciudad se hunde.
+ERNESTO: Aquí en el centro, menos que antes, pero todavía varios centímetros. En otras partes de la ciudad, mucho más. Por eso hay edificios que parecen bailar.

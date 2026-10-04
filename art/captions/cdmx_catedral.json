@@ -1,0 +1,85 @@
+{
+  "high_level_description": "The interior of the Metropolitan Cathedral of Mexico City, a vast stone nave with a golden baroque altarpiece and a pendulum hanging from the dome.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "Tall grey stone columns and vaults in soft light.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          250,
+          800,
+          750
+        ],
+        "desc": "A towering golden baroque altarpiece full of carved columns, saints and gold leaf.",
+        "color_palette": [
+          "#E8A33D",
+          "#D9622B",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          1000,
+          220
+        ],
+        "desc": "Tall grey stone columns and arches.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          780,
+          1000,
+          1000
+        ],
+        "desc": "Tall grey stone columns and arches.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          480,
+          440,
+          880,
+          560
+        ],
+        "desc": "A long thin cable hanging from above ending in a metal pendulum weight just above a round drawing on the stone floor.",
+        "color_palette": [
+          "#1F3A4D",
+          "#E9D3A1"
+        ]
+      }
+    ]
+  }
+}

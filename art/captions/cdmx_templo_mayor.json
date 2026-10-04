@@ -1,0 +1,85 @@
+{
+  "high_level_description": "The excavated ruins of the Templo Mayor in Mexico City: layered stone walls and staircases of the Aztec temple, carved serpent heads, and a metal walkway, with the cathedral towers behind.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A bright sky above old colonial buildings and the bell towers of a grey stone cathedral.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          0,
+          900,
+          1000
+        ],
+        "desc": "Excavated stone ruins with several nested layers of walls and staircases of grey and reddish volcanic stone.",
+        "color_palette": [
+          "#5B3A29",
+          "#B8402A",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          620,
+          380,
+          860,
+          640
+        ],
+        "desc": "A large carved stone serpent head with an open mouth at the foot of a staircase.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          600,
+          420,
+          1000
+        ],
+        "desc": "The bell towers of a grey stone cathedral behind the ruins.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          440,
+          0,
+          600,
+          1000
+        ],
+        "desc": "A metal walkway with railings crossing above the ruins, with a few small visitors.",
+        "color_palette": [
+          "#1F3A4D",
+          "#2E6F8E"
+        ]
+      }
+    ]
+  }
+}

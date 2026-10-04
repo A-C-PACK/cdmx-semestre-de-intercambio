@@ -1,0 +1,86 @@
+{
+  "high_level_description": "A tall travel-poster view of Mexico City at golden hour: the white marble Palacio de Bellas Artes with its orange and gold domes in the foreground, jacaranda trees in purple bloom, and the two snow-capped volcanoes on the horizon.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A wide glowing sky fading from pale gold near the horizon to soft teal at the top, above a city of low buildings with two distant snow-capped volcanoes.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          150,
+          760,
+          850
+        ],
+        "desc": "The Palacio de Bellas Artes, a white marble palace with a large central dome tiled in orange and gold and smaller domes at the corners, seen from the front.",
+        "color_palette": [
+          "#FFFFFF",
+          "#E8A33D",
+          "#D9622B"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          160,
+          0,
+          360,
+          1000
+        ],
+        "desc": "Two distant volcanoes with snowy peaks on the horizon, one a perfect cone and one long and low.",
+        "color_palette": [
+          "#7FC4D6",
+          "#FFFFFF",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          740,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Foreground jacaranda trees covered in purple blossom framing the bottom of the picture.",
+        "color_palette": [
+          "#C2477A",
+          "#3F7D4E",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          100,
+          240,
+          900
+        ],
+        "desc": "A few small dark birds wheeling in the open sky.",
+        "color_palette": [
+          "#1F3A4D"
+        ]
+      }
+    ]
+  }
+}

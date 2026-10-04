@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The Central Library of the UNAM university in Mexico City, a tall windowless block covered with colourful stone mosaics, with students on the green lawn in front.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A wide green lawn and pale paved plaza under a clear blue sky, with volcanic stone walls.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          250,
+          720,
+          750
+        ],
+        "desc": "A tall rectangular library tower whose four walls are covered in a mosaic of coloured stones in ochre, red, blue and green forming abstract figures and symbols, with a band of windows at its base.",
+        "color_palette": [
+          "#E8A33D",
+          "#B8402A",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          620,
+          40,
+          960,
+          420
+        ],
+        "desc": "A cheerful young woman of about twenty-two with long dark hair and a denim jacket, waving with a folder under her arm.",
+        "color_palette": [
+          "#F2C9A0",
+          "#2E6F8E",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          720,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A wide lawn with students sitting on the grass with books.",
+        "color_palette": [
+          "#3F7D4E",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          600,
+          700,
+          900,
+          1000
+        ],
+        "desc": "A dark volcanic stone wall with a few small cacti.",
+        "color_palette": [
+          "#5B3A29",
+          "#3F7D4E"
+        ]
+      }
+    ]
+  }
+}

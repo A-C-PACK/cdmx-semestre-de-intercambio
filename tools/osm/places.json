@@ -1,0 +1,1553 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-03T22:34:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 739035864,
+  "lat": 19.3361558,
+  "lon": -99.1872207,
+  "tags": {
+    "addr:city": "Ciudad de México",
+    "addr:country": "MX",
+    "addr:housenumber": "3002",
+    "addr:postcode": "04510",
+    "addr:street": "Avenida Universidad",
+    "amenity": "university",
+    "contact:email": "cepe@unam.mx",
+    "contact:facebook": "UnamCepe",
+    "contact:phone": "+52 55 5622 2474",
+    "contact:twitter": "UnamCepe",
+    "contact:website": "www.cepe.unam.mx",
+    "name": "Centro de Enseñanza para Extranjeros",
+    "operator": "Universidad Nacional Autónoma de México (UNAM)"
+  }
+},
+{
+  "type": "node",
+  "id": 1130113790,
+  "lat": 19.2594600,
+  "lon": -99.1081278,
+  "tags": {
+    "covered": "yes",
+    "light_rail": "yes",
+    "name": "Xochimilco",
+    "network": "Tren Ligero",
+    "operator": "Servicio de Transportes Eléctricos de la Ciudad de México",
+    "operator:wikidata": "Q9076469",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 1383390222,
+  "lat": 19.4085623,
+  "lon": -99.1229136,
+  "tags": {
+    "name": "Mercado de Jamaica",
+    "shop": "florist"
+  }
+},
+{
+  "type": "node",
+  "id": 2266125668,
+  "lat": 19.4108977,
+  "lon": -99.1217260,
+  "tags": {
+    "name": "Jamaica",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3377006",
+    "wikimedia_commons": "Category:Estación Jamaica (Metro de México)",
+    "wikipedia": "es:Jamaica (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 3233821867,
+  "lat": 19.3022903,
+  "lon": -99.1804456,
+  "tags": {
+    "access": "designated",
+    "entrance": "service",
+    "name": "Entrada a Cuicuilco"
+  }
+},
+{
+  "type": "node",
+  "id": 3823208107,
+  "lat": 19.2985737,
+  "lon": -99.1812848,
+  "tags": {
+    "addr:housenumber": "649",
+    "addr:street": "Avenida San Fernando",
+    "amenity": "cinema",
+    "branch": "Cuicuilco",
+    "brand": "Cinemex",
+    "brand:wikidata": "Q3333072",
+    "check_date": "2024-03-18",
+    "name": "Cinemex Cuicuilco",
+    "phone": "+52 55 5257 6969",
+    "website": "https://cinemex.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4409156289,
+  "lat": 19.2986018,
+  "lon": -99.1815837,
+  "tags": {
+    "name": "Telmex Cuicuilco",
+    "name:es": "Telmex Cuicuilco",
+    "office": "telecommunication"
+  }
+},
+{
+  "type": "node",
+  "id": 4479634789,
+  "lat": 19.2983133,
+  "lon": -99.1816843,
+  "tags": {
+    "addr:city": "CDMX",
+    "addr:postcode": "14060",
+    "addr:street": "Plaza Cuicuilco,Av.San Fernando 649 Peña Pobre",
+    "amenity": "restaurant",
+    "name": "Beer Factory Cuicuilco",
+    "website": "http://www.beerfactory.com",
+    "wheelchair": "no",
+    "wheelchair:description": "Hay estacionamiento , No hay rampas , baños no adaptados ni espaciosos para silla de ruedas"
+  }
+},
+{
+  "type": "node",
+  "id": 5335249518,
+  "lat": 19.3613817,
+  "lon": -99.1708596,
+  "tags": {
+    "name": "Coyoacán",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3366731",
+    "wikimedia_commons": "Category:Estación Coyoacán (Metro de México)",
+    "wikipedia": "es:Coyoacán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335255558,
+  "lat": 19.3543250,
+  "lon": -99.1751123,
+  "tags": {
+    "name": "Viveros-Derechos Humanos",
+    "network": "STC Metro",
+    "old_name": "Viveros",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q7335651",
+    "wikimedia_commons": "Category:Estación Viveros / Derechos Humanos (Metro de México)",
+    "wikipedia": "es:Viveros-Derechos Humanos (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335263290,
+  "lat": 19.3360586,
+  "lon": -99.1770655,
+  "tags": {
+    "name": "Copilco",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824550",
+    "wikimedia_commons": "Category:Estación Copilco (Metro de México)",
+    "wikipedia": "es:Copilco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335271955,
+  "lat": 19.3244753,
+  "lon": -99.1739054,
+  "tags": {
+    "name": "Universidad",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824764",
+    "wikimedia_commons": "Category:Estación Universidad (Metro de México)",
+    "wikipedia": "es:Universidad (estación de Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339555634,
+  "lat": 19.4325000,
+  "lon": -99.1322452,
+  "tags": {
+    "level": "-1",
+    "name": "Zócalo/Tenochtitlan",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "limited",
+    "wikidata": "Q3356920",
+    "wikimedia_commons": "Category:Estación Zócalo/Tenochtitlan (Metro de México)",
+    "wikipedia": "es:Zócalo/Tenochtitlan (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5358459287,
+  "lat": 19.4439202,
+  "lon": -99.1388026,
+  "tags": {
+    "name": "Garibaldi-Lagunilla",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q1147620",
+    "wikimedia_commons": "Category:Estación Garibaldi / Lagunilla (Metro de México)",
+    "wikipedia": "es:Garibaldi-Lagunilla (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5987177477,
+  "lat": 19.5007061,
+  "lon": -99.2105365,
+  "tags": {
+    "fee": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Embarcadero Tezozomoc",
+    "power_supply": "yes",
+    "sanitary_dump_station": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6974912062,
+  "lat": 19.4211555,
+  "lon": -99.1808182,
+  "tags": {
+    "check_date": "2026-02-05",
+    "currency:MXN": "yes",
+    "fee": "90 MXN",
+    "name": "Castillo de Chapultepec",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "ticket"
+  }
+},
+{
+  "type": "node",
+  "id": 9041844803,
+  "lat": 19.3042853,
+  "lon": -99.1836601,
+  "tags": {
+    "addr:postcode": "04530",
+    "name": "Fraccionamiento Insurgentes Cuicuilco",
+    "place": "neighbourhood",
+    "source": "INEGI (CNPV 2015)",
+    "source:name": "INEGI (CNPV 2015)"
+  }
+},
+{
+  "type": "node",
+  "id": 9041879458,
+  "lat": 19.3058538,
+  "lon": -99.1900616,
+  "tags": {
+    "addr:postcode": "04530",
+    "name": "Colonia Ampliación Insurgentes Cuicuilco",
+    "place": "neighbourhood",
+    "source": "INEGI (CNPV 2015)",
+    "source:name": "INEGI (CNPV 2015)"
+  }
+},
+{
+  "type": "node",
+  "id": 9041880168,
+  "lat": 19.3020650,
+  "lon": -99.1823900,
+  "tags": {
+    "addr:postcode": "14060",
+    "name": "Colonia Zona Arqueológica de Cuicuilco",
+    "place": "neighbourhood",
+    "source": "INEGI (CNPV 2015)",
+    "source:name": "INEGI (CNPV 2015)"
+  }
+},
+{
+  "type": "node",
+  "id": 9041892921,
+  "lat": 19.3001945,
+  "lon": -99.1958015,
+  "tags": {
+    "addr:postcode": "14018",
+    "name": "Fraccionamiento Insurgentes Cuicuilco",
+    "place": "neighbourhood",
+    "source": "INEGI (CNPV 2015)",
+    "source:name": "INEGI (CNPV 2015)"
+  }
+},
+{
+  "type": "node",
+  "id": 10172128574,
+  "lat": 19.2582108,
+  "lon": -99.0644106,
+  "tags": {
+    "amenity": "boat_storage",
+    "name": "Embarcadero San Juan Moyotepec"
+  }
+},
+{
+  "type": "node",
+  "id": 10828168390,
+  "lat": 19.3002014,
+  "lon": -99.1788107,
+  "tags": {
+    "addr:housenumber": "155",
+    "addr:street": "Calle Zapote",
+    "amenity": "community_centre",
+    "name": "PILARES Cuicuilco"
+  }
+},
+{
+  "type": "node",
+  "id": 11399292896,
+  "lat": 19.4079865,
+  "lon": -99.1229090,
+  "tags": {
+    "name": "Mercado de Jamaica",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 12085564592,
+  "lat": 19.2782034,
+  "lon": -99.0078343,
+  "tags": {
+    "alt_name": "Biblioteca Central Delegacional Rosario Castellanos Figueroa",
+    "amenity": "library",
+    "name": "Biblioteca Central Rosario Castellanos",
+    "official_name": "Biblioteca Pública Central Rosario Castellanos Figueroa"
+  }
+},
+{
+  "type": "node",
+  "id": 12526124489,
+  "lat": 19.4361649,
+  "lon": -99.1406403,
+  "tags": {
+    "name": "Bellas Artes",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2541953",
+    "wikimedia_commons": "Category:Estación Bellas Artes (Metro de México)",
+    "wikipedia": "es:Bellas Artes (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 12662561163,
+  "lat": 19.4094101,
+  "lon": -99.1219076,
+  "tags": {
+    "name": "Jamaica",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3377006",
+    "wikimedia_commons": "Category:Estación Jamaica (Metro de México)",
+    "wikipedia": "es:Jamaica (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 12736564590,
+  "lat": 19.4374065,
+  "lon": -99.1466643,
+  "tags": {
+    "name": "Hidalgo",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2541914",
+    "wikimedia_commons": "Category:Estación Hidalgo (Metro de México)",
+    "wikipedia": "es:Hidalgo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094516125,
+  "lat": 19.4339894,
+  "lon": -99.0882569,
+  "tags": {
+    "name": "Terminal Aérea",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824733",
+    "wikimedia_commons": "Category:Estación Terminal Aérea (Metro de México)",
+    "wikipedia": "es:Terminal Aérea (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 14102332477,
+  "lat": 19.3756643,
+  "lon": -99.1529584,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "brand": "Ecobici",
+    "brand:wikidata": "Q5817067",
+    "name": "Ecobici Cuicuilco / Motozintla",
+    "network": "Ecobici",
+    "operator": "5M2-BKT",
+    "operator:type": "private",
+    "ref": "CE-630",
+    "wikidata": "Q137343263"
+  }
+},
+{
+  "type": "node",
+  "id": 14156206201,
+  "lat": 19.4608177,
+  "lon": -99.1122307,
+  "tags": {
+    "addr:street": "Calle Oriente 91",
+    "amenity": "cafe",
+    "check_date": "2026-09-04",
+    "check_date:opening_hours": "2026-09-04",
+    "name": "Cafetería el Embarcadero",
+    "opening_hours": "Tu-Fr 11:00-20:00; Sa 11:00-20:00; Su 14:00-20:00"
+  }
+},
+{
+  "type": "way",
+  "id": 25292352,
+  "center": {
+    "lat": 19.3764799,
+    "lon": -99.1511535
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Cuicuilco",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 25401387,
+  "center": {
+    "lat": 19.4352750,
+    "lon": -99.0822643
+  },
+  "tags": {
+    "aeroway": "terminal",
+    "building": "yes",
+    "height": "10",
+    "layer": "2",
+    "name": "Terminal 1",
+    "ref": "T1",
+    "wikidata": "Q56244777"
+  }
+},
+{
+  "type": "way",
+  "id": 26796832,
+  "center": {
+    "lat": 19.3016414,
+    "lon": -99.1816743
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "ruins",
+    "layer": "2",
+    "name": "Pirámide de Cuicuilco",
+    "official_name": "Gran basamento circular",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 26796844,
+  "center": {
+    "lat": 19.3001612,
+    "lon": -99.1866694
+  },
+  "tags": {
+    "historic": "archaeological_site",
+    "name": "Cuicuilco B / Villa Olímpica",
+    "surface": "grass",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 27283830,
+  "center": {
+    "lat": 19.3384660,
+    "lon": -99.1711618
+  },
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Cerro del Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 27582743,
+  "center": {
+    "lat": 19.4226818,
+    "lon": -99.0791743
+  },
+  "tags": {
+    "aeroway": "terminal",
+    "building": "yes",
+    "building:levels": "4",
+    "building:material": "concrete",
+    "height": "22",
+    "name": "Terminal 2",
+    "operator": "Grupo Aeroportuario de la Ciudad de México",
+    "ref": "T2"
+  }
+},
+{
+  "type": "way",
+  "id": 28920559,
+  "center": {
+    "lat": 19.2982052,
+    "lon": -99.1813403
+  },
+  "tags": {
+    "addr:housenumber": "3500",
+    "addr:postcode": "14060",
+    "addr:street": "Avenida Insurgentes Sur",
+    "building": "retail",
+    "name": "Plaza Inbursa  Cuicuilco",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 54446511,
+  "center": {
+    "lat": 19.3009287,
+    "lon": -99.1822623
+  },
+  "tags": {
+    "historic": "archaeological_site",
+    "leisure": "nature_reserve",
+    "name": "Zona Arqueológica de Cuicuilco",
+    "opening_hours": "09:00-17:00",
+    "short_name": "Cuicuilco",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 96972452,
+  "center": {
+    "lat": 19.3527959,
+    "lon": -99.1614962
+  },
+  "tags": {
+    "addr:postcode": "04100",
+    "addr:street": "Calle Ignacio Allende",
+    "alt_name": "Mercado de Coyoacán",
+    "amenity": "marketplace",
+    "building": "yes",
+    "check_date": "2026-02-08",
+    "name": "Mercado de Coyoacán",
+    "name:en": "Market of Coyoacán",
+    "name:es": "Mercado de Coyoacán",
+    "opening_hours": "Mo-Su 07:00-18:00"
+  }
+},
+{
+  "type": "way",
+  "id": 120733641,
+  "center": {
+    "lat": 19.4848445,
+    "lon": -99.1178568
+  },
+  "tags": {
+    "addr:postcode": "07050",
+    "amenity": "place_of_worship",
+    "basilica": "minor",
+    "building": "church",
+    "building:levels": "10",
+    "check_date": "2026-04-09",
+    "denomination": "catholic",
+    "name": "Basílica de Santa María de Guadalupe",
+    "name:ar": "كنيسة سيدة غوادالوبي",
+    "name:de": "Basilika Unserer Lieben Frau von Guadalupe",
+    "name:en": "Basilica of Our Lady of Guadalupe",
+    "name:fr": "Basilique Notre-Dame-de-Guadalupe de Mexico",
+    "name:it": "Basilica di Nostra Signora di Guadalupe",
+    "name:nl": "Basiliek van Guadalupe",
+    "name:pt": "Basílica de Nossa Senhora de Guadalupe",
+    "name:zh": "瓜达露佩圣母圣殿",
+    "religion": "christian",
+    "start_date": "1976",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q305419",
+    "wikimedia_commons": "Category:Nueva Basílica de Nuestra Señora de Guadalupe",
+    "wikipedia": "es:Basílica de Santa María de Guadalupe"
+  }
+},
+{
+  "type": "way",
+  "id": 131358772,
+  "center": {
+    "lat": 19.4208569,
+    "lon": -99.0805745
+  },
+  "tags": {
+    "aeroway": "terminal",
+    "building": "yes",
+    "height": "8",
+    "name": "Terminal 2",
+    "note": "pendiente confirmar altura height8",
+    "operator": "Grupo Aeroportuario de la Ciudad de México"
+  }
+},
+{
+  "type": "way",
+  "id": 146024221,
+  "center": {
+    "lat": 19.4517375,
+    "lon": -99.1361935
+  },
+  "tags": {
+    "area": "yes",
+    "footway": "yes",
+    "highway": "pedestrian",
+    "name": "Plaza de las Tres Culturas",
+    "public": "yes",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 157051087,
+  "center": {
+    "lat": 19.4354710,
+    "lon": -99.1412828
+  },
+  "tags": {
+    "addr:city": "Ciudad de México",
+    "addr:postcode": "06050",
+    "addr:street": "Avenida Juárez",
+    "architect": "Adamo Boari",
+    "building": "theatre",
+    "building:architecture": "art_deco",
+    "height": "53",
+    "name": "Palacio de Bellas Artes",
+    "wikidata": "Q1139081",
+    "wikimedia_commons": "Category:Palacio de Bellas Artes",
+    "wikipedia": "es:Palacio de Bellas Artes (Ciudad de México)"
+  }
+},
+{
+  "type": "way",
+  "id": 217011915,
+  "center": {
+    "lat": 19.2975239,
+    "lon": -99.1830771
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "name": "Plaza Cuicuilco Clientes Banco Inbursa",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 217011919,
+  "center": {
+    "lat": 19.2964506,
+    "lon": -99.1832189
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Ecológico de Cuicuilco"
+  }
+},
+{
+  "type": "way",
+  "id": 231463873,
+  "center": {
+    "lat": 19.4810210,
+    "lon": -99.1869455
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jardín Hidalgo"
+  }
+},
+{
+  "type": "way",
+  "id": 317142961,
+  "center": {
+    "lat": 19.3007329,
+    "lon": -99.1817553
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Museo de Sitio Cuicuilco",
+    "opening_hours": "09:00-17:00",
+    "operator": "INAH",
+    "tourism": "museum",
+    "wikipedia": "es:Cuicuilco"
+  }
+},
+{
+  "type": "way",
+  "id": 433756023,
+  "center": {
+    "lat": 19.4260989,
+    "lon": -99.1866414
+  },
+  "tags": {
+    "addr:city": "Ciudad de México",
+    "addr:country": "MX",
+    "addr:postcode": "11560",
+    "addr:street": "Paseo de la Reforma",
+    "charge": "90 MXN",
+    "check_date": "2026-01-22",
+    "fee": "yes",
+    "image": "https://photos.app.goo.gl/jNRz1qrZmX6Etr5t7",
+    "museum": "archaeological",
+    "name": "Museo Nacional de Antropología",
+    "nohousenumber": "yes",
+    "opening_hours": "Tu-Sa 09:00-18:00; Su 10:00-17:00",
+    "operator:type": "public",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "start_date": "1964-09",
+    "tourism": "museum",
+    "website": "https://mna.inah.gob.mx/",
+    "wheelchair": "yes",
+    "wikidata": "Q524249",
+    "wikimedia_commons": "Category:National Museum of Anthropology",
+    "wikipedia": "en:National Museum of Anthropology (Mexico)"
+  }
+},
+{
+  "type": "way",
+  "id": 437171951,
+  "center": {
+    "lat": 19.3334005,
+    "lon": -99.1873312
+  },
+  "tags": {
+    "amenity": "library",
+    "architect": "Gustavo Saavedra",
+    "building": "yes",
+    "building:levels": "14",
+    "height": "50",
+    "name": "Biblioteca Central UNAM",
+    "opening_hours": "Mo-Su,PH 08:30-21:30",
+    "start_date": "1953",
+    "wikidata": "Q5061367",
+    "wikimedia_commons": "Category:Biblioteca Central de la UNAM",
+    "wikipedia": "en:Central Library (UNAM)"
+  }
+},
+{
+  "type": "way",
+  "id": 501085727,
+  "center": {
+    "lat": 19.2613101,
+    "lon": -99.1007196
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle del Embarcadero",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 619169949,
+  "center": {
+    "lat": 19.3576750,
+    "lon": -99.1595507
+  },
+  "tags": {
+    "addr:city": "Ciudad de México",
+    "addr:housenumber": "45",
+    "addr:street": "Avenida Río Churubusco",
+    "building": "house",
+    "email": "museotrotsky@outlook.com",
+    "fee": "yes",
+    "name": "Museo Casa de León Trotsky",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "phone": "+52 55 5554 4083",
+    "tourism": "museum",
+    "website": "www.museotrotsky.org",
+    "wheelchair": "yes",
+    "wikidata": "Q4165221",
+    "wikimedia_commons": "Category:House of Leon Trotsky Museum",
+    "wikipedia": "en:Leon Trotsky House Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 661290893,
+  "center": {
+    "lat": 19.2605912,
+    "lon": -99.1007356
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Callejón Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 661591802,
+  "center": {
+    "lat": 19.2417308,
+    "lon": -99.1071912
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Cerrada Primera Vía Embarcaderos"
+  }
+},
+{
+  "type": "way",
+  "id": 661591825,
+  "center": {
+    "lat": 19.2420185,
+    "lon": -99.1068116
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Vía Embarcaderos"
+  }
+},
+{
+  "type": "way",
+  "id": 661591869,
+  "center": {
+    "lat": 19.2414073,
+    "lon": -99.1064027
+  },
+  "tags": {
+    "alt_name": "Privada Segunda Cuetlaxóchitl",
+    "highway": "residential",
+    "name": "Cerrada Embarcaderos"
+  }
+},
+{
+  "type": "way",
+  "id": 862852010,
+  "center": {
+    "lat": 19.4343934,
+    "lon": -99.1330889
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "building:levels": "2",
+    "building:levels:underground": "1",
+    "denomination": "catholic",
+    "description": "La Catedral Metropolitana de la Asunción de la Santísima Virgen María a los cielos de la Ciudad de México es la sede de la Arquidiócesis Primada de México. Se inicio su construcción en 1570.",
+    "height": "67",
+    "historic": "building",
+    "indoor": "level",
+    "level": "0",
+    "name": "Catedral Metropolitana de la Ciudad de México",
+    "religion": "christian",
+    "wall": "yes",
+    "wheelchair": "limited",
+    "wikidata": "Q610961",
+    "wikimedia_commons": "File:Zocalo cathedral.jpg",
+    "wikipedia": "es:Catedral Metropolitana de la Ciudad de México"
+  }
+},
+{
+  "type": "way",
+  "id": 862873648,
+  "center": {
+    "lat": 19.4343934,
+    "lon": -99.1330889
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "cathedral",
+    "building:levels": "2",
+    "building:levels:underground": "1",
+    "denomination": "catholic",
+    "image": "https://commons.wikimedia.org/wiki/File:Catedral_de_M%C3%A9xico.jpg",
+    "image:0": "https://photos.app.goo.gl/kgGr5rBrvy2ayUzS9",
+    "indoor": "level",
+    "level": "-1",
+    "name": "Catedral Metropolitana de la Ciudad de México",
+    "religion": "christian",
+    "wall": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q610961",
+    "wikimedia_commons": "Category:Metropolitan Cathedral of Mexico City",
+    "wikipedia": "es:Catedral Metropolitana de la Ciudad de México"
+  }
+},
+{
+  "type": "way",
+  "id": 863345125,
+  "center": {
+    "lat": 19.4343934,
+    "lon": -99.1330889
+  },
+  "tags": {
+    "indoor": "level",
+    "level": "1",
+    "name": "Catedral Metropolitana de la Ciudad de México"
+  }
+},
+{
+  "type": "way",
+  "id": 887431154,
+  "center": {
+    "lat": 19.4322895,
+    "lon": -99.1332742
+  },
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "emergency": "yes",
+    "highway": "living_street",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "motor_vehicle": "private",
+    "name": "Plaza de la Constitución",
+    "note": "Decreto en Gaceta Oficial restringe el acceso de vehículos particulares pero permite paso de vehículos de servicio, de emergencia y particulares con permiso. Calle debe mantener categoría actual hasta que se realicen modificaciones físicas a la misma.",
+    "oneway": "yes",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 906454239,
+  "center": {
+    "lat": 19.4091924,
+    "lon": -99.0007521
+  },
+  "tags": {
+    "addr:city": "Nezahualcoyotl",
+    "addr:postcode": "57000",
+    "addr:street": "Avenida Doctor Gustavo Baz",
+    "building": "cathedral",
+    "name": "Catedral Metropolitana de Cd. Nezahualcoyotl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 980770857,
+  "center": {
+    "lat": 19.2885465,
+    "lon": -99.1019384
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Cuemanco",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1164605686,
+  "center": {
+    "lat": 19.4086028,
+    "lon": -99.1227006
+  },
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mercado de Jamaica"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637217,
+  "center": {
+    "lat": 19.2969080,
+    "lon": -99.0945364
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637218,
+  "center": {
+    "lat": 19.2968150,
+    "lon": -99.0944936
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637220,
+  "center": {
+    "lat": 19.2967369,
+    "lon": -99.0944576
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637221,
+  "center": {
+    "lat": 19.2966599,
+    "lon": -99.0944221
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637222,
+  "center": {
+    "lat": 19.2965820,
+    "lon": -99.0943863
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637223,
+  "center": {
+    "lat": 19.2965037,
+    "lon": -99.0943502
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637224,
+  "center": {
+    "lat": 19.2964336,
+    "lon": -99.0943180
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1179637225,
+  "center": {
+    "lat": 19.2963715,
+    "lon": -99.0942893
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero"
+  }
+},
+{
+  "type": "way",
+  "id": 1215905691,
+  "center": {
+    "lat": 19.2927430,
+    "lon": -99.0965248
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "name": "Embarcadero",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1215918766,
+  "center": {
+    "lat": 19.2520996,
+    "lon": -99.0935365
+  },
+  "tags": {
+    "email": "Jesussanchezperez.jsp@gmail.com",
+    "facebook": "https://www.facebook.com/jesus.sanchezperez.9619/",
+    "image": "https://photos.app.goo.gl/rr1sHso4MmkY1QVW8",
+    "leisure": "marina",
+    "name": "Embarcadero Nuevo Nativitas",
+    "phone": "+52 55 1013 3063",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction",
+    "url": "https://youtu.be/eCTToNR0sls"
+  }
+},
+{
+  "type": "way",
+  "id": 1215918962,
+  "center": {
+    "lat": 19.2500393,
+    "lon": -99.0934941
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Las Flores",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1215919103,
+  "center": {
+    "lat": 19.2488460,
+    "lon": -99.0935133
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Zacapa",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1215921390,
+  "center": {
+    "lat": 19.2612577,
+    "lon": -99.1000993
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Salitre",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1215922652,
+  "center": {
+    "lat": 19.2601550,
+    "lon": -99.1003051
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero San Cristóbal",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1215924211,
+  "center": {
+    "lat": 19.2596244,
+    "lon": -99.1008730
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Belem",
+    "name:en": "Belém boats",
+    "name:pt": "Barco Belém",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1215924606,
+  "center": {
+    "lat": 19.2588493,
+    "lon": -99.1010795
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Belem de las Flores",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1215928274,
+  "center": {
+    "lat": 19.2648564,
+    "lon": -99.1080704
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Fernando Celada",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1215930340,
+  "center": {
+    "lat": 19.2606446,
+    "lon": -99.0754765
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Puente de Urrutia",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1422149499,
+  "center": {
+    "lat": 19.2966373,
+    "lon": -99.0944968
+  },
+  "tags": {
+    "amenity": "boat_rental",
+    "charge": "600.00 MXN",
+    "check_date": "2023-10-20",
+    "fee": "yes",
+    "leisure": "marina",
+    "name": "Embarcadero Cuemanco Parque Ecológico",
+    "payment:cash": "yes",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "way",
+  "id": 1423783282,
+  "center": {
+    "lat": 19.4349171,
+    "lon": -99.1314871
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "ruins",
+    "historic:civilization": "prehispanic",
+    "layer": "-1",
+    "name": "Templo Mayor",
+    "ruins": "temple",
+    "wikidata": "Q774021",
+    "wikimedia_commons": "Category:Templo Mayor - Main Pyramid",
+    "wikipedia": "es:Templo Mayor"
+  }
+},
+{
+  "type": "way",
+  "id": 1429754628,
+  "center": {
+    "lat": 19.2610507,
+    "lon": -99.0969487
+  },
+  "tags": {
+    "leisure": "marina",
+    "name": "Embarcadero Caltongo",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "way",
+  "id": 1461240614,
+  "center": {
+    "lat": 19.4622569,
+    "lon": -99.0748307
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "quay",
+    "material": "concrete",
+    "mooring": "no",
+    "name": "Antiguo Embarcadero del lago Bosque de San Juan de Aragon"
+  }
+},
+{
+  "type": "way",
+  "id": 1513870072,
+  "center": {
+    "lat": 19.4329098,
+    "lon": -99.1340713
+  },
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "emergency": "yes",
+    "highway": "living_street",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "motor_vehicle": "private",
+    "name": "Plaza de la Constitución",
+    "note": "Decreto en Gaceta Oficial restringe el acceso de vehículos particulares pero permite paso de vehículos de servicio, de emergencia y particulares con permiso. Calle debe mantener categoría actual hasta que se realicen modificaciones físicas a la misma.",
+    "oneway": "yes",
+    "parking:both": "no",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1513870150,
+  "center": {
+    "lat": 19.4326537,
+    "lon": -99.1327792
+  },
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "emergency": "yes",
+    "highway": "living_street",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "motor_vehicle": "private",
+    "name": "Plaza de la Constitución",
+    "note": "Decreto en Gaceta Oficial restringe el acceso de vehículos particulares pero permite paso de vehículos de servicio, de emergencia y particulares con permiso. Calle debe mantener categoría actual hasta que se realicen modificaciones físicas a la misma.",
+    "oneway": "yes",
+    "parking:both": "no",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1513870151,
+  "center": {
+    "lat": 19.4332675,
+    "lon": -99.1336817
+  },
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "emergency": "yes",
+    "highway": "living_street",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "motor_vehicle": "private",
+    "name": "Plaza de la Constitución",
+    "note": "Decreto en Gaceta Oficial restringe el acceso de vehículos particulares pero permite paso de vehículos de servicio, de emergencia y particulares con permiso. Calle debe mantener categoría actual hasta que se realicen modificaciones físicas a la misma.",
+    "oneway": "yes",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "relation",
+  "id": 6191295,
+  "center": {
+    "lat": 19.4325511,
+    "lon": -99.1311199
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "06070",
+    "addr:street": "Plaza de la Constitución",
+    "building": "public",
+    "building:levels": "3",
+    "building:material": "brick",
+    "castle_type": "palace",
+    "historic": "castle",
+    "name": "Palacio Nacional",
+    "name:en": "National Palace",
+    "name:hi": "राष्ट्रीय महल",
+    "name:ko": "국립궁전",
+    "roof:shape": "flat",
+    "type": "multipolygon",
+    "wikidata": "Q1517884",
+    "wikipedia": "es:Palacio Nacional (México)"
+  }
+},
+{
+  "type": "relation",
+  "id": 7902754,
+  "center": {
+    "lat": 19.4324070,
+    "lon": -99.1323398
+  },
+  "tags": {
+    "name": "Zócalo",
+    "network": "STC Metro",
+    "public_transport": "stop_area",
+    "type": "public_transport"
+  }
+},
+{
+  "type": "relation",
+  "id": 14549034,
+  "center": {
+    "lat": 19.3317338,
+    "lon": -99.1923436
+  },
+  "tags": {
+    "capacity": "63189",
+    "leisure": "stadium",
+    "name": "Estadio Olímpico Universitario",
+    "name:es": "Estadio Olímpico Universitario",
+    "name:ru": "Олимпийский стадион",
+    "operator": "Pumas, Club Universidad Nacional A.C.",
+    "sport": "multi",
+    "start_date": "1952-11-20",
+    "type": "multipolygon",
+    "website": "http://www.dgsg.unam.mx/estadio.htm",
+    "wikidata": "Q767558",
+    "wikipedia": "es:Estadio Olímpico Universitario"
+  }
+},
+{
+  "type": "relation",
+  "id": 15985584,
+  "center": {
+    "lat": 19.4407292,
+    "lon": -99.1390698
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Plaza Garibaldi",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wikidata": "Q1471225",
+    "wikipedia": "en:Plaza Garibaldi"
+  }
+},
+{
+  "type": "relation",
+  "id": 19430125,
+  "center": {
+    "lat": 19.4326372,
+    "lon": -99.1331926
+  },
+  "tags": {
+    "alt_name": "Zócalo",
+    "architect": "Alonso García Bravo",
+    "highway": "pedestrian",
+    "lit": "no",
+    "loc_name": "Zócalo",
+    "name": "Plaza de la Constitución",
+    "name:de": "Platz der Verfassung",
+    "name:en": "Constitution Square",
+    "name:fr": "Place de la Constitution",
+    "name:it": "Piazza della Costituzione",
+    "name:ko": "쏘깔로 광장",
+    "name:pt": "Praça da Constituição",
+    "note": "El nombre formal del sitio es Plaza de la Constitución, pues así está indicado en la dirección postal de los edificios aledaños, hay una placa en el Antiguo Palacio del Ayuntamiento que así lo atestigua y hay muchos documentos formales que así la nombran.",
+    "old_name": "Plaza Mayor",
+    "place": "square",
+    "start_date": "1524",
+    "surface": "paving_stones",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wheelchair": "limited",
+    "wikidata": "Q1348507",
+    "wikipedia": "es:Plaza de la Constitución (Ciudad de México)"
+  }
+}
+
+  ]
+}

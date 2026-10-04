@@ -1,0 +1,86 @@
+{
+  "high_level_description": "A small neighbourhood corner shop in Mexico City with a cheerful shopkeeper in his sixties behind the counter, shelves of colourful snacks and drinks behind him.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "The open front of a little shop on a street corner, its walls painted bright yellow, with a hand-painted awning and no readable words.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          300,
+          700,
+          700
+        ],
+        "desc": "A cheerful round-faced man of about sixty-five with grey hair, glasses and an apron over a checked shirt, leaning on the counter and smiling.",
+        "color_palette": [
+          "#F2C9A0",
+          "#2E6F8E",
+          "#FFFFFF"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          560,
+          1000
+        ],
+        "desc": "Shelves packed with colourful bottles of soft drinks, bags of crisps, loaves of bread and sweets, with no readable labels.",
+        "color_palette": [
+          "#B8402A",
+          "#E8A33D",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          620,
+          50,
+          900,
+          950
+        ],
+        "desc": "A wooden counter with a glass jar of sweets and a small basket of bread rolls.",
+        "color_palette": [
+          "#5B3A29",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          560,
+          820,
+          960,
+          1000
+        ],
+        "desc": "Stacked crates of glass bottles beside the counter.",
+        "color_palette": [
+          "#3F7D4E",
+          "#E9D3A1"
+        ]
+      }
+    ]
+  }
+}

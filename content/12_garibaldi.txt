@@ -1,0 +1,83 @@
+@id garibaldi
+@name Plaza Garibaldi
+@short Garibaldi
+@zone Centro Histórico · la despedida
+@geo 19.44073 -99.13907 centre r
+@focus 0.42
+@route Metro Garibaldi-Lagunilla, líneas 8 y B, al norte de Bellas Artes por el Eje Central.
+@blurb La plaza de los mariachis. El semestre se acaba y la familia Hernández te lleva a despedirte de la ciudad con música.
+@goal Contratar una canción, dedicarla, brindar y despedirte de tu familia anfitriona.
+
+== mariachi | Una canción para la familia ==
+N: Es diciembre, tu última semana en México. Arturo propone ir a Garibaldi. La plaza está llena de grupos de mariachis con trajes negros con botones plateados y sombreros enormes. Todos tocan al mismo tiempo, cada uno una canción distinta.
+ARTURO: Aquí los mariachis esperan a que la gente los contrate. Se paga por canción. Hoy invitas tú, ¿eh? Es tradición: el que se va, invita la canción. Ja, ja, es broma… bueno, no tanto.
+Q: ¿Cómo se paga a los mariachis en Garibaldi?
+  * Por canción. || Los grupos esperan en la plaza y cobran cada canción.
+  - Por hora, como la trajinera. || Pueden contratarse por hora para fiestas, pero en la plaza es por canción.
+  - No se paga nada: es gratis. || Es su trabajo: se paga.
+FIDEL: Buenas noches, ¿una canción? Nosotros tocamos lo que usted guste: rancheras, boleros, sones. El precio es por canción.
+T: Pregúntale cuánto cobran por canción.
+  = ¿Cuánto cobran por canción?
+  = ¿Cuánto cuesta una canción?
+  = ¿Cuánto cobran por una canción?
+  = ¿Cuánto es por canción?
+  = ¿Cuánto cuesta la canción?
+  = Buenas noches, ¿cuánto cobran por canción?
+  ! «¿Cuánto cobran por canción?»
+FIDEL*: Para ustedes, doscientos cincuenta la canción. Si son tres, se las dejo en seiscientos. ¿Cuál quieren? ¿«El Rey», «Cielito lindo», «Volver, volver»?
+Q: ¿Cuánto cuestan tres canciones?
+  * Seiscientos pesos. || Una sola cuesta doscientos cincuenta; tres, con descuento, seiscientos.
+  - Setecientos cincuenta pesos. || Eso sería sin descuento.
+  - Doscientos cincuenta pesos. || Ese es el precio de una sola.
+C: Solo quieres una canción. ¿Qué dices?
+  * Solo una, por favor. «{{Cielito lindo|'Cielito lindo', a classic Mexican song}}». || Claro y directo. Es la canción más famosa del mundo hispano.
+  ~ Una canción. || Te van a preguntar cuál.
+  - Quiero tres por favor pero solo una. || Contradictorio: elige una cosa.
+FIDEL*: ¡Muy buena elección! ¿Se la dedicamos a alguien? Si quiere, la dedicamos con nombre, al principio de la canción.
+C: Quieres dedicársela a tu familia anfitriona. ¿Qué dices?
+  * Sí, para la familia Hernández, por {{recibirme como en casa|welcoming me as if at home}}. || Una dedicatoria perfecta para el final del semestre.
+  ~ Sí, para Rocío. || Bonito, pero Arturo y Diego también estuvieron ahí.
+  - Sí, dedico a la familia. || El verbo necesita el pronombre: «se la dedico a la familia», o mejor «para la familia».
+FIDEL: Con mucho gusto. Esta va con cariño para la familia Hernández, de parte de alguien que hoy se despide de México. ¡Uno, dos, tres!
+N: Las trompetas empiezan. Rocío ya está llorando. Cuando llega el coro, toda la plaza canta.
+ROCIO: «Ay, ay, ay, ay, canta y no llores…» ¡Ay, qué bonito! Ya me hiciste llorar.
+Q: ¿Por qué llora Rocío?
+  * Porque está emocionada por la canción y la despedida. || Llanto de emoción, no de tristeza. Y justo canta «canta y no llores».
+  - Porque no le gusta la canción. || Dice «¡qué bonito!».
+  - Porque los mariachis cobraron mucho. || No tiene que ver con el precio.
+K: El mariachi || Es una música tradicional del occidente de México, sobre todo de Jalisco, con violines, trompetas, guitarras, vihuela y guitarrón. En 2011 la UNESCO lo declaró patrimonio cultural inmaterial de la humanidad. En la Ciudad de México, la Plaza Garibaldi es su casa desde hace más de un siglo.
+K: Garibaldi de noche || La plaza está llena de vida de noche, pero las calles de alrededor pueden ser peligrosas. Ve en grupo, llega y sal en taxi o por la estación de metro, y no muestres mucho dinero.
+
+== despedida | Gracias por todo ==
+N: Después de la música, cenan pozole en un restaurante de la plaza. Arturo pide una ronda de tequila y Diego, una de refrescos. Arturo levanta su copa.
+ARTURO: Bueno, antes de que se nos olvide. Hace cuatro meses llegó a nuestra casa alguien que no sabía que el agua de la llave no se toma. Hoy pide tacos «con todo» mejor que yo. ¡Salud!
+Q: ¿Qué quiere decir Arturo con su brindis?
+  * Que has aprendido mucho durante el semestre. || Del agua de la llave a los tacos: todo un cambio.
+  - Que no sabes pedir tacos. || Al contrario: dice que los pides mejor que él.
+  - Que vas a volver el próximo año. || No habla del futuro.
+C: Es tu turno de hablar. ¿Qué dices?
+  * Muchas gracias por todo. {{Me hicieron sentir|you (all) made me feel}} en casa. || Un brindis perfecto: corto, sincero y en plural, para toda la familia.
+  ~ Gracias, salud. || Correcto, pero se espera algo más personal.
+  - Muchas gracias por todo. Me hicisteis sentir en casa. || «Hicisteis» es de España (vosotros). En México, para varias personas: «ustedes me hicieron».
+ROCIO: ¡Ay, no! Ya me vas a hacer llorar otra vez. Tú también nos enseñaste muchas cosas, ¿eh? Diego ya hasta habla inglés en la cena.
+DIEGO: Bueno, un poquito, ja, ja. Oye, ¿y cuándo vas a regresar? Tienes que venir otra vez, ¿eh? En verano, para ir a Oaxaca juntos.
+T: Dile a la familia que los vas a extrañar mucho.
+  = Los voy a extrañar mucho.
+  = Los voy a extrañar muchísimo.
+  = Voy a extrañarlos mucho.
+  = Los voy a extrañar mucho a todos.
+  = Los voy a extrañar a todos.
+  = Los voy a extrañar.
+  ! «Los voy a extrañar mucho.» En México se dice «extrañar»; en España, más «echar de menos».
+ARTURO*: Y nosotros a ti. Aquí tienes tu casa. Cuando quieras volver, tu cuarto te espera. Y si conoces a otro estudiante que venga a la UNAM, mándalo con nosotros.
+Q: ¿Qué te dice Arturo al final?
+  * Que puedes volver cuando quieras. || «Aquí tienes tu casa. Tu cuarto te espera.»
+  - Que van a cambiar el cuarto. || No: dice que te espera.
+  - Que no quieren más estudiantes. || Al contrario: te pide que les mandes otro.
+C: Quieres prometer que vas a volver. ¿Qué dices?
+  * Les prometo que {{voy a volver|I'm going to come back}}. ¡Y les escribo todas las semanas! || Una promesa cálida, con «ustedes» para toda la familia.
+  ~ Sí, voy a volver. || Bien, aunque más frío.
+  - Les prometo que volveré, si Dios quiera. || La expresión es «si Dios quiere», con indicativo.
+ROCIO: Más te vale. ¡Y nada de «ahorita te escribo», eh! Que ya sabes lo que significa «ahorita».
+N: Todos se ríen. Afuera, en la plaza, otro mariachi empieza a tocar «Las golondrinas», la canción de las despedidas.
+K: Despedirse en México || «Los voy a extrañar», «gracias por todo», «aquí tienes tu casa», «cuídense mucho», «nos estamos viendo». Las despedidas mexicanas son largas: es normal decir adiós tres veces antes de irse de verdad.

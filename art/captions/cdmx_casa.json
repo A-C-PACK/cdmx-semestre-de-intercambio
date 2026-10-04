@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The front of a charming family house on a quiet street in Coyoacán, Mexico City, with a warm smiling woman of about fifty opening a green door, bougainvillea spilling over the wall.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Mexico City; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright high-altitude sunlight with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#C2477A"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A quiet cobbled street of low colourful houses under a clear sky, with a tree casting soft shade.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          180,
+          100,
+          900,
+          900
+        ],
+        "desc": "A two-storey house painted terracotta with a green wooden front door and a small wrought-iron balcony.",
+        "color_palette": [
+          "#D9622B",
+          "#3F7D4E",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          380,
+          380,
+          880,
+          640
+        ],
+        "desc": "A woman of about fifty with dark hair tied back and a colourful embroidered blouse, standing in the doorway with her arms open in welcome.",
+        "color_palette": [
+          "#F2C9A0",
+          "#FFFFFF",
+          "#C2477A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          100,
+          0,
+          520,
+          380
+        ],
+        "desc": "Bright magenta bougainvillea cascading over the top of the wall.",
+        "color_palette": [
+          "#C2477A",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          800,
+          620,
+          980,
+          900
+        ],
+        "desc": "A small friendly brown dog sitting on the pavement.",
+        "color_palette": [
+          "#5B3A29",
+          "#E8A33D"
+        ]
+      }
+    ]
+  }
+}
